@@ -2,6 +2,7 @@
 
 # TODO: write program to SQLite3 database-ify these
 # TODO: write program to check which servers are down
+# TODO: some servers require IP address and won't resolve hostnames: note these
 
 # NOTE: initial version(s) may be very raw and not really usable
 # NOTE: the lat/lon format is somewhat ugly
