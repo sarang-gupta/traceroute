@@ -36,23 +36,19 @@ sub traceroute {
 
   my($cmd) = "curl -N -s '$url' $post_data";
   print "COMMAND: $cmd\n";
-  open(A,"$cmd|");
+  my($pid) = open(A,"$cmd|");
 
   while (<A>) {
     # TODO: maybe timeout if next line takes too long to show up
     # If I see "tristar" more than twice, end
     print "GOT: $_\n";
-
-    if (/\*\s+\*\s+\*/ && ++$tristar>=2) {
-      print "CONDITION TRIGGERED!\n";
-      last;
-    }
     $result .= $_;
+    if (/\*\s+\*\s+\*/ && ++$tristar>=2) {last;}
   }
 
-  print "LOOP EXITED!\n";
+  # curl doesn't respond to SIGPIPE, so kill it so I can close the fh
+  system("kill $pid");
   close(A);
-  print "A CLOSED!\n";
 
   open(A,">$tmpfile");
   print A $result;
