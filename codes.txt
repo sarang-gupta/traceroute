@@ -1,5 +1,54 @@
-# List mapping codes to cities. The format "code|city" and city can be
+# List mapping codes to cities. The format "city<tab>code[s]" and city can be
 # in any format cityfind.sarangconsulting.com (which doesn't exist
 # yet, but will soon) handles. If cityfind can already find a city
 # from its code, no need to put it here
-Amsterdamamt|amsterdam
+
+# TODO: convert to db, since direct lookup is probably inefficient
+
+Amsterdam  Amsterdamamt,amd
+Atlanta	   Atlantaald,AtlantaPaix
+Boston	   Bostonbo
+Brussels   Brusselsbrl
+Chicago	   Chicagochd,ChicagoEquinix
+Dallas	   Dallasdan
+Denver	   Denverden
+Elk Grove  ElkGrovech
+El Segundo Elsegundola
+Frankfurt  Frankfurtfix,Frankfurtfri
+Houston	   Houstonhob
+Kansas City	KansasCitykcd
+London Londonlnt,Londonlnx,Londonlo
+Amherst, MA	ma.amhr
+Cambridge, MA	ma.cmbr
+Lowell, MA	ma.lwll
+Needham, MA	ma.ndhm
+Quincy, MA	ma.qncy
+Warren, MA	ma.wrrn
+Miami		Miamimi,mia
+Minneapolis	Minneapolismpn
+New York	NewYorknyr,NewYorkny
+Dover, NH	nh.dovr
+Oakbrook	Oakbrookch
+Palo Alto	PaloAltoPaix
+Paris		par,Parispat,Parispav
+Philadelphia	Philadelphiaphy
+Reston		Restonrst,Restondc
+San Francisco	SanFranciscosfd
+San Jose, CA	SanJoseEquinix, SanJosesj
+Santa Clara, CA	SantaClarasc
+Seattle	     Seattlesel
+Zurich	     Zurichzuh
+
+
+
+
+
+
+
+
+
+
+
+
+
+

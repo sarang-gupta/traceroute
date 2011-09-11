@@ -6,6 +6,8 @@
 # also creates sorted list of reversed hosts, much easier than looking
 # at normally-sorted host list
 
+# TODO: this should only include UNMATCHED hosts, not all!
+
 require "tracelib.pl";
 
 open(A,"hosts/hostnames.txt");

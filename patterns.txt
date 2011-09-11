@@ -2,5 +2,5 @@
 net\.[alter|level3]\.(.*?)\d*\.
 net\.sprintlink\.sl\.[bb|gw]\d\d\-(.*?)\-
 com\.rr\.[.*?]\.(.{6})
-net\.cw\.(.*?)\.
+net\.cw\.(.*?)\d*\.
 net\.attbb\.(.{2})\.(.{4})
