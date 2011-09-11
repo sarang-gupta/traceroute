@@ -1,2 +1,8 @@
 This is a fresh start for the TRACEROUTE project which attempts to
 identify router/host locations using traceroute and pattern matching.
+
+# TODO: sort patterns by length, longer ones first, so that more
+# specific patterns match first (even if not given first in
+# patterns.txt)
+
+
