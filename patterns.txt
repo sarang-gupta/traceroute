@@ -1,0 +1,7 @@
+# These patterns are written against the reversed hostname
+net\.[alter|level3]\.(.*?)\d*\.
+net\.sprintlink\.sl\.[bb|gw]\d\d\-(.*?)\-
+com\.rr\.[.*?]\.(.{6})
+net\.cw\.(.*?)\.
+net\.attbb\.(.*{2})\.(.*{4})
+
