@@ -1,0 +1,3 @@
+# IP ranges that map to locations: IPrange<tab>location<tab>comments (optional)
+# Currently just one record to establish format
+129.24.0.0-129.24.255.255   Albuquerque	 UNM
