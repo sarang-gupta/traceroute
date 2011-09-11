@@ -1,0 +1,5 @@
+# List mapping codes to cities. The format "code|city" and city can be
+# in any format cityfind.sarangconsulting.com (which doesn't exist
+# yet, but will soon) handles. If cityfind can already find a city
+# from its code, no need to put it here
+Amsterdamamt|amsterdam

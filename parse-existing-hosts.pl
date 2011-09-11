@@ -17,6 +17,7 @@ close(A);
 # and now hosts
 
 open(B,"hosts/hostnames.txt");
+open(C,">hosts/current-codematches.txt");
 
 while (<B>) {
   chomp();
@@ -27,11 +28,16 @@ while (<B>) {
   # check against all patterns, abort when found
   for $j (@patterns) {
     # TODO: decide if I want this case-sensitive (may be useful, actually)
-    if ($reverse=~/$j/) {
-      print "MATCH: $_ $j\n";
+    if (@capture = ($reverse=~m/$j/)) {
+      # join @capture with dots as code (code first for sorting)
+      print C join(".",@capture)."\t$_\n";
+      last;
     }
   }
 }
+
+close(C);
+system("sort -o hosts/current-codematches.txt hosts/current-codematches.txt");
 
 
 
