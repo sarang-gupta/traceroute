@@ -15,7 +15,10 @@ Returns filename containing result
 
 sub traceroute {
   my($url, $target, $post_data) = @_;
-  my($dflag);
+  my($dflag, $tristar, $result);
+  local(*A);
+  # TODO: make this local?
+  $|=1;
 
   # Substitute actual IP address
   $url=~s/%IP%/$target/isg;
@@ -31,10 +34,32 @@ sub traceroute {
   # only use -d if needed
   if ($post_data) {$dflag="-d '$post_data'";}
 
-  my($cmd) = "curl -o $tmpfile '$url' $post_data";
+  my($cmd) = "curl -N -s '$url' $post_data";
   print "COMMAND: $cmd\n";
+  open(A,"$cmd|");
+
+  while (<A>) {
+    # TODO: maybe timeout if next line takes too long to show up
+    # If I see "tristar" more than twice, end
+    print "GOT: $_\n";
+
+    if (/\*\s+\*\s+\*/ && ++$tristar>=2) {
+      print "CONDITION TRIGGERED!\n";
+      last;
+    }
+    $result .= $_;
+  }
+
+  print "LOOP EXITED!\n";
+  close(A);
+  print "A CLOSED!\n";
+
+  open(A,">$tmpfile");
+  print A $result;
+  close(A);
+
+  # TODO: put results in file!
   # TODO: error checking
-  system($cmd);
   return $tmpfile;
 }
 
