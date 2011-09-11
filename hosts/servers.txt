@@ -1,0 +1,100 @@
+# List of servers in text format, since that's easier to edit than a database
+
+# TODO: write program to SQLite3 database-ify these
+# TODO: write program to check which servers are down
+
+# NOTE: initial version(s) may be very raw and not really usable
+# NOTE: the lat/lon format is somewhat ugly
+
+# EXAMPLE: 23s3251 means 22 degrees, 32 minutes, 51 seconds south;
+# seconds are normally excluded, however
+
+# %IP% is replaced by target IP
+
+# post = post data, only if required
+
+location = Stanford, CA, USA
+latlon = 37n25,122w10
+url = http://www.slac.stanford.edu/cgi-bin/nph-traceroute.pl?target=%IP%
+
+location = Potchefstroom, South Africa
+latlon = 26s46,27e01
+url = http://utl-lnx1.puk.ac.za/cgi-bin/webutil
+post = action=traceroute&webaddress=%IP%
+
+location = Sao Paulo, Brazil
+latlon = 23s3251,46w3810
+url = http://ping.unesp.br/cgi-bin/traceroute.pl?target=%IP%
+
+location = Hiroshima, Japan
+latlon= 34n24,132e27
+url = http://www.tumori.nu/cgi-bin/traceroute.cgi?Host=%IP%&IP=4
+
+location = Jakarta, Indonesia
+latlon = 6s10,106e48
+url = http://www.centralonline.net/traceroute/networking_utils.php
+post = webaddress=%IP%&action=traceroute
+
+location = Auckland, New Zealand
+latlon = 36s52,174e46
+url = http://www.kcbbs.gen.nz/cgi-bin/trace?%IP%
+
+location = Sumskoje, Ukraine
+latlon = 50n07,26e07
+url = http://lg.telesweet.net/index.php?host=%IP%&submit=Trace!&argument=
+
+location = Santiago, Chile
+latlon = 33s27,70w40
+url = http://lg.telmexchile.cl/trace.php?host=%IP%&submit=Traceroute!
+
+location = Beijing, China
+latlon = 39n55,116e24
+url = http://v-www.ihep.ac.cn/cgi-bin/traceroute.pl?target=%IP%
+
+location = Sydney, Australia
+latlon = 33s52,151e13
+url = http://www.nswrno.net.au/cgi-bin/trace?%IP%
+
+location = Lisbon, Portugal
+latlon = 38n43,9w08
+url = http://glass.cprm.net/cgi-bin/traceroute.cgi?%IP%
+
+location = Torshavn, Faroe Islands
+latlon = 62n01,6w46
+url = http://netcon.internet.fo/cgi-bin/nph-traceroute.pl?%IP%
+
+location = La Paz, Bolivia
+latlon = 16s30,68w09
+url = http://trace.megalink.com/index.php?host=%IP%&submit=Traceroute!
+
+location = Ottawa, Canada
+latlon = 45n25,75w42
+url = http://traceroute.physics.carleton.ca/cgi-bin/traceroute.pl?target=%IP%
+
+location = Bombay, India
+latlon = 18n58,72e50
+url = http://202.71.136.244/cgi-bin/trace/trace.pl?target=%IP%&id=1
+
+location = Perth, Australia
+latlon = 31s57,115e51
+url = http://network.fasthit.net/cgi-bin/trace?%IP%
+
+location = Athens, Greece
+latlon = 37n58,23e43
+url = http://www.ntua.gr/cgi-bin/rtracert?name=%IP%
+
+location = Santa Fe, Argentina
+latlon = 31s38,60w42
+url = http://www.telvgg.coop/cgi-bin/trace.cgi?destino=%IP%
+
+location = Espoo, Finland
+latlon = 60n13,24e40
+url = http://www.csc.fi/cgi-bin/nph-traceroute?%IP%
+
+location = Warrington, UK
+latlon = 53n24,2w37
+url = http://icfamon.dl.ac.uk/cgi-bin/traceroute.pl?target=%IP%
+
+location = Bangkok, Thailand
+latlon = 13n45,100e31
+url = http://speedtest.trueinternet.co.th/speedtest/php-trace.php?host=%IP%&submit=Traceroute!
