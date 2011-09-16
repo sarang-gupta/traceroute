@@ -2,6 +2,9 @@ hostnames.txt: The list of hostnames I've seen while running the
 TRACEROUTE project previously; acts as a good test for new patterns/etc
 
 all-traceroutes.txt.bz2: raw output from all traceroutes the
-traceroute project has performed
+traceroute project has performed (including "Subject" which often
+shows source/target, and "Date" which shows date)
+
+
 
 
