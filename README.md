@@ -3,6 +3,14 @@ Project, this git repo provides information that may be useful to
 others interested in geolocation. The files in this directory (see
 also the README.md in hosts/):
 
+  - codecity.txt.bz2: CSV file that converts from codes to city
+  names. This is *probably* the most recent version I have, but will
+  update if I find a more recent version. Most fields are
+  self-explanatory: things like "20021225.164639" in the comments
+  field indicate the time (in yyyymmdd.hhmmss format, US Mountain
+  Time) at which I added the code/city translation (not sure how
+  useful that is, though)
+
   - most-needed.pl: Perl script that counts the TLDs, 2nd level
   domains, 3rd level domains, etc of all hosts in hosts/hostnames.txt,
   to see which "domains" appear most frequently in my records.
