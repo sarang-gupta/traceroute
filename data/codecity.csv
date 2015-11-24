@@ -1,0 +1,3704 @@
+code,city,state,country,comments,junk,oid
+phx,Phoenix,AZ,USA,NULL,NULL,1
+lax,Los Angeles,CA,USA,NULL,NULL,2
+sac,Sacramento,CA,USA,NULL,NULL,3
+sjc,San Jose,CA,USA,NULL,NULL,4
+dfw,Fort Worth,TX,USA,NULL,NULL,5
+ftw,Fort Worth,TX,USA,NULL,NULL,6
+abq,Albuquerque,NM,USA,NULL,NULL,7
+bos,Boston,MA,USA,NULL,NULL,8
+nyc,New York,NY,USA,NULL,NULL,9
+sfo,San Francisco,CA,USA,NULL,NULL,10
+albuquerque,Albuquerque,NM,USA,NULL,NULL,11
+san-jose,San Jose,CA,USA,NULL,NULL,12
+pao,Palo Alto,CA,USA,NULL,NULL,13
+sanjose,San Jose,CA,USA,NULL,NULL,14
+nycmny,New York,NY,USA,NULL,NULL,15
+bstnma,Boston,MA,USA,NULL,NULL,16
+cambridge,Cambridge,MA,USA,NULL,NULL,17
+sea,Seattle,WA,USA,NULL,NULL,18
+por,Portland,OR,USA,NULL,NULL,19
+paloalto,Palo Alto,CA,USA,NULL,NULL,20
+chcgil,Chicago,IL,USA,NULL,NULL,21
+nchicago,North Chicago,IL,USA,NULL,NULL,22
+dnv-co,Denver,CO,USA,NULL,NULL,23
+alb-nm,Albuquerque,NM,USA,NULL,NULL,24
+dlstx,Dallas,TX,USA,NULL,NULL,25
+la2ca,Los Angeles,CA,USA,NULL,NULL,26
+sffca,San Francisco,CA,USA,NULL,NULL,27
+atl,Atlanta,GA,USA,NULL,NULL,28
+snjsca,San Jose,CA,USA,NULL,NULL,29
+mtvwca,Mountain View,CA,USA,NULL,NULL,30
+chi,Chicago,IL,USA,NULL,NULL,31
+bdl,Hartford,CT,USA,NULL,NULL,32
+dca,Washington,DC,USA,NULL,NULL,33
+snv,Sunnyvale,CA,USA,NULL,NULL,34
+losangeles,Los Angeles,CA,USA,NULL,NULL,35
+dallas,Dallas,TX,USA,NULL,NULL,36
+atlanta,Atlanta,GA,USA,NULL,NULL,37
+washington,Washington,DC,USA,NULL,NULL,38
+newyork,New York,NY,USA,NULL,NULL,39
+sttlwa,Seattle,WA,USA,NULL,NULL,40
+stlsmo,St. Louis,MO,USA,NULL,NULL,41
+stl,St. Louis,MO,USA,NULL,NULL,42
+ord,Chicago,IL,USA,NULL,NULL,43
+scl,Santa Clara,CA,USA,NULL,NULL,44
+iad,Washington,DC,USA,NULL,NULL,45
+hou,Houston,TX,USA,NULL,NULL,46
+albqnm,Albuquerque,NM,USA,NULL,NULL,47
+phl,Philadelphia,PA,USA,NULL,NULL,48
+lnmtco,Longmont,CO,USA,NULL,NULL,49
+clevoh,Cleveland,OH,USA,NULL,NULL,50
+bflony,Buffalo,NY,USA,NULL,NULL,51
+slt,Salt Lake City,UT,USA,NULL,NULL,52
+tpa,Tampa,FL,USA,NULL,NULL,53
+cph,Copenhagen,NULL,Denmark,NULL,NULL,54
+mae-west,San Jose,CA,USA,NULL,NULL,55
+mae-east,Washington,DC,USA,NULL,NULL,56
+detroit,Detroit,MI,USA,NULL,NULL,57
+santaclara,Santa Clara,CA,USA,NULL,NULL,58
+elpa,El Paso,TX,USA,NULL,NULL,59
+ftwo,Fort Worth,TX,USA,NULL,NULL,60
+mkc,Kansas City,MO,USA,NULL,NULL,61
+dal,Dallas,TX,USA,NULL,NULL,62
+kcm,Kansas City,MO,USA,NULL,NULL,63
+den,Denver,CO,USA,NULL,NULL,64
+ltrkar,Little Rock,AR,USA,NULL,NULL,65
+bwi,Baltimore,MD,USA,NULL,NULL,66
+plalca,Palo Alto,CA,USA,NULL,NULL,67
+sanfrancisco,San Francisco,CA,USA,NULL,NULL,68
+desmia,Des Moines,IA,USA,NULL,NULL,69
+kans,Kansas City,MO,USA,NULL,NULL,70
+kansascity,Kansas City,MO,USA,NULL,NULL,71
+omahne,Omaha,NE,USA,NULL,NULL,72
+msp,Minneapolis,MN,USA,NULL,NULL,73
+scrmca,Sacramento,CA,USA,NULL,NULL,74
+ptldor,Portland,OR,USA,NULL,NULL,75
+nuq,Mountain View,CA,USA,NULL,NULL,76
+ind,Indianapolis,IN,USA,NULL,NULL,77
+ana,Anaheim,CA,USA,NULL,NULL,78
+che,Cheyenne,WY,USA,NULL,NULL,79
+dc,Washington,DC,USA,NULL,NULL,80
+fw,Fort Worth,TX,USA,NULL,NULL,81
+kc,Kansas City,MO,USA,NULL,NULL,82
+orl,Orlando,FL,USA,NULL,NULL,83
+pen,Pennsauken,NJ,USA,NULL,NULL,84
+rel,Relay,MD,USA,NULL,NULL,85
+mch,Munich,NULL,Germany,NULL,NULL,86
+sj,San Jose,CA,USA,NULL,NULL,87
+stk,Stockton,CA,USA,NULL,NULL,88
+cmdnng,Camden,NJ,USA,NULL,NULL,89
+cmdnnj,Camden,NJ,USA,NULL,NULL,90
+bltmmd,Baltimore,MD,USA,NULL,NULL,91
+sndgca,San Diego,CA,USA,NULL,NULL,92
+atlnga,Atlanta,GA,USA,NULL,NULL,93
+phnxaz,Phoenix,AZ,USA,NULL,NULL,94
+iowact,Iowa City,IA,USA,NULL,NULL,95
+wdc,Washington,DC,USA,NULL,NULL,96
+london,London,NULL,United Kingdom,NULL,NULL,97
+madrid,Madrid,NULL,Spain,NULL,NULL,98
+ams,Amsterdam,NULL,Netherlands,NULL,NULL,99
+oma,Omaha,NE,USA,NULL,NULL,100
+tamqfl,Tampa,FL,USA,NULL,NULL,101
+eugnor,Eugene,OR,USA,NULL,NULL,102
+ewr,Newark,NJ,USA,NULL,NULL,103
+jfk,New York,NY,USA,NULL,NULL,104
+sji-ca,San Jose,CA,USA,NULL,NULL,105
+kcy,Kansas City,MO,USA,NULL,NULL,106
+perth,Perth,NULL,Australia,NULL,NULL,107
+sydney,Sydney,NULL,Australia,NULL,NULL,108
+adelaide,Adelaide,NULL,Australia,NULL,NULL,109
+evrtwa,Everett,WA,USA,NULL,NULL,110
+denver,Denver,CO,USA,NULL,NULL,111
+chicago,Chicago,IL,USA,NULL,NULL,112
+paix,Palo Alto,CA,USA,NULL,NULL,113
+phlapa,Philadelphia,PA,USA,NULL,NULL,114
+cle,Cleveland,OH,USA,NULL,NULL,115
+dytn.oh,Dayton,OH,USA,NULL,NULL,116
+provd.ri,Providence,RI,USA,NULL,NULL,117
+sntc,Santa Clara,CA,USA,NULL,NULL,118
+lon.uk,London,NULL,United Kingdom,NULL,NULL,119
+nyc.us,New York,NY,USA,NULL,NULL,120
+ny,New York,NY,USA,NULL,NULL,121
+sf,San Francisco,CA,USA,NULL,NULL,122
+stockholm,Stockholm,NULL,Sweden,NULL,NULL,123
+sto,Stockholm,NULL,Sweden,NULL,NULL,124
+tko,Tokyo,NULL,Japan,NULL,NULL,125
+tyo,Tokyo,NULL,Japan,NULL,NULL,126
+tac,Tacoma,WA,USA,NULL,NULL,127
+boston,Boston,MA,USA,NULL,NULL,128
+nashua,Nashua,NH,USA,NULL,NULL,129
+washdc,Washington,DC,USA,NULL,NULL,130
+lsanca,Los Angeles,CA,USA,NULL,NULL,131
+sfra.ca,San Francisco,CA,USA,NULL,NULL,132
+nyor.ny,New York,NY,USA,NULL,NULL,133
+albq,Albuquerque,NM,USA,NULL,NULL,134
+psk,Dublin,VA,USA,NULL,NULL,135
+phi,Philadelphia,PA,USA,NULL,NULL,136
+montreal,Montreal,NULL,Canada,NULL,NULL,137
+par,Paris,NULL,France,NULL,NULL,138
+sjo,San Jose,CA,USA,NULL,NULL,139
+lnd,London,NULL,United Kingdom,NULL,NULL,140
+svl,Sunnyvale,CA,USA,NULL,NULL,141
+dlls,Dallas,TX,USA,NULL,NULL,142
+scha.il,Schaumburg,IL,USA,NULL,NULL,143
+aust,Austin,TX,USA,NULL,NULL,144
+irvn,Irvine,CA,USA,NULL,NULL,145
+elsg,El Segundo,CA,USA,NULL,NULL,146
+wswdc,Washington,DC,USA,NULL,NULL,147
+seattle,Seattle,WA,USA,NULL,NULL,148
+amsterdam.nl,Amsterdam,NULL,Netherlands,NULL,NULL,149
+westorange,West Orange,NJ,USA,NULL,NULL,150
+burnaby,Burnaby,BC,Canada,NULL,NULL,151
+lakecowichan,Lake Cowichan,BC,Canada,NULL,NULL,152
+crtntx,Carrollton,TX,USA,NULL,NULL,153
+chmpgn.il,Champaign,IL,USA,NULL,NULL,154
+willowsprings,Willow Springs,IL,USA,NULL,NULL,155
+newark,Newark,NJ,USA,NULL,NULL,156
+hrnd,Herndon,VA,USA,NULL,NULL,157
+jrcy,Jersey City,NJ,USA,NULL,NULL,158
+canberra,Canberra,NULL,Australia,NULL,NULL,159
+dllstx,Dallas,TX,USA,NULL,NULL,160
+otemachi,Tokyo,NULL,Japan,NULL,NULL,161
+ballarat,Ballarat,VIC,Australia,NULL,NULL,162
+melbourne,Melbourne,NULL,Australia,NULL,NULL,163
+newyork.us,New York,NY,USA,NULL,NULL,164
+frankfurt.de,Frankfurt,NULL,Germany,NULL,NULL,165
+amsterdam,Amsterdam,NULL,Netherlands,NULL,NULL,166
+weehawken,Weehawken,NJ,USA,NULL,NULL,167
+toronto,Toronto,NULL,Canada,NULL,NULL,168
+mae-dallas,Dallas,TX,USA,NULL,NULL,169
+atln,Atlanta,GA,USA,NULL,NULL,170
+lndn,London,NULL,United Kingdom,NULL,NULL,171
+lon,London,NULL,United Kingdom,NULL,NULL,172
+lhr,London,NULL,United Kingdom,NULL,NULL,173
+oremut,Orem,UT,USA,NULL,NULL,174
+chcg,Chicago,IL,USA,NULL,NULL,175
+clev,Cleveland,OH,USA,NULL,NULL,176
+enwd,Denver,CO,USA,NULL,NULL,177
+hnsn,Las Vegas,NV,USA,NULL,NULL,178
+hsto,Houston,TX,USA,NULL,NULL,179
+lsan,Los Angeles,CA,USA,NULL,NULL,180
+nycm,New York,NY,USA,NULL,NULL,181
+phla,Philadelphia,PA,USA,NULL,NULL,182
+phnx,Phoenix,AZ,USA,NULL,NULL,183
+plal,Palo Alto,CA,USA,NULL,NULL,184
+ptld,Portland,OR,USA,NULL,NULL,185
+rcrd,Rancho Cordova,CA,USA,NULL,NULL,186
+scrl,Sacramento,CA,USA,NULL,NULL,187
+slkc,Salt Lake City,UT,USA,NULL,NULL,188
+smyr,Atlanta,GA,USA,NULL,NULL,189
+sndj,San Diego,CA,USA,NULL,NULL,190
+snfc,San Francisco,CA,USA,NULL,NULL,191
+spkn,Spokane,WA,USA,NULL,NULL,192
+sttl,Seattle,WA,USA,NULL,NULL,193
+tacm,Tacoma,WA,USA,NULL,NULL,194
+wash,Washington,DC,USA,NULL,NULL,195
+alncoh,Alliance,OH,USA,NULL,NULL,196
+beth.md,Bethesda,MD,USA,NULL,NULL,197
+nrt,Tokyo,NULL,Japan,NULL,NULL,198
+penn.us,Pennsauken,NJ,USA,NULL,NULL,199
+oakh.us,Oakhurst,NJ,USA,NULL,NULL,200
+ledn.nl,Leeuwarden,NULL,Netherlands,NULL,NULL,201
+limaoh,Lima,OH,USA,NULL,NULL,202
+wien.at,Wiener Neustadt,NULL,Austria,NULL,NULL,203
+amst.nl,Amsterdam,NULL,Netherlands,NULL,NULL,204
+paris,Paris,NULL,France,NULL,NULL,205
+philadelphia,Philadelphia,PA,USA,NULL,NULL,206
+brisbane,Brisbane,NULL,Australia,NULL,NULL,207
+wash.us,Washington,DC,USA,NULL,NULL,208
+maee.us,Washington,DC,USA,NULL,NULL,209
+frnkge,Frankfurt,NULL,Germany,NULL,NULL,210
+amstnl,Amsterdam,NULL,Netherlands,NULL,NULL,211
+osl,Oslo,NULL,Norway,NULL,NULL,212
+nwrknj,Newark,NJ,USA,NULL,NULL,213
+scrm,Sacramento,CA,USA,NULL,NULL,214
+slc,Salt Lake City,UT,USA,NULL,NULL,215
+det,Detroit,MI,USA,NULL,NULL,216
+pitt,Pittsburgh,PA,USA,NULL,NULL,217
+mcl,McLean,VA,USA,NULL,NULL,218
+it.mil,Milan,NULL,Italy,NULL,NULL,219
+ariake,Tokyo,NULL,Japan,NULL,NULL,220
+attga,Atlanta,GA,USA,NULL,NULL,221
+sl9mo,St. Louis,MO,USA,NULL,NULL,222
+n54ny,New York,NY,USA,NULL,NULL,223
+fft,Frankfurt,NULL,Germany,NULL,NULL,224
+sthm.se,Stockholm,NULL,Sweden,NULL,NULL,225
+hel.fi,Helsinki,NULL,Finland,NULL,NULL,226
+cgcil,Chicago,IL,USA,NULL,NULL,227
+lnd.gbb.uk,London,NULL,United Kingdom,NULL,NULL,228
+lbcktx,Lubbock,TX,USA,NULL,NULL,229
+whkn,Weehawken,NJ,USA,NULL,NULL,230
+wash-dc,Washington,DC,USA,NULL,NULL,231
+lubbok,Lubbock,TX,USA,NULL,NULL,232
+vancouver,Vancouver,BC,Canada,NULL,NULL,233
+roc,Rochester,NY,USA,NULL,NULL,234
+rly,Relay,MD,USA,NULL,NULL,235
+kszmo,Kansas City,MO,USA,NULL,NULL,236
+dtrmi,Detroit,MI,USA,NULL,NULL,237
+moscow,Moscow,NULL,Russia,NULL,NULL,238
+nol,New Orleans,LA,USA,NULL,NULL,239
+hstntx,Houston,TX,USA,NULL,NULL,240
+cleveland,Cleveland,OH,USA,NULL,NULL,241
+dtrtmi,Detroit,MI,USA,NULL,NULL,242
+columbus,Columbus,OH,USA,NULL,NULL,243
+gb.lon,London,NULL,United Kingdom,NULL,NULL,244
+fr.par,Paris,NULL,France,NULL,NULL,245
+ch.gen,Geneva,NULL,Switzerland,NULL,NULL,246
+de.mun,Munich,NULL,Germany,NULL,NULL,247
+de.fra,Frankfurt,NULL,Germany,NULL,NULL,248
+mad,Madrid,NULL,Spain,NULL,NULL,249
+balt,Baltimore,MD,USA,NULL,NULL,250
+anaheim,Anaheim,CA,USA,NULL,NULL,251
+rochny,Rochester,NY,USA,NULL,NULL,252
+syrcny,Syracuse,NY,USA,NULL,NULL,253
+usnyc,New York,NY,USA,NULL,NULL,254
+us.nyc,New York,NY,USA,NULL,NULL,255
+be.bru,Brussels,NULL,Belgium,NULL,NULL,256
+warn.mi,Warren,MI,USA,NULL,NULL,257
+hnl,Honolulu,HI,USA,NULL,NULL,258
+hnllhi,Honolulu,HI,USA,NULL,NULL,259
+nancy,Nancy,NULL,France,NULL,NULL,260
+strasbourg,Strasbourg,NULL,France,NULL,NULL,261
+saintjohnnb,St. John,NB,Canada,NULL,NULL,262
+mclnva,McLean,VA,USA,NULL,NULL,263
+seattlesel,Seattle,WA,USA,NULL,NULL,264
+syd,Sydney,NULL,Australia,NULL,NULL,265
+mia,Miami,FL,USA,NULL,NULL,266
+paris.fr,Paris,NULL,France,NULL,NULL,267
+austtx,Austin,TX,USA,NULL,NULL,268
+chicagochd,Chicago,IL,USA,NULL,NULL,269
+frankfurt,Frankfurt,NULL,Germany,NULL,NULL,270
+osl.no,Oslo,NULL,Norway,NULL,NULL,271
+dallasdan,Dallas,TX,USA,NULL,NULL,272
+pittsburgh,Pittsburgh,PA,USA,NULL,NULL,273
+ormfl,Orlando,FL,USA,NULL,NULL,274
+tulsok,Tulsa,OK,USA,NULL,NULL,275
+austin,Austin,TX,USA,NULL,NULL,276
+nrflva,Norfolk,VA,USA,NULL,NULL,277
+gnvlsc,Greenville,SC,USA,NULL,NULL,278
+baltimore,Baltimore,MD,USA,NULL,NULL,279
+rdu,Raleigh,NC,USA,NULL,NULL,280
+memphis,Memphis,TN,USA,NULL,NULL,281
+houston,Houston,TX,USA,NULL,NULL,282
+anhmca,Anaheim,CA,USA,NULL,NULL,283
+nworla,New Orleans,LA,USA,NULL,NULL,284
+brhmal,Birmingham,AL,USA,NULL,NULL,285
+nsvltn,Nashville,TN,USA,NULL,NULL,286
+ruthfd.tn,Rutherford,TN,USA,NULL,NULL,287
+pit,Pittsburgh,PA,USA,NULL,NULL,288
+cvg,Covington,KY,USA,NULL,NULL,289
+mke.wi,Milwaukee,WI,USA,NULL,NULL,290
+clmboh,Columbus,OH,USA,NULL,NULL,291
+bcn,Barcelona,NULL,Spain,NULL,NULL,292
+zur,Zurich,NULL,Switzerland,NULL,NULL,293
+milnit,Milan,NULL,Italy,NULL,NULL,294
+lga,New York,NY,USA,NULL,NULL,295
+sanfranciscosfd,San Francisco,CA,USA,NULL,NULL,296
+snfcca,San Francisco,CA,USA,NULL,NULL,297
+minneapol,Minneapolis,MN,USA,NULL,NULL,298
+veg,Las Vegas,NV,USA,NULL,NULL,299
+uk.lon,London,NULL,United Kingdom,NULL,NULL,300
+de.dus,Dusseldorf,NULL,Germany,NULL,NULL,301
+de.bln,Berlin,NULL,Germany,NULL,NULL,302
+cz.pra,Prague,NULL,Czech Republic,NULL,NULL,303
+at.vie,Vienna,NULL,Austria,NULL,NULL,304
+franckfurt,Frankfurt,NULL,Germany,NULL,NULL,305
+bagnolet,Bagnolet,NULL,France,NULL,NULL,306
+pennsauken,Pennsauken,NJ,USA,NULL,NULL,307
+ftwo.us,Fort Worth,TX,USA,NULL,NULL,308
+stoc.us,Stockton,CA,USA,NULL,NULL,309
+maew.us,San Jose,CA,USA,NULL,NULL,310
+fra,Frankfurt,NULL,Germany,NULL,NULL,311
+okcyok,Oklahoma City,OK,USA,NULL,NULL,312
+lnng.mi,Lansing,MI,USA,NULL,NULL,313
+aubervilliers,Aubervilliers,NULL,France,NULL,NULL,314
+brussels,Brussels,NULL,Belgium,NULL,NULL,315
+holhi,Honolulu,HI,USA,NULL,NULL,316
+okcy,Oklahoma City,OK,USA,NULL,NULL,317
+scchtn,Charleston,SC,USA,NULL,NULL,318
+poitiers,Poitiers,NULL,France,NULL,NULL,319
+toulouse,Toulouse,NULL,France,NULL,NULL,320
+st6wa,Seattle,WA,USA,NULL,NULL,321
+kscymo,Kansas City,MO,USA,NULL,NULL,322
+osaka,Osaka,NULL,Japan,NULL,NULL,323
+sacramento,Sacramento,CA,USA,NULL,NULL,324
+waterloo.on,Waterloo,ON,Canada,NULL,NULL,325
+tor,Toronto,NULL,Canada,NULL,NULL,326
+mtl,Montreal,NULL,Canada,NULL,NULL,327
+toky.jp,Tokyo,NULL,Japan,NULL,NULL,328
+tokyo,Tokyo,NULL,Japan,NULL,NULL,329
+anarmi,Ann Arbor,MI,USA,NULL,NULL,330
+asd.nl,Amsterdam,NULL,Netherlands,NULL,NULL,331
+brusselsbrl,Brussels,NULL,Belgium,NULL,NULL,332
+dub.ie,Dublin,NULL,Ireland,NULL,NULL,333
+ldn.uk,London,NULL,United Kingdom,NULL,NULL,334
+nyk.ny.us,New York,NY,USA,NULL,NULL,335
+dortmund.de,Dortmund,NULL,Germany,NULL,NULL,336
+wuppertal.de,Wuppertal,NULL,Germany,NULL,NULL,337
+ldn,London,NULL,United Kingdom,NULL,NULL,338
+delft,Delft,NULL,Netherlands,NULL,NULL,339
+denhaag,Den Haag,NULL,Netherlands,NULL,NULL,340
+regina,Regina,SK,Canada,NULL,NULL,341
+geneva.ch,Geneva,NULL,Switzerland,NULL,NULL,342
+washingtondck,Washington,DC,USA,NULL,NULL,343
+zrh,Zurich,NULL,Switzerland,NULL,NULL,344
+cdg,Paris,NULL,France,NULL,NULL,345
+sumt.nj,Summit,NJ,USA,NULL,NULL,346
+restonrst,Reston,VA,USA,NULL,NULL,347
+newyorknyr,New York,NY,USA,NULL,NULL,348
+us-was,Washington,DC,USA,NULL,NULL,349
+us-ny,New York,NY,USA,NULL,NULL,350
+stuttgart,Stuttgart,NULL,Germany,NULL,NULL,351
+hamburg,Hamburg,NULL,Germany,NULL,NULL,352
+duesseldorf,Dusseldorf,NULL,Germany,NULL,NULL,353
+parispav,Paris,NULL,France,NULL,NULL,354
+adubn.nj,Audubon,NJ,USA,NULL,NULL,355
+london.gb,London,NULL,United Kingdom,NULL,NULL,356
+stuttgart.de,Stuttgart,NULL,Germany,NULL,NULL,357
+koeln,Koeln,NULL,Germany,NULL,NULL,358
+aachen,Aachen,NULL,Germany,NULL,NULL,359
+bostonbol,Boston,MA,USA,NULL,NULL,360
+sandiego,San Diego,CA,USA,NULL,NULL,361
+btrgla,Baton Rouge,LA,USA,NULL,NULL,362
+btnrug.la,Baton Rouge,LA,USA,NULL,NULL,363
+bcrtfl,Boca Raton,FL,USA,NULL,NULL,364
+bru,Brussels,NULL,Belgium,NULL,NULL,365
+brussels.be,Brussels,NULL,Belgium,NULL,NULL,366
+namur.be,Namur,NULL,Belgium,NULL,NULL,367
+lvg,Las Vegas,NV,USA,NULL,NULL,368
+klmz.mi,Kalamazoo,MI,USA,NULL,NULL,369
+gdrp.mi,Grand Rapids,MI,USA,NULL,NULL,370
+trcy.mi,Traverse City,MI,USA,NULL,NULL,371
+hrfrct,Hartford,CT,USA,NULL,NULL,372
+dtc,Washington,DC,USA,NULL,NULL,373
+dnvr,Denver,CO,USA,NULL,NULL,374
+scarborough,Scarborough,ON,Canada,NULL,NULL,375
+munich.de,Munich,NULL,Germany,NULL,NULL,376
+pennantpoint,Pennant Station,SK,Canada,NULL,NULL,377
+spngfld.il,Springfield,IL,USA,NULL,NULL,378
+lang.ca,Los Angeles,CA,USA,NULL,NULL,379
+grenoble,Grenoble,NULL,France,NULL,NULL,380
+lyon,Lyon,NULL,France,NULL,NULL,381
+trd.no,Trondheim,NULL,Norway,NULL,NULL,382
+bgo.no,Bergen,NULL,Norway,NULL,NULL,383
+pitbpa,Pittsburgh,PA,USA,NULL,NULL,384
+scllg.pa,State College,PA,USA,NULL,NULL,385
+azo,Kalamazoo,MI,USA,NULL,NULL,386
+rotterdam,Rotterdam,NULL,Netherlands,NULL,NULL,387
+ams.nl,Amsterdam,NULL,Netherlands,NULL,NULL,388
+asd,Amsterdam,NULL,Netherlands,NULL,NULL,389
+flnt.mi,Flint,MI,USA,NULL,NULL,390
+washingtoneast,Washington,DC,USA,NULL,NULL,391
+chlnc,Charlotte,NC,USA,NULL,NULL,392
+snvaca,Sunnyvale,CA,USA,NULL,NULL,393
+flntmi,Flint,MI,USA,NULL,NULL,394
+brhmmi,Birmingham,MI,USA,NULL,NULL,395
+hrdnva,Herndon,VA,USA,NULL,NULL,396
+bur,Burbank,CA,USA,NULL,NULL,397
+roalok.mi,Royal Oak,MI,USA,NULL,NULL,398
+rockis.il,Rock Island,IL,USA,NULL,NULL,399
+hvs.nl,Hilversum,NULL,Netherlands,NULL,NULL,400
+eugn,Eugene,OR,USA,NULL,NULL,401
+ftwotx,Fort Worth,TX,USA,NULL,NULL,402
+ftwrth.tx,Fort Worth,TX,USA,NULL,NULL,403
+relay,Relay,MD,USA,NULL,NULL,404
+hcvlny,Hicksville,NY,USA,NULL,NULL,405
+soldny,Southold,NY,USA,NULL,NULL,406
+pal.ca,Palo Alto,CA,USA,NULL,NULL,407
+sjc.ca,San Jose,CA,USA,NULL,NULL,408
+phl.pen,Philadelphia,PA,USA,NULL,NULL,409
+new.york,New York,NY,USA,NULL,NULL,410
+londen,London,NULL,United Kingdom,NULL,NULL,411
+vienna,Vienna,VA,USA,NULL,NULL,412
+iplvin,Indianapolis,IN,USA,NULL,NULL,413
+karlsruhe,Karlsruhe,NULL,Germany,NULL,NULL,414
+freiburg,Freiburg,NULL,Germany,NULL,NULL,415
+stpetersburg,St. Petersburg,NULL,Russia,NULL,NULL,416
+lth,London,NULL,United Kingdom,NULL,NULL,417
+dublin,Dublin,NULL,Ireland,NULL,NULL,418
+corlis.pa,Coraopolis,PA,USA,NULL,NULL,419
+tpkaks,Topeka,KS,USA,NULL,NULL,420
+earlsfort,Dublin,NULL,Ireland,NULL,NULL,421
+snbbca,Santa Barbara,CA,USA,NULL,NULL,422
+santab.ca,Santa Barbara,CA,USA,NULL,NULL,423
+sndg,San Diego,CA,USA,NULL,NULL,424
+iah,Houston,TX,USA,NULL,NULL,425
+ottawa,Ottawa,ON,Canada,NULL,NULL,426
+us-sfo,San Francisco,CA,USA,NULL,NULL,427
+wee,Weehawken,NJ,USA,NULL,NULL,428
+was,Washington,DC,USA,NULL,NULL,429
+chicag.il,Chicago,IL,USA,NULL,NULL,430
+little.ar,Little Rock,AR,USA,NULL,NULL,431
+avloh,Avon Lake,OH,USA,NULL,NULL,432
+eleoh,Eastlake,OH,USA,NULL,NULL,433
+heidelberg,Heidelberg,NULL,Germany,NULL,NULL,434
+lamstx,Lamesa,TX,USA,NULL,NULL,435
+vinnva,Vienna,VA,USA,NULL,NULL,436
+broomfield,Broomfield,CO,USA,NULL,NULL,437
+sant.cl,Santiago,NULL,Chile,NULL,NULL,438
+alex.us,Alexandria,VA,USA,NULL,NULL,439
+chgil,Chicago,IL,USA,NULL,NULL,440
+auckland,Auckland,NULL,New Zealand,NULL,NULL,441
+stngva,Sterling,VA,USA,NULL,NULL,442
+crsncty.nv,Carson City,NV,USA,NULL,NULL,443
+mhvlnj,Merchantville,NJ,USA,NULL,NULL,444
+us.nyk,New York,NY,USA,NULL,NULL,445
+us.pen,Pennsauken,NJ,USA,NULL,NULL,446
+stng,Sterling,VA,USA,NULL,NULL,447
+nan.fr,Nancy,NULL,France,NULL,NULL,448
+enschede,Enschede,NULL,Netherlands,NULL,NULL,449
+groningen,Groningen,NULL,Netherlands,NULL,NULL,450
+denverden,Denver,CO,USA,NULL,NULL,451
+scrchl,Rock Hill,SC,USA,NULL,NULL,452
+tkwl,Tukwila,WA,USA,NULL,NULL,453
+nl.ams,Amsterdam,NULL,Netherlands,NULL,NULL,454
+dall.tx,Dallas,TX,USA,NULL,NULL,455
+auttx,Austin,TX,USA,NULL,NULL,456
+cho,Charlottesville,VA,USA,NULL,NULL,457
+us-la,Los Angeles,CA,USA,NULL,NULL,458
+au.vie,Vienna,NULL,Austria,NULL,NULL,459
+mla.it,Milan,NULL,Italy,NULL,NULL,460
+nwk-nj,Newark,NJ,USA,NULL,NULL,461
+har-ct,Hartford,CT,USA,NULL,NULL,462
+dnvrco,Denver,CO,USA,NULL,NULL,463
+slkcut,Salt Lake City,UT,USA,NULL,NULL,464
+sfrn.ca,San Francisco,CA,USA,NULL,NULL,465
+chi.il,Chicago,IL,USA,NULL,NULL,466
+sbo.ma,Boston,MA,USA,NULL,NULL,467
+me.portland,Portland,ME,USA,NULL,NULL,468
+cal,Calgary,AB,Canada,NULL,NULL,469
+trnt,Trenton,NJ,USA,NULL,NULL,470
+erlangen,Erlangen,NULL,Germany,NULL,NULL,471
+spo,Sao Paulo,NULL,Brazil,NULL,NULL,472
+pae,Porto Alegre,NULL,Brazil,NULL,NULL,473
+cwb,Curitiba,NULL,Brazil,NULL,NULL,474
+mln,Milan,NULL,Italy,NULL,NULL,475
+mpls,Minneapolis,MN,USA,NULL,NULL,476
+tulsa,Tulsa,OK,USA,NULL,NULL,477
+stkh.se,Stockholm,NULL,Sweden,NULL,NULL,478
+frnk.de,Frankfurt,NULL,Germany,NULL,NULL,479
+brln.de,Berlin,NULL,Germany,NULL,NULL,480
+hannover,Hannover,NULL,Germany,NULL,NULL,481
+leipzig,Leipzig,NULL,Germany,NULL,NULL,482
+ilmenau,Ilmenau,NULL,Germany,NULL,NULL,483
+bud,Budapest,NULL,Hungary,NULL,NULL,484
+ro.buc,Bucharest,NULL,Romania,NULL,NULL,485
+detmi,Detroit,MI,USA,NULL,NULL,486
+dk.cop,Copenhagen,NULL,Denmark,NULL,NULL,487
+se.sto,Stockholm,NULL,Sweden,NULL,NULL,488
+mel,Melbourne,NULL,Australia,NULL,NULL,489
+ballarat.au,Ballarat,VIC,Australia,NULL,NULL,490
+phlpa,Philadelphia,PA,USA,NULL,NULL,491
+cbr,Canberra,NULL,Australia,NULL,NULL,492
+colu.oh,Columbus,OH,USA,NULL,NULL,493
+per,Perth,NULL,Australia,NULL,NULL,494
+arlva,Arlington,VA,USA,NULL,NULL,495
+laurentides,Laurentides,QU,Canada,NULL,NULL,496
+plsntvlle.nj,Pleasantville,NJ,USA,NULL,NULL,497
+jffsn.mo,Jefferson City,MO,USA,NULL,NULL,498
+phoenix,Phoenix,AZ,USA,NULL,NULL,499
+mow,Moscow,NULL,Russia,NULL,NULL,500
+grapid.mi,Grand Rapids,MI,USA,NULL,NULL,501
+nmalbu,Albuquerque,NM,USA,NULL,NULL,502
+jax,Jacksonville,FL,USA,NULL,NULL,503
+fll,Fort Lauderdale,FL,USA,NULL,NULL,504
+ory,Paris,NULL,France,NULL,NULL,505
+frf,Frankfurt,NULL,Germany,NULL,NULL,506
+hud.ny,Hudson,NY,USA,NULL,NULL,507
+nyc.ny,New York,NY,USA,NULL,NULL,508
+was.dc,Washington,DC,USA,NULL,NULL,509
+atl.ga,Atlanta,GA,USA,NULL,NULL,510
+mem.tn,Memphis,TN,USA,NULL,NULL,511
+no.osl,Oslo,NULL,Norway,NULL,NULL,512
+rjo,Rio De Janeiro,NULL,Brazil,NULL,NULL,513
+bhe,Belo Horizonte,NULL,Brazil,NULL,NULL,514
+tokyjp,Tokyo,NULL,Japan,NULL,NULL,515
+zrh.ch,Zurich,NULL,Switzerland,NULL,NULL,516
+gva.ch,Geneva,NULL,Switzerland,NULL,NULL,517
+batonr.la,Baton Rouge,LA,USA,NULL,NULL,518
+mal,Malmo,NULL,Sweden,NULL,NULL,519
+delhi,Delhi,NULL,India,NULL,NULL,520
+amsterdamamt,Amsterdam,NULL,Netherlands,NULL,NULL,521
+londonlnt,London,NULL,United Kingdom,NULL,NULL,522
+wrrnmi,Warren,MI,USA,NULL,NULL,523
+livnmi,Livonia,MI,USA,NULL,NULL,524
+miami,Miami,FL,USA,NULL,NULL,525
+mdsn.wi,Madison,WI,USA,NULL,NULL,526
+wlhm,Waltham,MA,USA,NULL,NULL,527
+cb1ma,Cambridge,MA,USA,NULL,NULL,528
+atlantaald,Atlanta,GA,USA,NULL,NULL,529
+frankfurtfri,Frankfurt,NULL,Germany,NULL,NULL,530
+eindhoven,Eindhoven,NULL,Netherlands,NULL,NULL,531
+kingston,Kingston,NULL,Canada,NULL,NULL,532
+southport,Southport,NULL,Australia,NULL,NULL,533
+mpsmn,Minneapolis,MN,USA,NULL,NULL,534
+losangeles.us,Los Angeles,CA,USA,NULL,NULL,535
+mci,Kansas City,MO,USA,NULL,NULL,536
+winnipeg,Winnipeg,MB,Canada,NULL,NULL,537
+sk.bra,Bratislava,NULL,Slovakia,NULL,NULL,538
+okc,Oklahoma City,OK,USA,NULL,NULL,539
+phmaz,Phoenix,AZ,USA,NULL,NULL,540
+anhm,Anaheim,CA,USA,NULL,NULL,541
+potlnd.or,Portland,OR,USA,NULL,NULL,542
+dal.tx,Dallas,TX,USA,NULL,NULL,543
+pnmcty.fl,Panama City,FL,USA,NULL,NULL,544
+nwk.nj,Newark,NJ,USA,NULL,NULL,545
+scl.ca,Santa Clara,CA,USA,NULL,NULL,546
+pas,Paris,NULL,France,NULL,NULL,547
+cincinnati,Cincinnati,OH,USA,NULL,NULL,548
+marburg,Marburg,NULL,Germany,NULL,NULL,549
+buf,Buffalo,NY,USA,NULL,NULL,550
+houstonhob,Houston,TX,USA,NULL,NULL,551
+prg,Prague,NULL,Czech Republic,NULL,NULL,552
+augsburg,Augsburg,NULL,Germany,NULL,NULL,553
+oldenburg,Oldenburg,NULL,Germany,NULL,NULL,554
+northroyalton,North Royalton,OH,USA,NULL,NULL,555
+dblnoh,Dublin,OH,USA,NULL,NULL,556
+mesqt.tx,Mesquite,TX,USA,NULL,NULL,557
+snrmca,San Ramon,CA,USA,NULL,NULL,558
+alntn.tx,Arlington,TX,USA,NULL,NULL,559
+amst,Amsterdam,NULL,Netherlands,NULL,NULL,560
+bio,Bilbao,NULL,Spain,NULL,NULL,561
+nrwlct,Norwalk,CT,USA,NULL,NULL,562
+smfrct,Stamford,CT,USA,NULL,NULL,563
+dublin.ie,Dublin,NULL,Ireland,NULL,NULL,564
+jrsycty.nj,Jersey City,NJ,USA,NULL,NULL,565
+scrmnt.ca,Sacramento,CA,USA,NULL,NULL,566
+parsfr,Paris,NULL,France,NULL,NULL,567
+greenville,Greenville,SC,USA,NULL,NULL,568
+nl.rot,Rotterdam,NULL,Netherlands,NULL,NULL,569
+iplsin,Indianapolis,IN,USA,NULL,NULL,570
+lsvlky,Louisville,KY,USA,NULL,NULL,571
+lxintn.ky,Lexington,KY,USA,NULL,NULL,572
+sanfrancisco.ca,San Francisco,CA,USA,NULL,NULL,573
+hfx,Halifax,NS,Canada,NULL,NULL,574
+es.mad,Madrid,NULL,Spain,NULL,NULL,575
+manchester,Manchester,NULL,United Kingdom,NULL,NULL,576
+desia,Des Moines,IA,USA,NULL,NULL,577
+hmbg.de,Hamburg,NULL,Germany,NULL,NULL,578
+scclma,Columbia,SC,USA,NULL,NULL,579
+sin,Singapore,NULL,Singapore,NULL,NULL,580
+grlnd.tx,Garland,TX,USA,NULL,NULL,581
+chw-il,Chicago,IL,USA,NULL,NULL,582
+raleigh,Raleigh,NC,USA,NULL,NULL,583
+varest,Reston,VA,USA,NULL,NULL,584
+bumttx,Beaumont,TX,USA,NULL,NULL,585
+lille,Lille,NULL,France,NULL,NULL,586
+dvmco,Denver,CO,USA,NULL,NULL,587
+irvnca,Irvine,CA,USA,NULL,NULL,588
+jan,Jackson,MS,USA,NULL,NULL,589
+loh,London,NULL,United Kingdom,NULL,NULL,590
+bllvu.wa,Bellevue,WA,USA,NULL,NULL,591
+ulm,Ulm,NULL,Germany,NULL,NULL,592
+oslo,Oslo,NULL,Norway,NULL,NULL,593
+nyc-ny,New York,NY,USA,NULL,NULL,594
+amd,Amsterdam,NULL,Netherlands,NULL,NULL,595
+gent.be,Gent,NULL,Belgium,NULL,NULL,596
+gosford,Gosford,NULL,Australia,NULL,NULL,597
+mlfdct,Milford,CT,USA,NULL,NULL,598
+elmhst.il,Elmhurst,IL,USA,NULL,NULL,599
+rmvll.il,Romeoville,IL,USA,NULL,NULL,600
+rcit.ca,Redwood City,CA,USA,NULL,NULL,601
+hkg,Hong Kong,NULL,China,NULL,NULL,602
+wrzb.de,Wurzburg,NULL,Germany,NULL,NULL,603
+lax.ca,Los Angeles,CA,USA,NULL,NULL,604
+new-york,New York,NY,USA,NULL,NULL,605
+vncvr.wa,Vancouver,WA,USA,NULL,NULL,606
+sat,San Antonio,TX,USA,NULL,NULL,607
+rlgnc,Raleigh,NC,USA,NULL,NULL,608
+palo-alto,Palo Alto,CA,USA,NULL,NULL,609
+vienna-us,Vienna,VA,USA,NULL,NULL,610
+clftnj,Clifton,NJ,USA,NULL,NULL,611
+poa,Porto Alegre,NULL,Brazil,NULL,NULL,612
+se-sto,Stockholm,NULL,Sweden,NULL,NULL,613
+crchtx,Corpus Christi,TX,USA,NULL,NULL,614
+londonk,London,NULL,United Kingdom,NULL,NULL,615
+dub.gbb.uk,Dublin,NULL,Ireland,NULL,NULL,616
+akl,Auckland,NULL,New Zealand,NULL,NULL,617
+tampabay,Tampa,FL,USA,NULL,NULL,618
+muenchen,Munchen,NULL,Germany,NULL,NULL,619
+lakwod.co,Lakewood,CO,USA,NULL,NULL,620
+phil,Philadelphia,PA,USA,NULL,NULL,621
+elkhn.ne,Elkhorn,NE,USA,NULL,NULL,622
+sao,Sao Paulo,NULL,Brazil,NULL,NULL,623
+hobart,Hobart,NULL,Australia,NULL,NULL,624
+omah,Omaha,NE,USA,NULL,NULL,625
+orf,Norfolk,VA,USA,NULL,NULL,626
+utprov,Provo,UT,USA,NULL,NULL,627
+ilchgo,Chicago,IL,USA,NULL,NULL,628
+sfo.ca,San Francisco,CA,USA,NULL,NULL,629
+ontrca,Ontario,CA,USA,NULL,NULL,630
+wash.dc.us,Washington,DC,USA,NULL,NULL,631
+mi.it,Milan,NULL,Italy,NULL,NULL,632
+bkk,Bangkok,NULL,Thailand,NULL,NULL,633
+mtvnoh,Mount Vernon,OH,USA,NULL,NULL,634
+mnfdoh,Mansfield,OH,USA,NULL,NULL,635
+polkoh,Polk,OH,USA,NULL,NULL,636
+grpvine.tx,Grapevine,TX,USA,NULL,NULL,637
+nirving.tx,Irving,TX,USA,NULL,NULL,638
+cmh,Columbus,OH,USA,NULL,NULL,639
+mntp.il,Mount Prospect,IL,USA,NULL,NULL,640
+trncca,Torrance,CA,USA,NULL,NULL,641
+bletchley,Bletchley,NULL,United Kingdom,NULL,NULL,642
+ealing,Ealing,NULL,United Kingdom,NULL,NULL,643
+lnh.md,Lanham-Seabrook,MD,USA,NULL,NULL,644
+tkyo,Tokyo,NULL,Japan,NULL,NULL,645
+hiroshima,Hiroshima,NULL,Japan,NULL,NULL,646
+hywr,Hayward,CA,USA,NULL,NULL,647
+osa,Osaka,NULL,Japan,NULL,NULL,648
+stockton,Stockton,CA,USA,NULL,NULL,649
+irving,Irving,TX,USA,NULL,NULL,650
+ralgh,Raleigh,NC,USA,NULL,NULL,651
+chyn,Cheyenne,WY,USA,NULL,NULL,652
+tokyo.jp,Tokyo,NULL,Japan,NULL,NULL,653
+chb.jp,Chiba,NULL,Japan,NULL,NULL,654
+oskg,Osaka,NULL,Japan,NULL,NULL,655
+tok,Tokyo,NULL,Japan,NULL,NULL,656
+tokg,Tokyo,NULL,Japan,NULL,NULL,657
+snva,Sunnyvale,CA,USA,NULL,NULL,658
+kobe,Kobe,NULL,Japan,NULL,NULL,659
+tky.jp,Tokyo,NULL,Japan,NULL,NULL,660
+shinkawa.jp,Shinkawa,NULL,Japan,NULL,NULL,661
+osk.jp,Osaka,NULL,Japan,NULL,NULL,662
+yokohama,Yokohama,NULL,Japan,NULL,NULL,663
+kawasaki,Kawasaki,NULL,Japan,NULL,NULL,664
+oakland,Oakland,CA,USA,NULL,NULL,665
+tokl.jp,Tokyo,NULL,Japan,NULL,NULL,666
+cba.jp,Chiba,NULL,Japan,NULL,NULL,667
+richmond,Richmond,VA,USA,NULL,NULL,668
+bremtn.wa,Bremerton,WA,USA,NULL,NULL,669
+nyroc,Rochester,NY,USA,NULL,NULL,670
+ngo,Nagoya,NULL,Japan,NULL,NULL,671
+toronto.ca,Toronto,NULL,Canada,NULL,NULL,672
+cpt.za,Cape Town,NULL,South Africa,NULL,NULL,673
+atlaga,Atlanta,GA,USA,NULL,NULL,674
+ein.nl,Eindhoven,NULL,Netherlands,NULL,NULL,675
+bna,Nashville,TN,USA,NULL,NULL,676
+chiba.jp,Chiba,NULL,Japan,NULL,NULL,677
+doshisha.jp,Doshisha,NULL,Japan,NULL,NULL,678
+enwdco,Englewood,CO,USA,NULL,NULL,679
+fka,Fukuoka,NULL,Japan,NULL,NULL,680
+fukuoka,Fukuoka,NULL,Japan,NULL,NULL,681
+gennevilliers,Gennevilliers,NULL,France,NULL,NULL,682
+hiroshima.jp,Hiroshima,NULL,Japan,NULL,NULL,683
+ilford,Ilford,NULL,United Kingdom,NULL,NULL,684
+itabashi,Itabashi,NULL,Japan,NULL,NULL,685
+archives,Archives,NULL,France,NULL,NULL,686
+kanazawa,Kanazawa,NULL,Japan,NULL,NULL,687
+kek.jp,Kek,NULL,Japan,NULL,NULL,688
+kobe.jp,Kobe,NULL,Japan,NULL,NULL,689
+koubeakashi,Koubeakashi,NULL,Japan,NULL,NULL,690
+kyoto.jp,Kyoto,NULL,Japan,NULL,NULL,691
+machida.jp,Machida,NULL,Japan,NULL,NULL,692
+miasfl,Miami Springs,FL,USA,NULL,NULL,693
+nacsis.jp,Nacsis,NULL,Japan,NULL,NULL,694
+nagaokagika.jp,Nagokagika,NULL,Japan,NULL,NULL,695
+nagoya,Nagoya,NULL,Japan,NULL,NULL,696
+ngop,Nagoya,NULL,Japan,NULL,NULL,697
+niigata.jp,Niigata,NULL,Japan,NULL,NULL,698
+okayama,Okayama,NULL,Japan,NULL,NULL,699
+osaka.jp,Osaka,NULL,Japan,NULL,NULL,700
+osakabak,Osaka,NULL,Japan,NULL,NULL,701
+oskg.jp,Osaka,NULL,Japan,NULL,NULL,702
+otm.jp,Tokyo,NULL,Japan,NULL,NULL,703
+otmg.jp,Tokyo,NULL,Japan,NULL,NULL,704
+otmnoc.jp,Tokyo,NULL,Japan,NULL,NULL,705
+san-francisco,San Francisco,CA,USA,NULL,NULL,706
+sapporo,Sapporo,NULL,Japan,NULL,NULL,707
+shimonoseki,Shimonoseki,NULL,Japan,NULL,NULL,708
+syrvnj,Sayreville,NJ,USA,NULL,NULL,709
+los-angeles,Los Angeles,CA,USA,NULL,NULL,710
+tokg.jp,Tokyo,NULL,Japan,NULL,NULL,711
+toukou.jp,Toukou,NULL,Japan,NULL,NULL,712
+toyama,Toyama,NULL,Japan,NULL,NULL,713
+vologda,Vologda,NULL,Russia,NULL,NULL,714
+weekiwachee-springs.fl,Weeki Wachee Gardens,FL,USA,tossup between Weeki Wachee Gardens and Wekiwa Springs,NULL,715
+hel,Helsinki,NULL,Finland,NULL,NULL,716
+yokohama.jp,Yokohama,NULL,Japan,NULL,NULL,717
+trntn.nj,Trenton,NJ,USA,NULL,NULL,718
+zurich,Zurich,NULL,Switzerland,NULL,NULL,719
+vegas.nv,Las Vegas,NV,USA,NULL,NULL,720
+nwhnct,New Haven,CT,USA,NULL,NULL,721
+prvdri,Providence,RI,USA,NULL,NULL,722
+pwtkt.ri,Pawtucket,RI,USA,NULL,NULL,723
+sdg,San Diego,CA,USA,NULL,NULL,724
+ott,Ottawa,ON,Canada,NULL,NULL,725
+bielefeld.de,Bielefeld,NULL,Germany,NULL,NULL,726
+tampa,Tampa,FL,USA,NULL,NULL,727
+fort-worth,Fort Worth,TX,USA,NULL,NULL,728
+indnpls.in,Indianapolis,IN,USA,NULL,NULL,729
+wchtks,Wichita,KS,USA,NULL,NULL,730
+cgx,Chicago,IL,USA,NULL,NULL,731
+uk-lon,London,NULL,United Kingdom,NULL,NULL,732
+atw.pa,Allentown,PA,USA,NULL,NULL,733
+akrnoh,Akron,OH,USA,NULL,NULL,734
+mil,Milan,NULL,Italy,NULL,NULL,735
+berlin,Berlin,NULL,Germany,NULL,NULL,736
+par.fr,Paris,NULL,France,NULL,NULL,737
+adl,Adelaide,NULL,Australia,NULL,NULL,738
+aanmi,Ann Arbor,MI,USA,NULL,NULL,739
+berlin.de,Berlin,NULL,Germany,NULL,NULL,740
+copenhagen,Copenhagen,NULL,Denmark,NULL,NULL,741
+mexico,Mexico City,NULL,Mexico,NULL,NULL,742
+oaks.pa,Oak Hills,PA,USA,NULL,NULL,743
+glou.nj,Gloucester City,NJ,USA,NULL,NULL,744
+nw2nj,Newark,NJ,USA,NULL,NULL,745
+crmlin,Carmel,IN,USA,NULL,NULL,746
+fra.de,Frankfurt,NULL,Germany,NULL,NULL,747
+saitama.jp,Saita,NULL,Japan,NULL,NULL,748
+tatebayasi.jp,Tatebayashi,NULL,Japan,NULL,NULL,749
+yokkaichi.jp,Yokaichi,NULL,Japan,NULL,NULL,750
+dus,Dusseldorf,NULL,Germany,NULL,NULL,751
+blm.br,Belem,NULL,Brazil,NULL,NULL,752
+blm,Belem,NULL,Brazil,NULL,NULL,753
+twsn.md,Towson,MD,USA,NULL,NULL,754
+hs1tx,Houston,TX,USA,NULL,NULL,755
+blngmt,Billings,MT,USA,NULL,NULL,756
+mmptn,Memphis,TN,USA,NULL,NULL,757
+farg,Fargo,ND,USA,NULL,NULL,758
+amrltx,Amarillo,TX,USA,NULL,NULL,759
+cae.sc,Charleston,SC,USA,NULL,NULL,760
+rcsntx,Richardson,TX,USA,NULL,NULL,761
+ablntx,Abilene,TX,USA,NULL,NULL,762
+tok.jp,Tokyo,NULL,Japan,NULL,NULL,763
+omhne,Omaha,NE,USA,NULL,NULL,764
+chlstn,Charleston,SC,USA,NULL,NULL,765
+ftla,Fort Lauderdale,FL,USA,NULL,NULL,766
+newthk,Hong Kong,NULL,China,NULL,NULL,767
+rjo.br,Rio De Janeiro,NULL,Brazil,NULL,NULL,768
+bsa.br,Brasilia,NULL,Brazil,NULL,NULL,769
+war.pl,Warsaw,NULL,Poland,NULL,NULL,770
+gva,Geneva,NULL,Switzerland,NULL,NULL,771
+lafayt.in,Lafayette,IN,USA,NULL,NULL,772
+nl-ams,Amsterdam,NULL,Netherlands,NULL,NULL,773
+prs.fr,Paris,NULL,France,NULL,NULL,774
+dlfw,Dallas,TX,USA,NULL,NULL,775
+chrl,Charleston,SC,USA,NULL,NULL,776
+vnna,Vienna,VA,USA,NULL,NULL,777
+ftwal.fl,Fort Walton Beach,FL,USA,NULL,NULL,778
+alngtn.va,Arlington,VA,USA,NULL,NULL,779
+shv,Shreveport,LA,USA,NULL,NULL,780
+takamatsu,Takamatsu,NULL,Japan,NULL,NULL,781
+aus.tx,Austin,TX,USA,NULL,NULL,782
+sao-paulo,Sao Paulo,NULL,Brazil,NULL,NULL,783
+spo.br,Sao Paulo,NULL,Brazil,NULL,NULL,784
+ipsin,Indianapolis,IN,USA,NULL,NULL,785
+be-bru,Brussels,NULL,Belgium,NULL,NULL,786
+lwrnc.in,Lawrence,IN,USA,NULL,NULL,787
+sprgfld.mo,Springfield,MO,USA,NULL,NULL,788
+rlmil,Rolling Meadows,IL,USA,NULL,NULL,789
+miam,Miami,FL,USA,NULL,NULL,790
+hou.tx,Houston,TX,USA,NULL,NULL,791
+nash.tn,Nashville,TN,USA,NULL,NULL,792
+bsmrk.nd,Bismarck,ND,USA,NULL,NULL,793
+rdu.nc,Raleigh,NC,USA,NULL,NULL,794
+slsmd,Silver Spring,MD,USA,NULL,NULL,795
+col.md,Columbia,MD,USA,NULL,NULL,796
+abrd.md,Aberdeen,MD,USA,NULL,NULL,797
+milan,Milan,NULL,Italy,NULL,NULL,798
+rslyny,Roslyn Heights,NY,USA,NULL,NULL,799
+duisburg.de,Duisburg,NULL,Germany,NULL,NULL,800
+grdnca,Garden Grove,CA,USA,NULL,NULL,801
+catv.md,Catonsville,MD,USA,NULL,NULL,802
+stockholm.se,Stockholm,NULL,Sweden,NULL,NULL,803
+sctdl.az,Scottsdale,AZ,USA,NULL,NULL,804
+albqrq.nm,Albuquerque,NM,USA,NULL,NULL,805
+satx,San Antonio,TX,USA,NULL,NULL,806
+tlsok,Tulsa,OK,USA,NULL,NULL,807
+samara,Samara,NULL,Russia,NULL,NULL,808
+rouen,Rouen,NULL,France,NULL,NULL,809
+pns,Pensacola,FL,USA,NULL,NULL,810
+cop,Copenhagen,NULL,Denmark,NULL,NULL,811
+jcsn.mi,Jackson,MI,USA,NULL,NULL,812
+adsn.mi,Addison,MI,USA,NULL,NULL,813
+gdrmi,Grand Rapids,MI,USA,NULL,NULL,814
+vienna.at,Vienna,NULL,Austria,NULL,NULL,815
+ykh.jp,Yokohama,NULL,Japan,NULL,NULL,816
+iowact.ia,Iowa City,IA,USA,NULL,NULL,817
+reykjavik,Reykjavik,NULL,Iceland,NULL,NULL,818
+esn,Essen,NULL,Germany,NULL,NULL,819
+baycty.mi,Bay City,MI,USA,NULL,NULL,820
+montrealak,Montreal,NULL,Canada,NULL,NULL,821
+sbndin,South Bend,IN,USA,NULL,NULL,822
+rochester,Rochester,NY,USA,NULL,NULL,823
+mrf.va,Merrifield,VA,USA,NULL,NULL,824
+frd.va,Fredericksburg,VA,USA,NULL,NULL,825
+fdk.md,Frederick,MD,USA,NULL,NULL,826
+ttn,Trenton,NJ,USA,NULL,NULL,827
+abnva,Abingdon,VA,USA,NULL,NULL,828
+strg.mi,Sterling Heights,MI,USA,NULL,NULL,829
+ch-zur,Zurich,NULL,Switzerland,NULL,NULL,830
+de-fra,Frankfurt,NULL,Germany,NULL,NULL,831
+washingtondc.us,Washington,DC,USA,NULL,NULL,832
+sanjose.us,San Jose,CA,USA,NULL,NULL,833
+spknwa,Spokane,WA,USA,NULL,NULL,834
+sd2ca,San Diego,CA,USA,NULL,NULL,835
+albnm,Albuquerque,NM,USA,NULL,NULL,836
+lnclne,Lincoln,NE,USA,NULL,NULL,837
+leuven.belgium,Leuven,NULL,Belgium,NULL,NULL,838
+leuven.be,Leuven,NULL,Belgium,NULL,NULL,839
+hongkong,Hong Kong,NULL,China,NULL,NULL,840
+bak,Bakersfield,CA,USA,NULL,NULL,841
+bkfdca,Bakersfield,CA,USA,NULL,NULL,842
+aus,Austin,TX,USA,NULL,NULL,843
+cph.dk,Copenhagen,NULL,Denmark,NULL,NULL,844
+mlm.se,Malmo,NULL,Sweden,NULL,NULL,845
+gbg.se,Goteborg,NULL,Sweden,NULL,NULL,846
+bor.se,Borlange,NULL,Sweden,NULL,NULL,847
+vxj.se,Vaxjo,NULL,Sweden,NULL,NULL,848
+burltn.wa,Burlington,WA,USA,NULL,NULL,849
+dusseldorf,Dusseldorf,NULL,Germany,NULL,NULL,850
+toulon,Toulon,NULL,France,NULL,NULL,851
+mlpsca,Milpitas,CA,USA,NULL,NULL,852
+darwin,Darwin,NULL,Australia,NULL,NULL,853
+atlantapaix,Atlanta,GA,USA,NULL,NULL,854
+myvloh,Marysville,OH,USA,NULL,NULL,855
+grtfls.mt,Great Falls,MT,USA,NULL,NULL,856
+gso,Greensboro,NC,USA,NULL,NULL,857
+mchn.de,Munich,NULL,Germany,NULL,NULL,858
+bln.de,Berlin,NULL,Germany,NULL,NULL,859
+ffm.de,Frankfurt,NULL,Germany,NULL,NULL,860
+dsltokyo,Tokyo,NULL,Japan,NULL,NULL,861
+bonn.de,Bonn,NULL,Germany,NULL,NULL,862
+nice,Nice,NULL,France,NULL,NULL,863
+ltrar,Little Rock,AR,USA,NULL,NULL,864
+es-mad,Madrid,NULL,Spain,NULL,NULL,865
+cha,Charlotte,NC,USA,NULL,NULL,866
+mgm,Montgomery,AL,USA,NULL,NULL,867
+ffm,Frankfurt,NULL,Germany,NULL,NULL,868
+phdl.pa,Philadelphia,PA,USA,NULL,NULL,869
+athens.gr,Athens,NULL,Greece,NULL,NULL,870
+calgary,Calgary,AB,Canada,NULL,NULL,871
+kansascitykcd,Kansas City,MO,USA,NULL,NULL,872
+tby,Tampa,FL,USA,NULL,NULL,873
+scs.nj,Secaucus,NJ,USA,NULL,NULL,874
+ncchrl,Charlotte,NC,USA,NULL,NULL,875
+chg,Chicago,IL,USA,NULL,NULL,876
+demone.ia,Des Moines,IA,USA,NULL,NULL,877
+hong-kong,Hong Kong,NULL,China,NULL,NULL,878
+hkng.hk,Hong Kong,NULL,China,NULL,NULL,879
+pennsauken.ne,Pennsauken,NJ,USA,NULL,NULL,880
+philadelp,Philadelphia,PA,USA,NULL,NULL,881
+hamilton,Hamilton,NULL,Canada,NULL,NULL,882
+manchester.uk,Manchester,NULL,United Kingdom,NULL,NULL,883
+ldn.eu,London,NULL,United Kingdom,NULL,NULL,884
+cc.fl,Cocoa,FL,USA,NULL,NULL,885
+sdgca,San Diego,CA,USA,NULL,NULL,886
+lond,London,NULL,United Kingdom,NULL,NULL,887
+read,Reading,NULL,United Kingdom,NULL,NULL,888
+phxcolo,Phoenix,AZ,USA,NULL,NULL,889
+dus.de,Dusseldorf,NULL,Germany,NULL,NULL,890
+bris,Bristol,NULL,United Kingdom,NULL,NULL,891
+chatt,Chattanooga,TN,USA,NULL,NULL,892
+nash,Nashville,TN,USA,NULL,NULL,893
+desm,Des Moines,IA,USA,NULL,NULL,894
+rostov,Rostov,NULL,Russia,NULL,NULL,895
+nth.gbb.uk,Nottingham,NULL,United Kingdom,NULL,NULL,896
+it-mil,Milan,NULL,Italy,NULL,NULL,897
+cdknj,Cliffside Park,NJ,USA,NULL,NULL,898
+bng,Bangalore,NULL,India,NULL,NULL,899
+vancbc,Vancouver,BC,Canada,NULL,NULL,900
+la6ca,Los Angeles,CA,USA,NULL,NULL,901
+nantes,Nantes,NULL,France,NULL,NULL,902
+crvlls.or,Corvallis,OR,USA,NULL,NULL,903
+minneapolismpn,Minneapolis,MN,USA,NULL,NULL,904
+nminneapol,Minneapolis,MN,USA,NULL,NULL,905
+mdd.es,Madrid,NULL,Spain,NULL,NULL,906
+bham,Birmingham,AL,USA,NULL,NULL,907
+bordeaux,Bordeaux,NULL,France,NULL,NULL,908
+min,Minneapolis,MN,USA,NULL,NULL,909
+ant.be,Antwerp,NULL,Belgium,NULL,NULL,910
+gnbo,Greensboro,NC,USA,NULL,NULL,911
+hilden.de,Hilden,NULL,Germany,NULL,NULL,912
+la.ca,Los Angeles,CA,USA,NULL,NULL,913
+lau,Lausanne,NULL,Switzerland,NULL,NULL,914
+hrndva,Herndon,VA,USA,NULL,NULL,915
+paloaltopaix,Palo Alto,CA,USA,NULL,NULL,916
+sto.se,Stockholm,NULL,Sweden,NULL,NULL,917
+gnv,Gainesville,FL,USA,NULL,NULL,918
+barcelona,Barcelona,NULL,Spain,NULL,NULL,919
+chcnil,Chicago,IL,USA,NULL,NULL,920
+toroon,Toronto,NULL,Canada,NULL,NULL,921
+snantx,San Antonio,TX,USA,NULL,NULL,922
+ftwttx,Fort Worth,TX,USA,NULL,NULL,923
+phnx.az,Phoenix,AZ,USA,NULL,NULL,924
+brg,Bergamo,NULL,Italy,NULL,NULL,925
+uschrl,Charlotte,NC,USA,NULL,NULL,926
+rockhill,Rock Hill,SC,USA,NULL,NULL,927
+strhg.mi,Sterling Heights,MI,USA,NULL,NULL,928
+bru.be,Brussels,NULL,Belgium,NULL,NULL,929
+chvlva,Charlottesville,VA,USA,NULL,NULL,930
+ftwyn.in,Fort Wayne,IN,USA,NULL,NULL,931
+sanjose.ca,San Jose,CA,USA,NULL,NULL,932
+sdg.ca,San Diego,CA,USA,NULL,NULL,933
+tohoku.jp,Tohoku,NULL,Japan,NULL,NULL,934
+hokkaido.jp,Sapporo,Hokkaido,Japan,NULL,NULL,935
+btr,Baton Rouge,LA,USA,NULL,NULL,936
+stgt.de,Stuttgart,NULL,Germany,NULL,NULL,937
+forhls.nm,Albuquerque,NM,USA,NULL,NULL,938
+milw,Milwaukee,WI,USA,NULL,NULL,939
+ath,Athens,NULL,Greece,NULL,NULL,940
+phoenix.na,Phoenix,AZ,USA,NULL,NULL,941
+vncr,Vancouver,WA,USA,NULL,NULL,942
+odense.dk,Odense,NULL,Denmark,NULL,NULL,943
+mcn,Macon,GA,USA,NULL,NULL,944
+fdl.wi,Fond du Lac,WI,USA,NULL,NULL,945
+dnv,Denver,CO,USA,NULL,NULL,946
+frsn,Fresno,CA,USA,NULL,NULL,947
+trpr.pa,Trooper,PA,USA,NULL,NULL,948
+aby,Albany,GA,USA,NULL,NULL,949
+lin,Milan,NULL,Italy,NULL,NULL,950
+kra.pl,Krakow,NULL,Poland,NULL,NULL,951
+dresden,Dresden,NULL,Germany,NULL,NULL,952
+mma,Malmo,NULL,Sweden,NULL,NULL,953
+sktn,Stockton,CA,USA,NULL,NULL,954
+stcgpa,State College,PA,USA,NULL,NULL,955
+quebec,Quebec,QU,Canada,NULL,NULL,956
+iplt,Indianapolis,IN,USA,NULL,NULL,957
+geneva,Geneva,NULL,Switzerland,NULL,NULL,958
+ushstn,Houston,TX,USA,NULL,NULL,959
+regensburg,Regensburg,NULL,Germany,NULL,NULL,960
+ilchi,Chicago,IL,USA,NULL,NULL,961
+nynyc,New York,NY,USA,NULL,NULL,962
+knox,Knoxville,TN,USA,NULL,NULL,963
+tnnas,Nashville,TN,USA,NULL,NULL,964
+tnkno,Knoxville,TN,USA,NULL,NULL,965
+mel.au,Melbourne,NULL,Australia,NULL,NULL,966
+ade.au,Adelaide,NULL,Australia,NULL,NULL,967
+dayton,Dayton,OH,USA,NULL,NULL,968
+muc.de,Munich,NULL,Germany,NULL,NULL,969
+fukuoka.jp,Fukuoka,NULL,Japan,NULL,NULL,970
+agstme,Augusta,ME,USA,NULL,NULL,971
+maewest,San Jose,CA,USA,NULL,NULL,972
+athena,Athens,NULL,Greece,NULL,NULL,973
+mcln,McLean,VA,USA,NULL,NULL,974
+zrch.ch,Zurich,NULL,Switzerland,NULL,NULL,975
+fytv,Fayetteville,NC,USA,NULL,NULL,976
+drhm,Durham,NC,USA,NULL,NULL,977
+alb,Albany,NY,USA,NULL,NULL,978
+bstnmalb,Boston,MA,USA,NULL,NULL,979
+torontodc,Toronto,NULL,Canada,NULL,NULL,980
+man.gbb.uk,Manchester,NULL,United Kingdom,NULL,NULL,981
+bfs,Belfast,NULL,Northern Ireland,NULL,NULL,982
+bfs.gbb.uk,Belfast,NULL,Northern Ireland,NULL,NULL,983
+mamfl,Miami,FL,USA,NULL,NULL,984
+nrockv.md,Rockville,MD,USA,NULL,NULL,985
+valladolid.es,Valladolid,NULL,Spain,NULL,NULL,986
+prtnnj,Princeton,NJ,USA,NULL,NULL,987
+at-vie,Vienna,NULL,Austria,NULL,NULL,988
+maysld.nj,Mays Landing,NJ,USA,NULL,NULL,989
+lis,Lisbon,NULL,Portugal,NULL,NULL,990
+norva,Norfolk,VA,USA,NULL,NULL,991
+norf,Norfolk,VA,USA,NULL,NULL,992
+wiesbaden.de,Wiesbaden,NULL,Germany,NULL,NULL,993
+malang.id,Malang,NULL,Indonesia,NULL,NULL,994
+edi.gbb.uk,Edinburgh,NULL,Scotland,NULL,NULL,995
+bgl.in,Bangalore,NULL,India,NULL,NULL,996
+cae,Columbia,SC,USA,NULL,NULL,997
+delhi.in,Delhi,NULL,India,NULL,NULL,998
+slkut,Salt Lake City,UT,USA,NULL,NULL,999
+syracuse,Syracuse,NY,USA,NULL,NULL,1000
+man,Manchester,NULL,United Kingdom,NULL,NULL,1001
+usdlls,Dallas,TX,USA,NULL,NULL,1002
+frnk,Frankfurt,NULL,Germany,NULL,NULL,1003
+ojufl,Ojus,FL,USA,NULL,NULL,1004
+luxemburg,Luxemburg,NULL,Luxembourg,NULL,NULL,1005
+hlrdoh,Hilliard,OH,USA,NULL,NULL,1006
+bvu,Bellevue,WA,USA,NULL,NULL,1007
+dnwga,Dunwoody,GA,USA,NULL,NULL,1008
+osakjp,Osaka,NULL,Japan,NULL,NULL,1009
+surabaya.id,Surabaya,NULL,Indonesia,NULL,NULL,1010
+glas,Glasgow,NULL,Scotland,NULL,NULL,1011
+sj2ca,San Jose,CA,USA,NULL,NULL,1012
+maastricht,Maastricht,NULL,Netherlands,NULL,NULL,1013
+ocyok,Oklahoma City,OK,USA,NULL,NULL,1014
+asbnva,Ashburn,VA,USA,NULL,NULL,1015
+fldfl,Fort Lauderdale,FL,USA,NULL,NULL,1016
+tmpfl,Tampa,FL,USA,NULL,NULL,1017
+pae.br,Porto Alegre,NULL,Brazil,NULL,NULL,1018
+syr,Syracuse,NY,USA,NULL,NULL,1019
+charlotte,Charlotte,NC,USA,NULL,NULL,1020
+riojaneiro,Rio De Janeiro,NULL,Brazil,NULL,NULL,1021
+milwwirtco.wi,Milwaukee,WI,USA,NULL,NULL,1022
+dcb.dc,Washington,DC,USA,NULL,NULL,1023
+brslbg,Brussels,NULL,Belgium,NULL,NULL,1024
+bne,Brisbane,NULL,Australia,NULL,NULL,1025
+bundaberg.au,Bundaberg,NULL,Australia,NULL,NULL,1026
+pry.za,Pretoria,NULL,South Africa,NULL,NULL,1027
+sntcca,Santa Clara,CA,USA,NULL,NULL,1028
+van,Vancouver,BC,Canada,NULL,NULL,1029
+van.ca,Vancouver,BC,Canada,NULL,NULL,1030
+oslo.no,Oslo,NULL,Norway,NULL,NULL,1031
+amstelveen.nl,Amstelveen,NULL,Netherlands,NULL,NULL,1032
+frmma,Framingham,MA,USA,NULL,NULL,1033
+bnbgoh,Bainbridge,OH,USA,NULL,NULL,1034
+applwi,Appleton,WI,USA,NULL,NULL,1035
+nenhwi,Neenah,WI,USA,NULL,NULL,1036
+dnvtco,Denver,CO,USA,NULL,NULL,1037
+thlon,London,NULL,United Kingdom,NULL,NULL,1038
+alxnva,Alexandria,VA,USA,NULL,NULL,1039
+st-petersburg,St. Petersburg,NULL,Russia,NULL,NULL,1040
+jnb,Johannesburg,NULL,South Africa,NULL,NULL,1041
+greensboro,Greensboro,NC,USA,NULL,NULL,1042
+akita.jp,Akita,NULL,Japan,NULL,NULL,1043
+munich,Munich,NULL,Germany,NULL,NULL,1044
+prague,Prague,NULL,Czech Republic,NULL,NULL,1045
+herndon,Herndon,VA,USA,NULL,NULL,1046
+chennai,Madras,NULL,India,NULL,NULL,1047
+cambridge.uk,Cambridge,NULL,United Kingdom,NULL,NULL,1048
+omh,Omaha,NE,USA,NULL,NULL,1049
+gne,Ghent,NULL,Belgium,NULL,NULL,1050
+ashburn,Ashburn,VA,USA,NULL,NULL,1051
+ekaterinburg,Ekaterinburg,NULL,Russia,NULL,NULL,1052
+novosibirsk,Novosibirsk,NULL,Russia,NULL,NULL,1053
+bsl,Basel,NULL,Switzerland,NULL,NULL,1054
+herva,Herndon,VA,USA,NULL,NULL,1055
+ffaxva,Fairfax,VA,USA,NULL,NULL,1056
+ams.eu,Amsterdam,NULL,Netherlands,NULL,NULL,1057
+kyushu.jp,Kyushu,NULL,Japan,NULL,NULL,1058
+yamaguchi.jp,Yamaguchi,NULL,Japan,NULL,NULL,1059
+tomsk,Tomsk,NULL,Russia,NULL,NULL,1060
+bogota,Bogota,NULL,Colombia,NULL,NULL,1061
+bogo.co,Bogota,NULL,Colombia,NULL,NULL,1062
+tor.ca,Toronto,NULL,Canada,NULL,NULL,1063
+clspco,Colorado Springs,CO,USA,NULL,NULL,1064
+saltlake.ut,Salt Lake City,UT,USA,NULL,NULL,1065
+reading.uk,Reading,NULL,United Kingdom,NULL,NULL,1066
+frpar,Paris,NULL,France,NULL,NULL,1067
+defra,Frankfurt,NULL,Germany,NULL,NULL,1068
+dedus,Dusseldorf,NULL,Germany,NULL,NULL,1069
+dkcop,Copenhagen,NULL,Denmark,NULL,NULL,1070
+spk,Spokane,WA,USA,NULL,NULL,1071
+qha,Hasselt,NULL,Belgium,NULL,NULL,1072
+tours,Tours,NULL,France,NULL,NULL,1073
+tustin,Tustin,CA,USA,NULL,NULL,1074
+ilbloo,Bloomington,IL,USA,NULL,NULL,1075
+lux,Luxembourg,NULL,Luxembourg,NULL,NULL,1076
+nlams,Amsterdam,NULL,Netherlands,NULL,NULL,1077
+gblon,London,NULL,United Kingdom,NULL,NULL,1078
+dtw,Detroit,MI,USA,NULL,NULL,1079
+edin,Edinburgh,NULL,Scotland,NULL,NULL,1080
+okld,Oakland,CA,USA,NULL,NULL,1081
+usnyk,New York,NY,USA,NULL,NULL,1082
+audubn.nj,Audubon,NJ,USA,NULL,NULL,1083
+fla.br,Fortaleza,NULL,Brazil,NULL,NULL,1084
+gru,Sao Paulo,NULL,Brazil,NULL,NULL,1085
+mue,Munich,NULL,Germany,NULL,NULL,1086
+stg,Stuttgart,NULL,Germany,NULL,NULL,1087
+ric,Richmond,VA,USA,NULL,NULL,1088
+mdrdsp,Madrid,NULL,Spain,NULL,NULL,1089
+lhr.uk,London,NULL,United Kingdom,NULL,NULL,1090
+sesto,Stockholm,NULL,Sweden,NULL,NULL,1091
+deham,Hamburg,NULL,Germany,NULL,NULL,1092
+steva,Sterling,VA,USA,NULL,NULL,1093
+rocny,Rochester,NY,USA,NULL,NULL,1094
+cdg.fr,Paris,NULL,France,NULL,NULL,1095
+flrmo,Florissant,MO,USA,NULL,NULL,1096
+rochdale,Rochdale,NULL,United Kingdom,NULL,NULL,1097
+birmingham,Birmingham,NULL,United Kingdom,NULL,NULL,1098
+sfldmi,Southfield,MI,USA,NULL,NULL,1099
+kaiserslautern,Kaiserslautern,NULL,Germany,NULL,NULL,1100
+pho,Phoenix,AZ,USA,NULL,NULL,1101
+sanant,San Antonio,TX,USA,NULL,NULL,1102
+nyk.us,New York,NY,USA,NULL,NULL,1103
+neckarsulm.de,Neckarsulm,NULL,Germany,NULL,NULL,1104
+reading,Reading,NULL,United Kingdom,NULL,NULL,1105
+orlando,Orlando,FL,USA,NULL,NULL,1106
+wat,Waterloo,ON,Canada,NULL,NULL,1107
+rtm,Rotterdam,NULL,Netherlands,NULL,NULL,1108
+syd.au,Sydney,NULL,Australia,NULL,NULL,1109
+nrt.jp,Tokyo,NULL,Japan,NULL,NULL,1110
+panamc.fl,Panama City,FL,USA,NULL,NULL,1111
+mad.wi,Madison,WI,USA,NULL,NULL,1112
+bir.uk,Birmingham,NULL,United Kingdom,NULL,NULL,1113
+ptdme,Portland,ME,USA,NULL,NULL,1114
+manhattan,New York,NY,USA,NULL,NULL,1115
+abyny,Albany,NY,USA,NULL,NULL,1116
+lgvwtx,Longview,TX,USA,NULL,NULL,1117
+bp4ct,Bridgeport,CT,USA,NULL,NULL,1118
+hvr.de,Hannover,NULL,Germany,NULL,NULL,1119
+roc.mn,Rochester,MN,USA,NULL,NULL,1120
+mco,Orlando,FL,USA,NULL,NULL,1121
+mdsnwi,Madison,WI,USA,NULL,NULL,1122
+mdtnwi,Middleton,WI,USA,NULL,NULL,1123
+pau,Port Augusta,NULL,Australia,NULL,NULL,1124
+sevilla.es,Seville,NULL,Spain,NULL,NULL,1125
+prnynj,Parsippany,NJ,USA,NULL,NULL,1126
+dayton-metro.oh,Dayton,OH,USA,NULL,NULL,1127
+grhlca,Granite Hills,CA,USA,NULL,NULL,1128
+debln,Berlin,NULL,Germany,NULL,NULL,1129
+czpra,Prague,NULL,Czech Republic,NULL,NULL,1130
+wshdc,Washington,DC,USA,NULL,NULL,1131
+barcelona.es,Barcelona,NULL,Spain,NULL,NULL,1132
+orlnfl,Orlando,FL,USA,NULL,NULL,1133
+whtmrs.md,White Marsh,MD,USA,NULL,NULL,1134
+dalect.va,Dale City,VA,USA,NULL,NULL,1135
+bcvloh,Brecksville,OH,USA,NULL,NULL,1136
+weingarten,Weingarten,NULL,Germany,NULL,NULL,1137
+wmnsmd,Westminster,MD,USA,NULL,NULL,1138
+losangeles.nz,Los Angeles,CA,USA,NULL,NULL,1139
+auckland.nz,Auckland,NULL,New Zealand,NULL,NULL,1140
+uppsala.se,Uppsala,NULL,Sweden,NULL,NULL,1141
+borlange.se,Borlange,NULL,Sweden,NULL,NULL,1142
+dvr,Denver,CO,USA,NULL,NULL,1143
+hcknnj,Hackensack,NJ,USA,NULL,NULL,1144
+dovrhe.nh,Dover,NH,USA,NULL,NULL,1145
+frptny,Freeport,NY,USA,NULL,NULL,1146
+srp.nj,Somers Point,NJ,USA,NULL,NULL,1147
+atla.ga.us,Atlanta,GA,USA,NULL,NULL,1148
+hunt.al.us,Huntsville,AL,USA,NULL,NULL,1149
+mem,Memphis,TN,USA,NULL,NULL,1150
+flnt,Flint,MI,USA,NULL,NULL,1151
+hk,Hong Kong,NULL,China,NULL,NULL,1152
+hon,Honolulu,HI,USA,NULL,NULL,1153
+honolulu,Honolulu,HI,USA,NULL,NULL,1154
+col,Columbus,OH,USA,NULL,NULL,1155
+uparoh,Upper Arlington,OH,USA,NULL,NULL,1156
+jena.de,Jena,NULL,Germany,NULL,NULL,1157
+gnbnc,Greensboro,NC,USA,NULL,NULL,1158
+kc9mo,Kansas City,MO,USA,NULL,NULL,1159
+nagoya.jp,Nagoya,NULL,Japan,NULL,NULL,1160
+nwrnj,Newark,NJ,USA,NULL,NULL,1161
+hanover.de,Hannover,NULL,Germany,NULL,NULL,1162
+kassel.de,Kassel,NULL,Germany,NULL,NULL,1163
+erfurt.de,Erfurt,NULL,Germany,NULL,NULL,1164
+clgrab,Calgary,AB,Canada,NULL,NULL,1165
+oxf.uk,Oxford,NULL,United Kingdom,NULL,NULL,1166
+malvrn.pa,Malvern,PA,USA,NULL,NULL,1167
+pxdltx,Dallas,TX,USA,NULL,NULL,1168
+prs,Paris,NULL,France,NULL,NULL,1169
+saopaulo,Sao Paulo,NULL,Brazil,NULL,NULL,1170
+pxsewa,Seattle,WA,USA,NULL,NULL,1171
+lvnami,Livonia,MI,USA,NULL,NULL,1172
+reims,Reims,NULL,France,NULL,NULL,1173
+pra.cz,Prague,NULL,Czech Republic,NULL,NULL,1174
+gnbywi,Green Bay,WI,USA,NULL,NULL,1175
+miwwi,Milwaukee,WI,USA,NULL,NULL,1176
+jonkoping.se,Jonkoping,NULL,Sweden,NULL,NULL,1177
+boras.se,Boras,NULL,Sweden,NULL,NULL,1178
+goteborg.se,Goteborg,NULL,Sweden,NULL,NULL,1179
+danbry.ct,Danbury,CT,USA,NULL,NULL,1180
+qens.ny,New York,NY,USA,NULL,NULL,1181
+sfr-ca,San Francisco,CA,USA,NULL,NULL,1182
+linkoping.se,Linkoping,NULL,Sweden,NULL,NULL,1183
+miamfl,Miami,FL,USA,NULL,NULL,1184
+tacmwa,Tacoma,WA,USA,NULL,NULL,1185
+gby,Green Bay,WI,USA,NULL,NULL,1186
+deprwi,De Pere,WI,USA,NULL,NULL,1187
+okldnj,Oakland,NJ,USA,NULL,NULL,1188
+pxvnva,Vienna,VA,USA,NULL,NULL,1189
+ful,Fullerton,CA,USA,NULL,NULL,1190
+pxpaca,Palo Alto,CA,USA,NULL,NULL,1191
+kenowikeno.wi,Kenosha,WI,USA,NULL,NULL,1192
+ungvwiykvl.wi,Union Grove,WI,USA,NULL,NULL,1193
+ottwoh,Ottawa,OH,USA,NULL,NULL,1194
+txaust,Austin,TX,USA,NULL,NULL,1195
+lwllhe.ma,Lowell,MA,USA,NULL,NULL,1196
+fmhlmi,Farmington Hills,MI,USA,NULL,NULL,1197
+gre,Green Bay,WI,USA,NULL,NULL,1198
+fns.br,Florianopolis,NULL,Brazil,NULL,NULL,1199
+br.spoe,Sao Paulo,NULL,Brazil,NULL,NULL,1200
+cas.br,Campinas,NULL,Brazil,NULL,NULL,1201
+pastourelle,Paris,NULL,France,NULL,NULL,1202
+bourse,Paris,NULL,France,NULL,NULL,1203
+beaujon,Paris,NULL,France,NULL,NULL,1204
+besancon.fr,Besancon,NULL,France,NULL,NULL,1205
+bordeaux.fr,Bordeaux,NULL,France,NULL,NULL,1206
+caen.fr,Caen,NULL,France,NULL,NULL,1207
+compiegne.fr,Compiegne,NULL,France,NULL,NULL,1208
+corse.fr,Corse,NULL,France,NULL,NULL,1209
+dijon.fr,Dijon,NULL,France,NULL,NULL,1210
+evry.fr,Evry,NULL,France,NULL,NULL,1211
+grenoble.fr,Grenoble,NULL,France,NULL,NULL,1212
+lille.fr,Lille,NULL,France,NULL,NULL,1213
+limoges.fr,Limoges,NULL,France,NULL,NULL,1214
+lyon.fr,Lyon,NULL,France,NULL,NULL,1215
+marseille.fr,Marseille,NULL,France,NULL,NULL,1216
+montpellier.fr,Montpellier,NULL,France,NULL,NULL,1217
+nancy.fr,Nancy,NULL,France,NULL,NULL,1218
+nantes.fr,Nantes,NULL,France,NULL,NULL,1219
+nice.fr,Nice,NULL,France,NULL,NULL,1220
+niort.fr,Niort,NULL,France,NULL,NULL,1221
+orleans.fr,Orleans,NULL,France,NULL,NULL,1222
+poitiers.fr,Poitiers,NULL,France,NULL,NULL,1223
+reims.fr,Reims,NULL,France,NULL,NULL,1224
+rennes.fr,Rennes,NULL,France,NULL,NULL,1225
+rouen.fr,Rouen,NULL,France,NULL,NULL,1226
+sophia.fr,Sophia,NULL,France,NULL,NULL,1227
+strasbourg.fr,Strasbourg,NULL,France,NULL,NULL,1228
+toulouse.fr,Toulouse,NULL,France,NULL,NULL,1229
+nwbl.wi,New Berlin,WI,USA,NULL,NULL,1230
+hrfr.wi,Hartford,WI,USA,NULL,NULL,1231
+nycny,New York,NY,USA,NULL,NULL,1232
+phipa,Philadelphia,PA,USA,NULL,NULL,1233
+caburb,Burbank,CA,USA,NULL,NULL,1234
+elpstx,El Paso,TX,USA,NULL,NULL,1235
+elsgrdc.ca,El Segundo,CA,USA,NULL,NULL,1236
+apc,Napa,CA,USA,NULL,NULL,1237
+kscy,Kansas City,MO,USA,NULL,NULL,1238
+ipls,Indianapolis,IN,USA,NULL,NULL,1239
+prov.ri,Providence,RI,USA,NULL,NULL,1240
+nrfk.hr,Norfolk,VA,USA,NULL,NULL,1241
+phda.pa,Philadelphia,PA,USA,NULL,NULL,1242
+roch,Rochester,NY,USA,NULL,NULL,1243
+mgw,Morgantown,WV,USA,NULL,NULL,1244
+mililani,Mililani,HI,USA,NULL,NULL,1245
+ca.sanfranc,San Francisco,CA,USA,NULL,NULL,1246
+or.portland,Portland,OR,USA,NULL,NULL,1247
+martnz.ga,Martinez,GA,USA,NULL,NULL,1248
+tclon,London,NULL,United Kingdom,NULL,NULL,1249
+rblon,London,NULL,United Kingdom,NULL,NULL,1250
+eulstx,Euless,TX,USA,NULL,NULL,1251
+dlls.dl,Dallas,TX,USA,NULL,NULL,1252
+chnd.ph,Chandler,AZ,USA,NULL,NULL,1253
+kntnoh,Kenton,OH,USA,NULL,NULL,1254
+il.chicago,Chicago,IL,USA,NULL,NULL,1255
+lisbon,Lisbon,NULL,Portugal,NULL,NULL,1256
+krasnodar,Krasnodar,NULL,Russia,NULL,NULL,1257
+brtpnj,Brick Town,NJ,USA,NULL,NULL,1258
+portland,Portland,OR,USA,NULL,NULL,1259
+pth,Perth,NULL,Australia,NULL,NULL,1260
+ussttl,Seattle,WA,USA,NULL,NULL,1261
+pitpa,Pittsburgh,PA,USA,NULL,NULL,1262
+fyvlar,Fayetteville,AR,USA,NULL,NULL,1263
+snrf,San Rafael,CA,USA,NULL,NULL,1264
+bur.au,Melbourne,NULL,Australia,NULL,NULL,1265
+hay.au,Sydney,NULL,Australia,NULL,NULL,1266
+nsvtn,Nashville,TN,USA,NULL,NULL,1267
+mazo.wi,Mazomanie,WI,USA,NULL,NULL,1268
+hsv,Huntsville,AL,USA,NULL,NULL,1269
+que,Quebec,QU,Canada,NULL,NULL,1270
+brs.au,Brisbane,NULL,Australia,NULL,NULL,1271
+gct.au,Gold Coast,NULL,Australia,NULL,NULL,1272
+minneapolis,Minneapolis,MN,USA,NULL,NULL,1273
+dvnia,Davenport,IA,USA,NULL,NULL,1274
+ca.pasadena,Pasadena,CA,USA,NULL,NULL,1275
+co.denver,Denver,CO,USA,NULL,NULL,1276
+wa.seattle,Seattle,WA,USA,NULL,NULL,1277
+pekanbaru.id,Pekanbaru,NULL,Indonesia,NULL,NULL,1278
+rsmt.oc,Rosemont,CA,USA,NULL,NULL,1279
+campbelltown.au,Campbelltown,NULL,Australia,NULL,NULL,1280
+vie.at,Vienna,NULL,Austria,NULL,NULL,1281
+lexing.ky,Lexington,KY,USA,NULL,NULL,1282
+nbrgnj,North Bergen,NJ,USA,NULL,NULL,1283
+man.mn,Mankato,MN,USA,NULL,NULL,1284
+lwrnce.in,Lawrence,IN,USA,NULL,NULL,1285
+snan,San Antonio,TX,USA,NULL,NULL,1286
+edtnab,Edmonton,AB,Canada,NULL,NULL,1287
+shsh.cn,Shanghai,NULL,China,NULL,NULL,1288
+bjbj.cn,Beijing,NULL,China,NULL,NULL,1289
+ags,Augusta,GA,USA,NULL,NULL,1290
+hrbpa,Harrisburg,PA,USA,NULL,NULL,1291
+richhe.va,Richmond,VA,USA,NULL,NULL,1292
+alpe.mi,Alpena,MI,USA,NULL,NULL,1293
+rockwd.mi,Rockwood,MI,USA,NULL,NULL,1294
+mdswi,Madison,WI,USA,NULL,NULL,1295
+sav,Savannah,GA,USA,NULL,NULL,1296
+brhmi,Birmingham,MI,USA,NULL,NULL,1297
+southg.mi,Southgate,MI,USA,NULL,NULL,1298
+leed,Leeds,NULL,United Kingdom,NULL,NULL,1299
+maee,Washington,DC,USA,NULL,NULL,1300
+ga.atlanta,Atlanta,GA,USA,NULL,NULL,1301
+al.birmingh,Birmingham,AL,USA,NULL,NULL,1302
+lvxx.lv,Las Vegas,NV,USA,NULL,NULL,1303
+pmbhhe.fl,Pompano Beach,FL,USA,NULL,NULL,1304
+grandrapids,Grand Rapids,MI,USA,NULL,NULL,1305
+gdgz.cn,Guangzhou,NULL,China,NULL,NULL,1306
+bltnin,Bloomington,IN,USA,NULL,NULL,1307
+cdalid,Coeur dAlene,ID,USA,NULL,NULL,1308
+ndhmhe.ma,Needham,MA,USA,NULL,NULL,1309
+brmngh.mi,Birmingham,MI,USA,NULL,NULL,1310
+cnpkca,Cameron Park,CA,USA,NULL,NULL,1311
+esn.de,Essen,NULL,Germany,NULL,NULL,1312
+dtm.de,Dortmund,NULL,Germany,NULL,NULL,1313
+ntckhe.ma,Nantucket,MA,USA,NULL,NULL,1314
+stjmny,St. James,NY,USA,NULL,NULL,1315
+ilm.ec,Wilmington,NC,USA,NULL,NULL,1316
+wdbrnjwd,Woodbridge,NJ,USA,NULL,NULL,1317
+calgab,Calgary,AB,Canada,NULL,NULL,1318
+spfdmo,Springfield,MO,USA,NULL,NULL,1319
+dai-tx,Dallas,TX,USA,NULL,NULL,1320
+lai-ca,Los Angeles,CA,USA,NULL,NULL,1321
+wotnoh,Worthington,OH,USA,NULL,NULL,1322
+luxemburg.lu,Luxembourg,NULL,Luxembourg,NULL,NULL,1323
+wash.dc,Washington,DC,USA,NULL,NULL,1324
+pskn,Pennsauken,NJ,USA,NULL,NULL,1325
+brbn.ca,Burbank,CA,USA,NULL,NULL,1326
+hstn.tx,Houston,TX,USA,NULL,NULL,1327
+atln.ga,Atlanta,GA,USA,NULL,NULL,1328
+queens,New York,NY,USA,NULL,NULL,1329
+tamp.fl,Tampa,FL,USA,NULL,NULL,1330
+lsanhe.ca,Los Angeles,CA,USA,NULL,NULL,1331
+nycm.ny,New York,NY,USA,NULL,NULL,1332
+chcg.il,Chicago,IL,USA,NULL,NULL,1333
+mik-mn,Minnetonka,MN,USA,NULL,NULL,1334
+cmbrhe.ma,Cambridge,MA,USA,NULL,NULL,1335
+annp.md,Annapolis,MD,USA,NULL,NULL,1336
+nwrk.nj,Newark,NJ,USA,NULL,NULL,1337
+louisville,Louisville,KY,USA,NULL,NULL,1338
+dlls.tx,Dallas,TX,USA,NULL,NULL,1339
+ksca.mo,Kansas City,MO,USA,NULL,NULL,1340
+char.sc.us,Charleston,SC,USA,NULL,NULL,1341
+mont.al.us,Montgomery,AL,USA,NULL,NULL,1342
+islpny,Islip,NY,USA,NULL,NULL,1343
+chc-il,Chicago,IL,USA,NULL,NULL,1344
+roc-il,Rockford,IL,USA,NULL,NULL,1345
+dcwash,Washington,DC,USA,NULL,NULL,1346
+jkp.se,Jonkoping,NULL,Sweden,NULL,NULL,1347
+lkp.se,Linkoping,NULL,Sweden,NULL,NULL,1348
+orpkhe.fl,Orange Park,FL,USA,NULL,NULL,1349
+peoril,Peoria,IL,USA,NULL,NULL,1350
+in.indianap,Indianapolis,IN,USA,NULL,NULL,1351
+mldnhe.ma,Malden,MA,USA,NULL,NULL,1352
+lynnhe.ma,Lynn,MA,USA,NULL,NULL,1353
+chn.in,Madras,NULL,India,NULL,NULL,1354
+cta.br,Curitiba,NULL,Brazil,NULL,NULL,1355
+gsp,Greenville,SC,USA,NULL,NULL,1356
+sknwa,Spokane,WA,USA,NULL,NULL,1357
+nashville,Nashville,TN,USA,NULL,NULL,1358
+rthfrd.tn,Rutherford,TN,USA,NULL,NULL,1359
+sel,Seoul,NULL,South Korea,NULL,NULL,1360
+spfdhe.ma,Springfield,MA,USA,NULL,NULL,1361
+bstn.ma,Boston,MA,USA,NULL,NULL,1362
+dijon,Dijon,NULL,France,NULL,NULL,1363
+columbia,Columbia,SC,USA,NULL,NULL,1364
+wae-dc,Washington,DC,USA,NULL,NULL,1365
+waf-dc,Washington,DC,USA,NULL,NULL,1366
+vie.jp,Vienna,VA,USA,NULL,NULL,1367
+lax.jp,Los Angeles,CA,USA,NULL,NULL,1368
+pa.philadel,Philadelphia,PA,USA,NULL,NULL,1369
+indianapolis,Indianapolis,IN,USA,NULL,NULL,1370
+znvlin,Zionsville,IN,USA,NULL,NULL,1371
+elp,El Paso,TX,USA,NULL,NULL,1372
+canton,Canton,OH,USA,NULL,NULL,1373
+ny.newyorkc,New York,NY,USA,NULL,NULL,1374
+aberdn.md,Aberdeen,MD,USA,NULL,NULL,1375
+chcil,Chicago,IL,USA,NULL,NULL,1376
+va.ashburn,Ashburn,VA,USA,NULL,NULL,1377
+buenosaeres,Buenos Aires,NULL,Argentina,NULL,NULL,1378
+cncnoh,Cincinnati,OH,USA,NULL,NULL,1379
+cinci,Cincinnati,OH,USA,NULL,NULL,1380
+clnt.mi,Clinton,MI,USA,NULL,NULL,1381
+roylok.mi,Royal Oak,MI,USA,NULL,NULL,1382
+lsan.ca,Los Angeles,CA,USA,NULL,NULL,1383
+snva.ca,Sunnyvale,CA,USA,NULL,NULL,1384
+nbg,Nuremberg,NULL,Germany,NULL,NULL,1385
+usstls,St. Louis,MO,USA,NULL,NULL,1386
+hstn,Houston,TX,USA,NULL,NULL,1387
+atla,Atlanta,GA,USA,NULL,NULL,1388
+dsm.io,Des Moines,IA,USA,NULL,NULL,1389
+cmtnhe.ca,Compton,CA,USA,NULL,NULL,1390
+csmshe.ca,Costa Mesa,CA,USA,NULL,NULL,1391
+hlfxns,Halifax,NS,Canada,NULL,NULL,1392
+tpe,Taipei,NULL,Taiwan,NULL,NULL,1393
+ftsm,Fort Smith,AR,USA,NULL,NULL,1394
+mtgmoh,Montgomery,OH,USA,NULL,NULL,1395
+albany,Albany,NY,USA,NULL,NULL,1396
+helsingfors,Helsingfors,NULL,Finland,NULL,NULL,1397
+kitchener,Kitchener,ON,Canada,NULL,NULL,1398
+snjs.ca,San Jose,CA,USA,NULL,NULL,1399
+stamford,Stamford,CT,USA,NULL,NULL,1400
+mtrlpq,Montreal,NULL,Canada,NULL,NULL,1401
+ott.ca,Ottawa,ON,Canada,NULL,NULL,1402
+reding.pa,Reading,PA,USA,NULL,NULL,1403
+hu.bud,Budapest,NULL,Hungary,NULL,NULL,1404
+brasov.ro,Brasov,NULL,Romania,NULL,NULL,1405
+bristol,Bristol,NULL,United Kingdom,NULL,NULL,1406
+gum,Agana,GU,USA,NULL,NULL,1407
+clt,Charlotte,NC,USA,NULL,NULL,1408
+lond.uk,London,NULL,United Kingdom,NULL,NULL,1409
+tlaquepaque.mx,Tlaquepaque,NULL,Mexico,NULL,NULL,1410
+braunschweig,Braunschweig,NULL,Germany,NULL,NULL,1411
+bucharest.ro,Bucharest,NULL,Romania,NULL,NULL,1412
+dnvr.co,Denver,CO,USA,NULL,NULL,1413
+tallah.fl,Tallahassee,FL,USA,NULL,NULL,1414
+oh.clevelan,Cleveland,OH,USA,NULL,NULL,1415
+ma.cambridg,Cambridge,MA,USA,NULL,NULL,1416
+agst.ga.us,Augusta,GA,USA,NULL,NULL,1417
+haj,Hannover,NULL,Germany,NULL,NULL,1418
+haj.de,Hannover,NULL,Germany,NULL,NULL,1419
+chchille,Chicago,IL,USA,NULL,NULL,1420
+clexohuq,Cleveland,OH,USA,NULL,NULL,1421
+jnb.za,Johannesburg,NULL,South Africa,NULL,NULL,1422
+carlsl.pa,Carlisle,PA,USA,NULL,NULL,1423
+fl.miami,Miami,FL,USA,NULL,NULL,1424
+tx.houston,Houston,TX,USA,NULL,NULL,1425
+tx.dallas,Dallas,TX,USA,NULL,NULL,1426
+az.phoenix,Phoenix,AZ,USA,NULL,NULL,1427
+ca.losangel,Los Angeles,CA,USA,NULL,NULL,1428
+ca.oakland,Oakland,CA,USA,NULL,NULL,1429
+pth.au,Perth,NULL,Australia,NULL,NULL,1430
+dsdfge,Dusseldorf,NULL,Germany,NULL,NULL,1431
+villingen.de,Villingen,NULL,Germany,NULL,NULL,1432
+ravensburg.de,Ravensburg,NULL,Germany,NULL,NULL,1433
+bgtmo,Bridgeton,MO,USA,NULL,NULL,1434
+hdn,Hilden,NULL,Germany,NULL,NULL,1435
+brhal,Birmingham,AL,USA,NULL,NULL,1436
+wobnhe.ma,Woburn,MA,USA,NULL,NULL,1437
+paix.ca,Palo Alto,CA,USA,NULL,NULL,1438
+zch,Zurich,NULL,Switzerland,NULL,NULL,1439
+hf3ct,Hartford,CT,USA,NULL,NULL,1440
+mtl.ca,Montreal,NULL,Canada,NULL,NULL,1441
+clmasc,Columbia,SC,USA,NULL,NULL,1442
+neomah,Omaha,NE,USA,NULL,NULL,1443
+vrn.ru,Voronezh,NULL,Russia,NULL,NULL,1444
+voronezh,Voronezh,NULL,Russia,NULL,NULL,1445
+stlouis,St. Louis,MO,USA,NULL,NULL,1446
+whplny,White Plains,NY,USA,NULL,NULL,1447
+nclxtn,Lexington,NC,USA,NULL,NULL,1448
+stwwa,Seattle,WA,USA,NULL,NULL,1449
+antwerpen.be,Antwerp,NULL,Belgium,NULL,NULL,1450
+goosck.sc,Goose Creek,SC,USA,NULL,NULL,1451
+pit-pa,Pittsburgh,PA,USA,NULL,NULL,1452
+tamq,Tampa,FL,USA,NULL,NULL,1453
+war,Warsaw,NULL,Poland,NULL,NULL,1454
+ehtnny,East Hampton,NY,USA,NULL,NULL,1455
+ptmohe.nh,Portsmouth,NH,USA,NULL,NULL,1456
+milwwi,Milwaukee,WI,USA,NULL,NULL,1457
+ber.de,Berlin,NULL,Germany,NULL,NULL,1458
+ber,Berlin,NULL,Germany,NULL,NULL,1459
+stmnca,Santa Monica,CA,USA,NULL,NULL,1460
+nijmegen,Nijmegen,NULL,Netherlands,NULL,NULL,1461
+ote.jp,Tokyo,NULL,Japan,NULL,NULL,1462
+zurich.ch,Zurich,NULL,Switzerland,NULL,NULL,1463
+lndlca,Lawndale,CA,USA,NULL,NULL,1464
+torrance,Torrance,CA,USA,NULL,NULL,1465
+hnvr.de,Hannover,NULL,Germany,NULL,NULL,1466
+jvl.wi,Janesville,WI,USA,NULL,NULL,1467
+pwke,Pewaukee,WI,USA,NULL,NULL,1468
+newyorkny,New York,NY,USA,NULL,NULL,1469
+lwrnhe.ma,Lawrence,MA,USA,NULL,NULL,1470
+sbnin,South Bend,IN,USA,NULL,NULL,1471
+lsag,Los Angeles,CA,USA,NULL,NULL,1472
+lsnca,Los Angeles,CA,USA,NULL,NULL,1473
+nwrk,Newark,NJ,USA,NULL,NULL,1474
+bhe.br,Belo Horizonte,NULL,Brazil,NULL,NULL,1475
+chmpil,Champaign,IL,USA,NULL,NULL,1476
+hntnny,Huntington,NY,USA,NULL,NULL,1477
+erf,Erfurt,NULL,Germany,NULL,NULL,1478
+nue,Nuremberg,NULL,Germany,NULL,NULL,1479
+bandung.id,Bandung,NULL,Indonesia,NULL,NULL,1480
+cstltn.in,Castleton,IN,USA,NULL,NULL,1481
+plymhe.mn,Plymouth,MN,USA,NULL,NULL,1482
+lpz.de,Leipzig,NULL,Germany,NULL,NULL,1483
+toledo,Toledo,OH,USA,NULL,NULL,1484
+euc.wi,Eau Claire,WI,USA,NULL,NULL,1485
+ham.de,Hamburg,NULL,Germany,NULL,NULL,1486
+oxford,Oxford,NULL,United Kingdom,NULL,NULL,1487
+chgo.il,Chicago,IL,USA,NULL,NULL,1488
+jcvfl,Jacksonville,FL,USA,NULL,NULL,1489
+ltfdct,Litchfield,CT,USA,NULL,NULL,1490
+bgr,Bangor,ME,USA,NULL,NULL,1491
+wp2ny,White Plains,NY,USA,NULL,NULL,1492
+bng.in,Bangalore,NULL,India,NULL,NULL,1493
+wacotx,Waco,TX,USA,NULL,NULL,1494
+clev.oh,Cleveland,OH,USA,NULL,NULL,1495
+hnsvl.ga,Hinesville,GA,USA,NULL,NULL,1496
+clmntn.nj,Clementon,NJ,USA,NULL,NULL,1497
+dab,Daytona Beach,FL,USA,NULL,NULL,1498
+sandiego.ca,San Diego,CA,USA,NULL,NULL,1499
+sngpsi,Singapore,NULL,Singapore,NULL,NULL,1500
+ilm,Wilmington,NC,USA,NULL,NULL,1501
+paduca.ky,Paducah,KY,USA,NULL,NULL,1502
+milwaukee,Milwaukee,WI,USA,NULL,NULL,1503
+milwwimkin.wi,Milwaukee,WI,USA,NULL,NULL,1504
+bct,Boca Raton,FL,USA,NULL,NULL,1505
+boi,Boise,ID,USA,NULL,NULL,1506
+slob,San Luis Obispo,CA,USA,NULL,NULL,1507
+rhdm,Raleigh,NC,USA,NULL,NULL,1508
+cncoh,Cincinnati,OH,USA,NULL,NULL,1509
+losala.nm,Los Alamos,NM,USA,NULL,NULL,1510
+waypa,Waynesboro,PA,USA,NULL,NULL,1511
+bois,Boise,ID,USA,NULL,NULL,1512
+rostov.ru,Rostov,NULL,Russia,NULL,NULL,1513
+aksai.ru,Aksa,NULL,Russia,NULL,NULL,1514
+wsfdhe.ma,Westfield,MA,USA,NULL,NULL,1515
+wrrnhe.ma,Warren,MA,USA,NULL,NULL,1516
+hntnwv,Huntington,WV,USA,NULL,NULL,1517
+chic,Chicago,IL,USA,NULL,NULL,1518
+nwrla,New Orleans,LA,USA,NULL,NULL,1519
+nanarb.mi,Ann Arbor,MI,USA,NULL,NULL,1520
+nbpthe.ma,Newburyport,MA,USA,NULL,NULL,1521
+shphwv,Shepherdstown,WV,USA,NULL,NULL,1522
+wnpgmb,Winnipeg,MB,Canada,NULL,NULL,1523
+mtlxpq,Montreal,NULL,Canada,NULL,NULL,1524
+dtm,Dortmund,NULL,Germany,NULL,NULL,1525
+tcsn,Tucson,AZ,USA,NULL,NULL,1526
+jersyc.nj,Jersey City,NJ,USA,NULL,NULL,1527
+galitn.tn,Gallatin,TN,USA,NULL,NULL,1528
+clmb,Columbus,OH,USA,NULL,NULL,1529
+bwlgoh,Bowling Green,OH,USA,NULL,NULL,1530
+erie,Erie,PA,USA,NULL,NULL,1531
+zurichzuh,Zurich,NULL,Switzerland,NULL,NULL,1532
+cncn,Cincinnati,OH,USA,NULL,NULL,1533
+krk,Kirkland,WA,USA,NULL,NULL,1534
+limoges,Limoges,NULL,France,NULL,NULL,1535
+taiptw,Taipei,NULL,Taiwan,NULL,NULL,1536
+bri.au,Brisbane,NULL,Australia,NULL,NULL,1537
+crsnhe.ca,Carson,CA,USA,NULL,NULL,1538
+bhm,Birmingham,AL,USA,NULL,NULL,1539
+nwcspa,New Castle,PA,USA,NULL,NULL,1540
+plapx,Palo Alto,CA,USA,NULL,NULL,1541
+sngtp,Singapore,NULL,Singapore,NULL,NULL,1542
+fnlyoh,Findlay,OH,USA,NULL,NULL,1543
+wlwknj,Waldwick,NJ,USA,NULL,NULL,1544
+amhrhe.ma,Amherst,MA,USA,NULL,NULL,1545
+mpltmn,Minneapolis,MN,USA,NULL,NULL,1546
+potstn.pa,Pottstown,PA,USA,NULL,NULL,1547
+ftwtx,Fort Worth,TX,USA,NULL,NULL,1548
+minw,Mineral Wells,TX,USA,NULL,NULL,1549
+dltnga,Dalton,GA,USA,NULL,NULL,1550
+weehawkennj,Weehawken,NJ,USA,NULL,NULL,1551
+schiltigheim,Schiltigheim,NULL,France,NULL,NULL,1552
+santaana.ca,Santa Ana,CA,USA,NULL,NULL,1553
+nsvlga,Nashville,GA,USA,NULL,NULL,1554
+dls,Dallas,TX,USA,NULL,NULL,1555
+pa.altoona,Altoona,PA,USA,NULL,NULL,1556
+brfdnj,Bergenfield,NJ,USA,NULL,NULL,1557
+kln,Klein-Linden,NULL,Germany,NULL,NULL,1558
+puteaux,Puteaux,NULL,France,NULL,NULL,1559
+aberdeen,Aberdeen,NULL,Scotland,NULL,NULL,1560
+cornhe.ca,Corona,CA,USA,NULL,NULL,1561
+edinburgh,Edinburgh,NULL,Scotland,NULL,NULL,1562
+bflny,Buffalo,NY,USA,NULL,NULL,1563
+hnbhca,Huntington Beach,CA,USA,NULL,NULL,1564
+dcwdc,Washington,DC,USA,NULL,NULL,1565
+saltlakecity,Salt Lake City,UT,USA,NULL,NULL,1566
+jucc.hk,Hong Kong,NULL,China,NULL,NULL,1567
+us-ash,Asheville,NC,USA,NULL,NULL,1568
+montvl.pa,Montgomeryville,PA,USA,NULL,NULL,1569
+tatebayashi.jp,Tatebayashi,NULL,Japan,NULL,NULL,1570
+arcdca,Arcadia,CA,USA,NULL,NULL,1571
+vctabc,Victoria,NULL,Canada,NULL,NULL,1572
+nhanvr.nj,North Hanover,NJ,USA,NULL,NULL,1573
+sfld.mi,Southfield,MI,USA,NULL,NULL,1574
+lsb.pt,Lisbon,NULL,Portugal,NULL,NULL,1575
+petersburg,St. Petersburg,NULL,Russia,NULL,NULL,1576
+gdrpmi,Grand Rapids,MI,USA,NULL,NULL,1577
+ccs,Caracas,NULL,Venezuela,NULL,NULL,1578
+lapazbcs.mx,La Paz,NULL,Mexico,NULL,NULL,1579
+snjosecabo.mx,San Jose,NULL,Mexico,NULL,NULL,1580
+bechgr.in,Beech Grove,IN,USA,NULL,NULL,1581
+sctnpa,Scranton,PA,USA,NULL,NULL,1582
+crm.ny,Coram,NY,USA,NULL,NULL,1583
+yntwoh,Youngstown,OH,USA,NULL,NULL,1584
+phl.pa,Philadelphia,PA,USA,NULL,NULL,1585
+gee.au,Geelong,NULL,Australia,NULL,NULL,1586
+belfast,Belfast,NULL,Northern Ireland,NULL,NULL,1587
+cdbgwicdbg.wi,Cedarburg,WI,USA,NULL,NULL,1588
+plz,Port Elizabeth,NULL,South Africa,NULL,NULL,1589
+shinkawa,Shinkawa,NULL,Japan,NULL,NULL,1590
+marseille,Marseille,NULL,France,NULL,NULL,1591
+btck.mi,Battle Creek,MI,USA,NULL,NULL,1592
+ie-dub,Dublin,NULL,Ireland,NULL,NULL,1593
+rom,Rome,NULL,Italy,NULL,NULL,1594
+tylr,Tyler,TX,USA,NULL,NULL,1595
+clmsc,Columbia,SC,USA,NULL,NULL,1596
+seto.jp,Seto,NULL,Japan,NULL,NULL,1597
+scfair,Fairfax,SC,USA,NULL,NULL,1598
+lasvegas,Las Vegas,NV,USA,NULL,NULL,1599
+wageningen,Wageningen,NULL,Netherlands,NULL,NULL,1600
+dytnoh,Dayton,OH,USA,NULL,NULL,1601
+washin.dc,Washington,DC,USA,NULL,NULL,1602
+dlwroh,Delaware,OH,USA,NULL,NULL,1603
+leeds,Leeds,NULL,United Kingdom,NULL,NULL,1604
+ank.tr,Ankara,NULL,Turkey,NULL,NULL,1605
+ulm.de,Ulm,NULL,Germany,NULL,NULL,1606
+sfo.us,San Francisco,CA,USA,NULL,NULL,1607
+smonca,Santa Monica,CA,USA,NULL,NULL,1608
+austinau,Austin,TX,USA,NULL,NULL,1609
+txhous,Houston,TX,USA,NULL,NULL,1610
+santiago.es,Santiago,NULL,Spain,NULL,NULL,1611
+oakrdg.tn,Oak Ridge,TN,USA,NULL,NULL,1612
+lodioh,Lodi,OH,USA,NULL,NULL,1613
+sju,San Juan,PR,USA,NULL,NULL,1614
+sing.sg,Singapore,NULL,Singapore,NULL,NULL,1615
+pxnyny,New York,NY,USA,NULL,NULL,1616
+pppmad.in,Madras,NULL,India,NULL,NULL,1617
+cork.ie,Cork,NULL,Ireland,NULL,NULL,1618
+taftca,Taft,CA,USA,NULL,NULL,1619
+ipltin,Indianapolis,IN,USA,NULL,NULL,1620
+rustavi.ru,Rustavi,NULL,Georgia,NULL,NULL,1621
+jakarta.id,Jakarta,NULL,Indonesia,NULL,NULL,1622
+frhdnj,Freehold,NJ,USA,NULL,NULL,1623
+wmfdnj,West Milford,NJ,USA,NULL,NULL,1624
+pimaco.az,Pima,AZ,USA,NULL,NULL,1625
+milwwiwtsa.wi,Milwaukee,WI,USA,NULL,NULL,1626
+lvndoh,Loveland,OH,USA,NULL,NULL,1627
+nantny,Nanuet,NY,USA,NULL,NULL,1628
+strl.mi,Sterling Heights,MI,USA,NULL,NULL,1629
+mplsmn.mn,Minneapolis,MN,USA,NULL,NULL,1630
+du.de,Dusseldorf,NULL,Germany,NULL,NULL,1631
+kscyks,Kansas City,KS,USA,NULL,NULL,1632
+elnsbrg.wa,Ellensburg,WA,USA,NULL,NULL,1633
+sby.id,Surabaya,NULL,Indonesia,NULL,NULL,1634
+mynrhe.ma,Maynard,MA,USA,NULL,NULL,1635
+lngbky.fl,Longboat Key,FL,USA,NULL,NULL,1636
+murcia.es,Murcia,NULL,Spain,NULL,NULL,1637
+kscyng,Kansas City,MO,USA,NULL,NULL,1638
+iplsng,Indianapolis,IN,USA,NULL,NULL,1639
+bsn,Boston,MA,USA,NULL,NULL,1640
+lasveg.nv,Las Vegas,NV,USA,NULL,NULL,1641
+albuqu.nm,Albuquerque,NM,USA,NULL,NULL,1642
+msk.ru,Moscow,NULL,Russia,originally thought this was Minsk, Belarus (sometimes mistakenly called Minsk, Russia), but MSK is also short for Moskva/Moskau/Moskwa, other names for Moscow,NULL,1643
+tirgu-mures.ro,Tirgu Mures,NULL,Romania,NULL,NULL,1644
+cncrca,Concord,CA,USA,NULL,NULL,1645
+snfr,San Francisco,CA,USA,NULL,NULL,1646
+bohny,Bohemia,NY,USA,NULL,NULL,1647
+ebrnsw.nj,East Brunswick,NJ,USA,NULL,NULL,1648
+owb,Owensboro,KY,USA,NULL,NULL,1649
+mornington.au,Mornington,NULL,Australia,NULL,NULL,1650
+oakdhe.mn,Oakdale,MN,USA,NULL,NULL,1651
+elpaso,El Paso,TX,USA,NULL,NULL,1652
+mcty.no,New Orleans,LA,USA,NULL,NULL,1653
+sdf,Louisville,KY,USA,NULL,NULL,1654
+shorhe.mn,Shoreview,MN,USA,NULL,NULL,1655
+whithe.mn,White Bear Lake,MN,USA,NULL,NULL,1656
+sttlng,Seattle,WA,USA,NULL,NULL,1657
+chinng,Chicago,IL,USA,NULL,NULL,1658
+nycmng,New York,NY,USA,NULL,NULL,1659
+warnoh,Warren,OH,USA,NULL,NULL,1660
+ach.de,Aachen,NULL,Germany,NULL,NULL,1661
+kar.de,Karlsruhe,NULL,Germany,NULL,NULL,1662
+chlcoh,Chillicothe,OH,USA,NULL,NULL,1663
+austellat,Austell,GA,USA,NULL,NULL,1664
+prfred.md,Prince Frederick,MD,USA,NULL,NULL,1665
+eburwd.au,East Burwood,NULL,Australia,NULL,NULL,1666
+ham.alter,Hamilton,NULL,Canada,NULL,NULL,1667
+ham,Hamburg,NULL,Germany,NULL,NULL,1668
+mil.atdn,Milwaukee,WI,USA,NULL,NULL,1669
+mad.verizon-gni,Madison,NJ,USA,NULL,NULL,1670
+cambridge.ja,Cambridge,NULL,United Kingdom,NULL,NULL,1671
+rwc,Redwood City,CA,USA,NULL,NULL,1672
+athens.oar,Athens,OH,USA,NULL,NULL,1673
+vie.atdn,Vienna,VA,USA,NULL,NULL,1674
+vie,Vienna,NULL,Austria,NULL,NULL,1675
+wan.au,Wangaratta,NULL,Australia,NULL,NULL,1676
+morg.wv,Morgantown,WV,USA,,NULL,1677
+lon.gb,London,NULL,United Kingdom,,NULL,1678
+rnl.wi,Rhinelander,WI,USA,,NULL,1679
+sanpedro.cr,San Pedro,NULL,Costa Rica,,NULL,1680
+hlb.nj,Holiday City-Berkeley,NJ,USA,,NULL,1681
+mns.br,Manaus,NULL,Brazil,per Fabio,NULL,1682
+nyc.jp,New York,NY,USA,,NULL,1683
+selrsv.pa,Sellersville,PA,USA,,NULL,1684
+dcp,Washington,DC,USA,,NULL,1685
+san-diego,San Diego,CA,USA,,NULL,1686
+knnwck.wa,Kennewick,WA,USA,,NULL,1687
+sttlwablce,Seattle,WA,USA,,NULL,1688
+aep,Buenos Aires,NULL,Argentina,,NULL,1689
+nassau,Nassau,NY,USA,,NULL,1690
+avonin,Avon,IN,USA,,NULL,1691
+tilbu.nl,Tilburg,NULL,Netherlands,,NULL,1692
+benslm.pa,Bensalem,PA,USA,,NULL,1693
+mthwnc,Matthews,NC,USA,,NULL,1694
+sen,Seattle,WA,USA,special case for PNAP,NULL,1695
+pquaoh,Piqua,OH,USA,,NULL,1696
+tky,Tokyo,NULL,Japan,,NULL,1697
+wdsm,West Des Moines,IA,USA,,NULL,1698
+acs,Atlanta,GA,USA,PNAP special case,NULL,1699
+ptle,Portland,OR,USA,eli.net special,NULL,1700
+pl.waw,Warsaw,NULL,Poland,,NULL,1701
+sef,Seattle,WA,USA,PNAP special case,NULL,1702
+bradley.ca,Bradley,CA,USA,,NULL,1703
+mdso,Modesto,CA,USA,,NULL,1704
+tokyo.ap,Tokyo,NULL,Japan,,NULL,1705
+chatham.on,Chatham,NULL,Canada,,NULL,1706
+mcnv.oh,McConnelsville,OH,USA,,NULL,1707
+ptdor,Portland,OR,USA,,NULL,1708
+snfrnc,Sanford,NC,USA,,NULL,1709
+abnxa.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1710
+abnxd.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1711
+abnxg.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1712
+abnxl.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1713
+abnxr.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1714
+abnxs.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1715
+abnxt.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1716
+abnxw.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1717
+abnxx.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1718
+aboesnxt.dk,Aalborg East,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1719
+abrnxt.dk,Aabybro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1720
+absnxt.dk,Aalborg South,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1721
+abvnxd.dk,Aalborg West,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1722
+abvnxt.dk,Aalborg West,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1723
+acnxr.dk,Assens,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1724
+acnxt.dk,Assens,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1725
+aegnxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1726
+aenxr.dk,Aereskoebing,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1727
+albnxa.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1728
+albnxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1729
+albnxg.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1730
+albnxi.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1731
+albnxk.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1732
+albnxl.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1733
+albnxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1734
+albnxs.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1735
+albnxu.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1736
+albnxw.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1737
+albnxx.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1738
+allnxt.dk,Allinge,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1739
+ambnxd.dk,Amagerbro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1740
+ambnxr.dk,Amagerbro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1741
+ambnxt.dk,Amagerbro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1742
+amsixnxg.dk,Amsterdam,NULL,Netherlands,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1743
+amsixnxi.dk,Amsterdam,NULL,Netherlands,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1744
+arcnxa.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1745
+arcnxb.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1746
+arcnxd.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1747
+arcnxg.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1748
+arcnxk.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1749
+arcnxl.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1750
+arcnxr.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1751
+arcnxs.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1752
+arcnxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1753
+arcnxu.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1754
+arcnxw.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1755
+arcnxx.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1756
+arnonxt.dk,Aarhus North,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1757
+aroenxr.dk,Alleroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1758
+aroenxt.dk,Alleroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1759
+arsynxd.dk,Aarhus South,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1760
+arsynxt.dk,Aarhus South,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1761
+arvenxt.dk,Aarhus West,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1762
+asdnxi.dk,Amsterdam,NULL,Netherlands,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1763
+banxd.dk,Ballerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1764
+banxj.dk,Ballerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1765
+banxl.dk,Ballerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1766
+banxr.dk,Ballerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1767
+banxs.dk,Ballerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1768
+banxt.dk,Ballerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1769
+banxx.dk,Ballerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1770
+bavnxt.dk,Bagsvaer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1771
+bbanxt.dk,Bredballe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1772
+bbdnxt.dk,Brabrand,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1773
+bbnxt.dk,Brande,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1774
+bgsnxr.dk,Bogense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1775
+bgsnxt.dk,Bogense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1776
+binxr.dk,Birkeroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1777
+binxt.dk,Birkeroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1778
+bjnxt.dk,Bjerringbro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1779
+bllnxr.dk,Billund,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1780
+bllnxt.dk,Billund,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1781
+blnxt.dk,Broenderslev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1782
+boanxa.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1783
+boanxb.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1784
+boanxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1785
+boanxg.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1786
+boanxk.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1787
+boanxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1788
+boanxs.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1789
+boanxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1790
+boanxu.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1791
+boanxw.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1792
+boanxx.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1793
+boetnxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1794
+boetnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1795
+bolnxr.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1796
+bolnxt.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1797
+bovnxt.dk,Bov,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1798
+bpnxt.dk,Broerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1799
+brhnxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1800
+brhnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1801
+bstnxr.dk,Brovst,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1802
+bstnxt.dk,Brovst,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1803
+bynxa.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1804
+bynxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1805
+bynxg.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1806
+bynxj.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1807
+bynxl.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1808
+bynxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1809
+bynxs.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1810
+bynxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1811
+bynxw.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1812
+bynxx.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1813
+dixnxs.dk,Lyngby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1814
+drlnxr.dk,Dronninglund,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1815
+drlnxt.dk,Dronninglund,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1816
+efnxt.dk,Ebeltoft,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1817
+ersnxd.dk,Erritsoe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1818
+ersnxt.dk,Erritsoe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1819
+esnxd.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1820
+esnxg.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1821
+esnxl.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1822
+esnxr.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1823
+esnxs.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1824
+esnxt.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1825
+esnxw.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1826
+esnxx.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1827
+espnxt.dk,Espergaerde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1828
+fanxd.dk,Fredericia,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1829
+fanxr.dk,Fredericia,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1830
+fanxt.dk,Fredericia,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1831
+fdnxt.dk,Fredensborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1832
+fhnxr.dk,Frederikshavn,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1833
+fhnxt.dk,Frederikshavn,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1834
+fmnxt.dk,Farum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1835
+frvnxt.dk,Frederiksvaerk,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1836
+fsnxr.dk,Frederikssund,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1837
+fsnxt.dk,Frederikssund,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1838
+fxnxr.dk,Fakse,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1839
+fxnxt.dk,Fakse,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1840
+faanxr.dk,Faaborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1841
+faanxt.dk,Faaborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1842
+galnxt.dk,Galten,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1843
+gbynxr.dk,Gram,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1844
+gbynxt.dk,Gram,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1845
+ginxd.dk,Grindsted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1846
+ginxt.dk,Grindsted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1847
+gjnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1848
+gjpnxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1849
+glnxd.dk,Glostrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1850
+glnxr.dk,Glostrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1851
+glnxt.dk,Glostrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1852
+grnxr.dk,Grenaa,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1853
+grnxt.dk,Grenaa,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1854
+gwnxt.dk,Give,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1855
+gynxr.dk,Glyngoere,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1856
+gynxt.dk,Glyngoere,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1857
+hadnxd.dk,Haderslev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1858
+hadnxr.dk,Haderslev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1859
+hadnxt.dk,Haderslev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1860
+hanxt.dk,Hadsten,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1861
+hbnxr.dk,Hobro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1862
+hbnxt.dk,Hobro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1863
+hcnxg.dk,Hasselager,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1864
+hcnxr.dk,Hasselager,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1865
+hcnxt.dk,Hasselager,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1866
+hdinxt.dk,Hundige,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1867
+hdsnxt.dk,Hadsund,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1868
+hednxt.dk,Hedensted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1869
+henxd.dk,Herlev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1870
+henxg.dk,Herlev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1871
+henxr.dk,Herlev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1872
+henxt.dk,Herlev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1873
+hgnxd.dk,Helsingoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1874
+hgnxr.dk,Helsingoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1875
+hgnxt.dk,Helsingoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1876
+hgsnxt.dk,Helsingoer South,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1877
+hhlnxd.dk,Hoersholm,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1878
+hhlnxr.dk,Hoersholm,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1879
+hhlnxt.dk,Hoersholm,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1880
+hhnxt.dk,Hedehusene,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1881
+hhsnxt.dk,Hirtshals,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1882
+hinxd.dk,Hilleroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1883
+hinxj.dk,Hilleroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1884
+hinxr.dk,Hilleroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1885
+hinxs.dk,Hilleroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1886
+hinxt.dk,Hilleroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1887
+hjnxd.dk,Hjoerring,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1888
+hjnxr.dk,Hjoerring,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1889
+hjnxt.dk,Hjoerring,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1890
+hknxd.dk,Holbaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1891
+hknxr.dk,Holbaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1892
+hknxt.dk,Holbaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1893
+hlgnxt.dk,Helsinge,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1894
+hlnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1895
+hmlnxt.dk,Hammel,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1896
+hnnxr.dk,Hinnerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1897
+hnnxt.dk,Hinnerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1898
+honxd.dk,Holstebro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1899
+honxl.dk,Holstebro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1900
+honxr.dk,Holstebro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1901
+honxt.dk,Holstebro,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1902
+hotnxt.dk,Holte,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1903
+hrnxd.dk,Herning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1904
+hrnxg.dk,Herning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1905
+hrnxr.dk,Herning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1906
+hrnxs.dk,Herning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1907
+hrnxt.dk,Herning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1908
+hrnxw.dk,Herning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1909
+hrnxx.dk,Herning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1910
+hslnxt.dk,Hasle,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1911
+hsnxd.dk,Horsens,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1912
+hsnxr.dk,Horsens,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1913
+hsnxt.dk,Horsens,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1914
+humnxr.dk,Humlebaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1915
+humnxt.dk,Humlebaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1916
+hunxt.dk,Hammerum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1917
+hvinxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1918
+hvinxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1919
+hxnxt.dk,Hoerning,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1920
+hznxt.dk,Haslev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1921
+iknxt.dk,Ikast,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1922
+jylnxt.dk,Jyllinge,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1923
+kbnxr.dk,Kalundborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1924
+kbnxt.dk,Kalundborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1925
+kdnxd.dk,Kolding,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1926
+kdnxl.dk,Kolding,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1927
+kdnxr.dk,Kolding,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1928
+kdnxs.dk,Kolding,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1929
+kdnxt.dk,Kolding,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1930
+kjnxd.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1931
+kjnxg.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1932
+kjnxj.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1933
+kjnxr.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1934
+kjnxs.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1935
+kjnxt.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1936
+kjnxw.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1937
+kjnxx.dk,Koege,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1938
+klunxr.dk,Karlslunde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1939
+klunxt.dk,Karlslunde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1940
+koenxr.dk,Korsoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1941
+koenxt.dk,Korsoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1942
+konxr.dk,Kolind,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1943
+konxt.dk,Kolind,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1944
+ksanxd.dk,Kastrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1945
+ksanxr.dk,Kastrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1946
+ksanxt.dk,Kastrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1947
+ktmnxt.dk,Kerteminde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1948
+kvanxt.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1949
+kwnxr.dk,Kliplev,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1950
+laeknxr.dk,Langebaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1951
+linxg.dk,Lisbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1952
+linxnxi.dk,London,NULL,United Kingdom,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1953
+ljnxt.dk,Lejre,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1954
+lmvnxr.dk,Lemvig,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1955
+lmvnxt.dk,Lemvig,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1956
+lynnxt.dk,Lynge,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1957
+lynxd.dk,Lyngby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1958
+lynxg.dk,Lyngby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1959
+lynxr.dk,Lyngby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1960
+lynxt.dk,Lyngby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1961
+mdnxd.dk,Middelfart,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1962
+mdnxr.dk,Middelfart,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1963
+mdnxt.dk,Middelfart,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1964
+mrbnxr.dk,Maribo,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1965
+mrbnxt.dk,Maribo,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1966
+mrgnxr.dk,Mariager,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1967
+mrgnxt.dk,Mariager,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1968
+munxt.dk,Mundelstrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1969
+naenxd.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1970
+naenxg.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1971
+naenxj.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1972
+naenxl.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1973
+naenxr.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1974
+naenxs.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1975
+naenxt.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1976
+naenxw.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1977
+naenxx.dk,Naestved,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1978
+naernxt.dk,Naerum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1979
+naesnxt.dk,Naesby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1980
+newyorknxi.dk,New York,NY,USA,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1981
+nfnxd.dk,Nykoebing Falster,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1982
+nfnxr.dk,Nykoebing Falster,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1983
+nfnxt.dk,Nykoebing Falster,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1984
+ngnxd.dk,Nyborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1985
+ngnxr.dk,Nyborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1986
+ngnxt.dk,Nyborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1987
+nivaanxt.dk,Nivaa,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1988
+nksnxr.dk,Nykoebing Sjaelland,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1989
+nksnxt.dk,Nykoebing Sjaelland,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1990
+noenxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1991
+noenxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1992
+noenxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1993
+noernxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1994
+nsknxr.dk,Nakskov,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1995
+nsknxt.dk,Nakskov,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1996
+nsnxt.dk,Aalborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1997
+nxnxt.dk,Nexoe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1998
+nynxt.dk,Nykoebing Mors,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,1999
+odnxd.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2000
+odnxg.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2001
+odnxl.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2002
+odnxr.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2003
+odnxs.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2004
+odnxt.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2005
+odnxw.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2006
+odnxx.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2007
+oebrnxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2008
+oebrnxg.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2009
+oebrnxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2010
+oebrnxs.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2011
+oebrnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2012
+oelnxr.dk,Oelstykke,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2013
+oelnxt.dk,Oelstykke,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2014
+oernxt.dk,Loegstoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2015
+oeunxt.dk,Loegumkloster,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2016
+ojnxt.dk,Vojens,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2017
+opanxg.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2018
+opanxr.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2019
+opanxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2020
+opnxr.dk,Ordrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2021
+opnxt.dk,Ordrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2022
+ornxt.dk,Odder,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2023
+otnxt.dk,Otterup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2024
+pannxt.dk,Pandrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2025
+prhnxt.dk,Prague,NULL,Czech Republic,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2026
+paarnxt.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2027
+rbnxr.dk,Ribe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2028
+rbnxt.dk,Ribe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2029
+rdnxd.dk,Randers,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2030
+rdnxr.dk,Randers,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2031
+rdnxt.dk,Randers,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2032
+rdonxd.dk,Roedovre,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2033
+rdonxr.dk,Roedovre,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2034
+rdonxt.dk,Roedovre,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2035
+renxt.dk,Ringe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2036
+rgnxd.dk,Ringsted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2037
+rgnxr.dk,Ringsted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2038
+rgnxt.dk,Ringsted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2039
+risnxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2040
+rjnxd.dk,Ringkoebing,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2041
+rjnxr.dk,Ringkoebing,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2042
+rjnxt.dk,Ringkoebing,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2043
+rkgnxr.dk,Rudkoebing,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2044
+rkgnxt.dk,Rudkoebing,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2045
+roennxr.dk,Roenne,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2046
+roennxt.dk,Roenne,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2047
+ronnxd.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2048
+ronnxr.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2049
+ronnxt.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2050
+ronxd.dk,Roskilde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2051
+ronxj.dk,Roskilde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2052
+ronxr.dk,Roskilde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2053
+ronxs.dk,Roskilde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2054
+ronxt.dk,Roskilde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2055
+ronxx.dk,Roskilde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2056
+rooenxt.dk,Roskilde East,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2057
+ryvnxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2058
+ryvnxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2059
+ryvnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2060
+saennxt.dk,Esbjerg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2061
+samnxt.dk,Odense,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2062
+saonxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2063
+sbynxd.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2064
+sbynxr.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2065
+sbynxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2066
+sdbnxd.dk,Soenderborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2067
+sdbnxl.dk,Soenderborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2068
+sdbnxr.dk,Soenderborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2069
+sdbnxt.dk,Soenderborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2070
+sdnxd.dk,Skanderborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2071
+sdnxr.dk,Skanderborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2072
+sdnxt.dk,Skanderborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2073
+sgbnxt.dk,Skagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2074
+sgnxd.dk,Slagelse,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2075
+sgnxr.dk,Slagelse,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2076
+sgnxt.dk,Slagelse,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2077
+sjnxt.dk,Skjern,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2078
+sknxd.dk,Skive,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2079
+sknxr.dk,Skive,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2080
+sknxt.dk,Skive,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2081
+slnxd.dk,Silkeborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2082
+slnxr.dk,Silkeborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2083
+slnxt.dk,Silkeborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2084
+slpnxt.dk,Slangerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2085
+sltnxd.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2086
+sltnxr.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2087
+sltnxs.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2088
+sltnxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2089
+sltnxx.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2090
+snnxt.dk,Svendstrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2091
+soebnxd.dk,Soeborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2092
+soebnxj.dk,Soeborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2093
+soebnxr.dk,Soeborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2094
+soebnxt.dk,Soeborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2095
+solnxr.dk,Solroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2096
+solnxt.dk,Solroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2097
+sonxr.dk,Soroe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2098
+sonxt.dk,Soroe,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2099
+srnxr.dk,Stoevring,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2100
+srnxt.dk,Stoevring,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2101
+ssnxr.dk,Skaelskoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2102
+ssnxt.dk,Skaelskoer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2103
+stmnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2104
+stnxt.dk,Stenloese,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2105
+strnxd.dk,Struer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2106
+strnxt.dk,Struer,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2107
+suoenxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2108
+suoenxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2109
+suoenxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2110
+svgnxd.dk,Svendborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2111
+svgnxr.dk,Svendborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2112
+svgnxt.dk,Svendborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2113
+saanxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2114
+tarmnxr.dk,Tarm,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2115
+tarmnxt.dk,Tarm,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2116
+tdrnxd.dk,Toender,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2117
+tdrnxr.dk,Toender,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2118
+tdrnxt.dk,Toender,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2119
+tinxr.dk,Thisted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2120
+tinxt.dk,Thisted,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2121
+tlnxt.dk,Taulov,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2122
+tpnxt.dk,Tommerup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2123
+trgnxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2124
+troenxt.dk,Troeroed,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2125
+tyrnxt.dk,Horsens,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2126
+taanxd.dk,Taastrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2127
+taanxj.dk,Taastrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2128
+taanxr.dk,Taastrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2129
+taanxt.dk,Taastrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2130
+upnxr.dk,Ulstrup,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2131
+vaernxr.dk,Vaerloese,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2132
+vaernxt.dk,Vaerloese,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2133
+vannxr.dk,Vanloese,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2134
+vannxt.dk,Vanloese,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2135
+vanxd.dk,Varde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2136
+vanxr.dk,Varde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2137
+vanxt.dk,Varde,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2138
+vbrnxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2139
+vbrnxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2140
+vbrnxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2141
+vbynxd.dk,Valby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2142
+vbynxr.dk,Valby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2143
+vbynxt.dk,Valby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2144
+veynxt.dk,Aarhus,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2145
+vgnxd.dk,Viborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2146
+vgnxr.dk,Viborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2147
+vgnxt.dk,Viborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2148
+virnxa.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2149
+virnxd.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2150
+virnxg.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2151
+virnxr.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2152
+virnxs.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2153
+virnxt.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2154
+virnxw.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2155
+virnxx.dk,Virum,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2156
+vjnxd.dk,Vejle,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2157
+vjnxr.dk,Vejle,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2158
+vjnxt.dk,Vejle,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2159
+vlbnxr.dk,Vallensbaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2160
+vlbnxt.dk,Vallensbaek,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2161
+vndnxt.dk,Vonsild,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2162
+vnnxt.dk,Vejen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2163
+vonxr.dk,Vordingborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2164
+vonxt.dk,Vordingborg,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2165
+ynoenxd.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2166
+ynoenxr.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2167
+ynoenxt.dk,Copenhagen,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2168
+aaanxd.dk,Aaabenraa,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2169
+aaanxr.dk,Aaabenraa,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2170
+aaanxt.dk,Aaabenraa,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2171
+aaknxt.dk,Aakirkeby,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2172
+aarsnxr.dk,Aars,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2173
+aarsnxt.dk,Aars,NULL,Denmark,Patrick Maigron points me to http://www.makr.dk/go.php3?reversedns,NULL,2174
+mrrstwn,Morristown,TN,USA,,NULL,2175
+npa,Palo Alto,CA,USA,,NULL,2176
+nwyk,New York,NY,USA,,NULL,2177
+mum.in,Bombay,NULL,India,,NULL,2178
+sanjoseequinix,San Jose,CA,USA,,NULL,2179
+hipcit,Pearl City,HI,USA,,NULL,2180
+lft,Lafayette,LA,USA,,NULL,2181
+nelinc,Lincoln,NE,USA,,NULL,2182
+mokcit,Kansas City,MO,USA,,NULL,2183
+villeneuvedascq,Villeneuve DAscq,NULL,France,,NULL,2184
+bloomington,Bloomington,CA,USA,,NULL,2185
+burlvtma,Burlington,VT,USA,,NULL,2186
+gtepe.tr,Gaziantep,NULL,Turkey,,NULL,2187
+sou.au,Southport,NULL,Australia,,NULL,2188
+newhhe.mn,New Hope,MN,USA,,NULL,2189
+brtmi,Burton,MI,USA,,NULL,2190
+n33ny,New York,NY,USA,,NULL,2191
+brus.be,Brussels,NULL,Belgium,,NULL,2192
+ppphyd.in,Hyderabad,NULL,India,NULL,NULL,2193
+elmwd.la,Elmwood,LA,USA,,NULL,2194
+southk.tn,South Knoxville,TN,USA,,NULL,2195
+tjtj.cn,Tianjin,NULL,China,,NULL,2196
+nycmnyhlce,New York,NY,USA,,NULL,2197
+sacome,Saco,ME,USA,,NULL,2198
+mig-fl,Miami,FL,USA,,NULL,2199
+chx,Chicago,IL,USA,,NULL,2200
+btmmd,Baltimore,MD,USA,,NULL,2201
+warr,Warren,NULL,United Kingdom,,NULL,2202
+arklow,Arklow,NULL,Ireland,,NULL,2203
+abe,Allentown,PA,USA,,NULL,2204
+aftohe.mn,Afton,MN,USA,,NULL,2205
+lin-ne,Lincoln,NE,USA,,NULL,2206
+webshe.mn,Webster,MN,USA,,NULL,2207
+new-york2,New York,NY,USA,,NULL,2208
+etntwn.nj,Eatontown,NJ,USA,,NULL,2209
+atc,Atlantic City,NJ,USA,,NULL,2210
+chiega,Chicago,IL,USA,,NULL,2211
+bostma,Boston,MA,USA,,NULL,2212
+lkch,Lake Charles,LA,USA,,NULL,2213
+dvn,Davenport,IA,USA,,NULL,2214
+znvl.oh,Zanesville,OH,USA,,NULL,2215
+mtld,Maitland,FL,USA,cfl.rr.com forwards to domain w whois info here,NULL,2216
+denq,Denver,CO,USA,,NULL,2217
+dlrtx,Dallas,TX,USA,,NULL,2218
+scz,Santa Cruz,CA,USA,,NULL,2219
+vineln.nj,Vineland,NJ,USA,,NULL,3249
+wdc.us,Washington,DC,USA,,NULL,2221
+osngny,Ossining,NY,USA,,NULL,2222
+esp.fi,Espoo,NULL,Finland,,NULL,2223
+blnd.de,Blindheim,NULL,Germany,,NULL,2224
+madrid.es,Madrid,NULL,Spain,,NULL,2225
+wybgpa,Waynesburg,PA,USA,,NULL,2226
+aarhus,Aarhus,NULL,Denmark,,NULL,2227
+washdcrk,Washington,DC,USA,,NULL,2228
+kd4.dk,Kolding,NULL,Denmark,,NULL,2229
+boulogne.fr,Boulogne Billancourt,NULL,France,,NULL,2230
+neuilly.fr,Neuilly Sur Seine,NULL,France,,NULL,2231
+puteaux.fr,Puteaux,NULL,France,NULL,NULL,2232
+scwn.de,Schwerin,NULL,Germany,,NULL,2233
+pointeapitre,Pointe A Pitre,NULL,Guadeloupe,,NULL,2234
+telaviv.il,Tel Aviv,NULL,Israel,,NULL,2235
+lamentin,Lamentin,NULL,Martinique,,NULL,2236
+lelamentin,Le Lamentin,NULL,Martinique,,NULL,2237
+olden.nl,Oldenzaal,NULL,Netherlands,,NULL,2238
+dundee,Dundee,NULL,Scotland,,NULL,2239
+regnsk.ca,Regina,SK,Canada,,20021225.143358,2240
+st-petersburg.fl,St. Petersburg,FL,USA,NULL,NULL,2241
+bsl.ch,Basel,NULL,Switzerland,Courtesy balou@itarium.ch,NULL,2242
+oer.ch,Zurich,NULL,Switzerland,courtesy balou@itarium.ch (oer.ch could be either\nOerischwand or Oerlingen, both are in state of Zurich),NULL,2243
+essen.de,Essen,NULL,Germany,NULL,NULL,2244
+crv.ro,Craiova,NULL,Romania,NULL,NULL,2245
+kbn,Copenhagen,NULL,Denmark,NULL,NULL,2246
+nyk,New York,NY,USA,NULL,NULL,2247
+koeln.de,Koeln,NULL,Germany,NULL,NULL,2248
+nte,Nantes,NULL,France,,20021225.143358,2249
+pis,Poitiers,NULL,France,,20021225.143358,2250
+eqdltx,Dallas,TX,USA,,20021225.143358,2251
+nycap,Albany,NY,USA,beause www.nycap.rr.com new york capital region,20021225.143358,2252
+newc.wy,Newcastle,WY,USA,,20021225.143358,2253
+spfd.ma,Springfield,MA,USA,,20021225.143358,2254
+joliette.ca,Joliette,NULL,Canada,,20021225.143358,2255
+jsy,Jersey City,NJ,USA,,20021225.143358,2256
+stproh,St. Paris,OH,USA,,20021225.143358,2257
+cmdnj,Camden,NJ,USA,,20021225.143358,2258
+brfdwijana.wi,Brookfield,WI,USA,,20021225.143358,2259
+mnchen,Manchester,NULL,United Kingdom,,20021225.143358,2260
+washng,Washington,DC,USA,,20021225.143358,2261
+sftmyr.fl,Fort Myers,FL,USA,,20021225.143358,2262
+ldngw,London,NULL,United Kingdom,,20021225.143358,2263
+lnhdc.md,Lanham-Seabrook,MD,USA,,20021225.143358,2264
+lybrny,Lynbrook,NY,USA,,20021225.143358,2265
+itmil,Milan,NULL,Italy,,20021225.143358,2266
+orng,Orange,CA,USA,,20021225.143358,2267
+ktchnr.on,Kitchener,ON,Canada,,20021225.143358,2268
+spg.ma,Springfield,MA,USA,,20021225.143358,2269
+glenn-falls.ny,Glens Falls,NY,USA,,20021225.143358,2270
+mhawaka.in,Mishawaka,IN,USA,,20021225.143358,2271
+pltn,Pleasanton,CA,USA,,20021225.143358,2272
+brtnhe.ma,Brockton,MA,USA,,20021225.143358,2273
+lwbgoh,Lewisburg,OH,USA,,20021225.143358,2274
+sunnyvalesv,Sunnyvale,CA,USA,,20021225.143358,2275
+fri,Frankfurt,NULL,Germany,always trapped between two frankfurts,20021225.143358,2276
+dub,Dublin,NULL,Ireland,,20021225.143358,2277
+ply.ny,Plattsburgh,NY,USA,,20021225.143358,2278
+snfc.ca,San Francisco,CA,USA,,20021225.143358,2279
+wstwoh,Westwood,OH,USA,the one in hamilton county since its close to cincin,20021225.143358,2280
+mltnoh,Middletown,OH,USA,,20021225.143358,2281
+vlc.es,Valencia,NULL,Spain,,20021225.143358,2282
+sanjs.ca.au,San Jose,CA,USA,,20021225.143358,2283
+bvrlhe.ma,Beverly,MA,USA,,20021225.143358,2284
+mry,Monterey,CA,USA,,20021225.143358,2285
+ddn,Dresden,NULL,Germany,,20021225.143358,2286
+bltm,Baltimore,MD,USA,,20021225.143358,2287
+yumaaz,Yuma,AZ,USA,,20021225.143358,2288
+mannheim,Mannheim,NULL,Germany,,20021225.143358,2289
+sunsh.au,Sunshine,NULL,Australia,,20021225.143358,2290
+alby,Albany,NY,USA,,20021225.143358,2291
+nwak,Newark,NJ,USA,,20021225.143358,2292
+hag.nl,The Hague,NULL,Netherlands,,20021225.143358,2293
+urbnoh,Urbana,OH,USA,,20021225.143358,2294
+vnburn.mi,Van Buren,MI,USA,,20021225.143358,2295
+mad.es,Madrid,NULL,Spain,,20021225.143358,2296
+brgnnj,Bergenfield,NJ,USA,,20021225.143358,2297
+utrecht,Utrecht,NULL,Netherlands,,20021225.143358,2298
+thn,Thornton,CO,USA,always trapped between denvers,20021225.143358,2299
+mbrgpa,Millersburg,PA,USA,,20021225.143358,2300
+gill.wy,Gillette,WY,USA,,20021225.143358,2301
+nseattle,Seattle,WA,USA,,20021225.143358,2302
+perk,Perkasie,PA,USA,,20021225.143358,2303
+nottingham,Nottingham,NULL,United Kingdom,,20021225.143358,2304
+rp2nj,Roselle Park,NJ,USA,,20021225.143358,2305
+vnnyca,Van Nuys,CA,USA,,20021225.143358,2306
+napny,New York,NY,USA,,20021225.143358,2307
+zhr.ch,Zurich,NULL,Switzerland,,20021225.143358,2308
+jkt.id,Jakarta,NULL,Indonesia,,20021225.143358,2309
+staugustin,St.Augustin,NULL,Germany,,20021225.143358,2310
+grtsoh,Gratis,OH,USA,,20021225.143358,2311
+besancon,Besancon,NULL,France,,20021225.143358,2312
+zh.ch,Zurich,NULL,Switzerland,,20021225.143358,2313
+phf-pa,Philadelphia,PA,USA,ICG special case,20021225.143358,2314
+uwmadison.wi,Madison,WI,USA,,20021225.143358,2315
+ar.littlero,Little Rock,AR,USA,,20021225.143358,2316
+zaragoza.es,Zaragoza,NULL,Spain,,20021225.143358,2317
+sthm,Stockholm,NULL,Sweden,,20021225.143358,2318
+str,Stuttgart,NULL,Germany,,20021225.143358,2319
+castoc,Stockton,CA,USA,,20021225.143358,2320
+hannover.de,Hannover,NULL,Germany,,20021225.143358,2321
+bir,Birmingham,NULL,United Kingdom,,20021225.143358,2322
+bne.au,Brisbane,NULL,Australia,,20021225.143358,2323
+jackson,Jackson,MS,USA,,20021225.143358,2324
+cir-oh,Cincinnati,OH,USA,ICG special case,20021225.143358,2325
+han,Hannover,NULL,Germany,,20021225.143358,2326
+wie.de,Wiesbaden,NULL,Germany,,20021225.143358,2327
+stonemountain,Stone Mountain,GA,USA,trapped between two atlantas,20021225.143358,2328
+rtp,Research Triangle Park,NC,USA,,20021225.143358,2329
+colum,Columbia,SC,USA,,20021225.143358,2330
+athnoh,Athens,OH,USA,,20021225.143358,2331
+quebec.ca,Quebec,QU,Canada,,20021225.143358,2332
+eyrkon,East York,NULL,Canada,,20021225.143358,2333
+montreal.ca,Montreal,NULL,Canada,,20021225.143358,2334
+omhaw.ne,Omaha,NE,USA,,20021225.143358,2335
+tre,Tampere,NULL,Finland,,20021225.143358,2336
+bgk,Bolingbrook,IL,USA,,20021225.143358,2337
+ph-aug.fr,Paris,NULL,France,Philippe-Auguste Parisian avenue per Patrick,20021225.143358,2338
+pitesti.ro,Pitesti,NULL,Romania,,20021225.143358,2339
+jsnj.cn,Nanjing,NULL,China,js stands for Jiangsu province nj is Nanjing jsinfo.net for more details,20021225.143358,2340
+seattleswitchdesign,Seattle,WA,USA,,20021225.143358,2341
+adl.au,Adelaide,NULL,Australia,,20021225.143358,2342
+dcl,Washington,DC,USA,trapped between 2 DCs,20021225.143358,2343
+vasteras.se,Vasteras,NULL,Sweden,,20021225.143358,2344
+ussntc,Santa Clara,CA,USA,,20021225.143358,2345
+redditch.gb,Redditch,NULL,United Kingdom,,20021225.143358,2346
+cibinong.id,Cibinong,NULL,Indonesia,,20021225.143358,2347
+spnfoh,Springfield,OH,USA,,20021225.143358,2348
+hamden.ct,Hamden,CT,USA,,20021225.143358,2349
+wie.at,Wiener Neustadt,NULL,Austria,,20021225.143358,2350
+milwwicalu.wi,Milwaukee,WI,USA,,20021225.143358,2351
+salo,Salo,NULL,Finland,,20021225.143358,2352
+wrrnnj,Warren,NJ,USA,,20021225.143358,2353
+amsterdam.nld,Amsterdam,NULL,Netherlands,,20021225.143358,2354
+ffaxvaws,Fairfax,VA,USA,,20021225.143358,2355
+antwerp.be,Antwerp,NULL,Belgium,,20021225.143358,2356
+newmarket.ca,Newmarket,ON,Canada,,20021225.143358,2357
+hbg.mindspring,Harrisburg,PA,USA,,20021225.143358,2358
+eauclairet,Eau Claire,WI,USA,,20021225.143358,2359
+lexton,Lexington-Fayette,KY,USA,,20021225.143358,2360
+sna.ca,Santa Ana,CA,USA,,20021225.143358,2361
+nbfrhe.ma,New Bedford,MA,USA,,20021225.143358,2362
+glasgow,Glasgow,NULL,Scotland,,20021225.143358,2363
+har,Harrisburg,PA,USA,,20021225.143358,2364
+ahhf.cn,Hefei,NULL,China,ah is Anhui province,20021225.143358,2365
+cbr.au,Canberra,NULL,Australia,,20021225.143358,2366
+ilchic,Chicago,IL,USA,,20021225.143358,2367
+cfl,Maitland,FL,USA,cfl.rr.com forwards to website w WHOIS record here,20021225.143358,2368
+gslz.cn,Lanzhou,NULL,China,gs stands for Gansu province,20021225.143358,2369
+bg.yu,Belgrade,NULL,Yugoslavia,,20021225.143358,2370
+gdgvca,Garden Grove,CA,USA,,20021225.143358,2371
+oxf.ma,Oxford,MA,USA,,20021225.143358,2372
+mnas,Manassas,VA,USA,,20021225.143358,2373
+vaa,Vaasa,NULL,Finland,,20021225.143358,2374
+pswynj,Piscataway,NJ,USA,,20021225.143358,2375
+bln,Blindheim,NULL,Germany,,20021225.143358,2376
+cdr,Cedar Rapids,IA,USA,,20021225.143358,2377
+cdrr,Cedar Rapids,IA,USA,,20021225.143358,2378
+demun,Munich,NULL,Germany,,20021225.143358,2379
+ks.wichita,Wichita,KS,USA,,20021225.164639,2380
+kalisz.pl,Kalisz,NULL,Poland,,20021225.164639,2381
+wlgrv.pa,Willow Grove,PA,USA,,20021225.164639,2382
+esslingen,Esslingen,NULL,Germany,,20021225.164639,2383
+wpg,Winnipeg,MB,Canada,,20021225.164639,2384
+eburwd.vic.au,East Burwood,NULL,Australia,,20021225.164639,2385
+sgt,Stuttgart,NULL,Germany,,20021225.164639,2386
+mannheim.de,Mannheim,NULL,Germany,,20021225.164639,2387
+mllrsvllet,Millersville,PA,USA,,20021225.164639,2388
+maspri,Springfield,MA,USA,,20021225.164639,2389
+twbgohaa,Twinsburg,OH,USA,,20021225.164639,2390
+frankfurt.ro,Frankfurt,NULL,Germany,,20021225.164639,2391
+karlsruhe.de,Karlsruhe,NULL,Germany,,20021225.164639,2392
+gsbkoh,Groesbeck,OH,USA,,20021225.164639,2393
+manz.de,Mainz,NULL,Germany,,20021225.164639,2394
+gdansk.pl,Gdansk,NULL,Poland,,20021225.164639,2395
+dnvrng,Denver,CO,USA,,20021225.164639,2396
+wdhmoh,Windham,OH,USA,,20021225.164639,2397
+oak,Oakland,CA,USA,,20021225.164639,2398
+mtmorris.mi,Mount Morris,MI,USA,,20021225.164639,2399
+rea.gbb.uk,Reading,NULL,United Kingdom,,20021225.164639,2400
+hgr,Hagerstown,MD,USA,,20021225.164639,2401
+wb.wi,West Bend,WI,USA,,20021225.164639,2402
+ausu,Austin,TX,USA,trapped between Dallas and San Antonio,20021225.164639,2403
+chatam,Chatham,NULL,United Kingdom,,20021225.164639,2404
+klmzmi,Kalamazoo,MI,USA,,20021225.164639,2405
+oakbrook.il,Oak Brook,IL,USA,,20021225.164639,2406
+saarbruecken.de,Saarbruecken,NULL,Germany,,20021225.164639,2407
+samara.ru,Samara,NULL,Russia,,20021225.164639,2408
+ash.nc,Asheville,NC,USA,,20021225.164639,2409
+ashe.nc,Asheville,NC,USA,,20021225.164639,2410
+westk.tn,West Knoxville,TN,USA,,20021225.164639,2411
+prt.pt,Porto,NULL,Portugal,,20021225.164639,2412
+seaq,Seattle,WA,USA,tamerica adds q at end,20021225.164639,2413
+chi.ca,Chicago,IL,USA,,20021225.164639,2414
+yktnsk.ca,Yorkton,NULL,Canada,sk is Saskatchewan,20021225.164639,2415
+zjhz.cn,Hangzhou,NULL,China,ZJ is ZHEJIANG province,20021225.164639,2416
+pao.jp,Palo Alto,CA,USA,,20021225.164639,2417
+casfrm,San Francisco,CA,USA,,20021225.164639,2418
+pbnap,Palo Alto,CA,USA,trapped between Palo Alto and San Francisco,20021225.164639,2419
+sje,San Jose,CA,USA,,20021225.164639,2420
+faxvahe,Fairfax,VA,USA,,20021225.164639,2421
+slupsk.pl,Slupsk,NULL,Poland,,20021225.164639,2422
+ma.quincy,Quincy,MA,USA,,20021225.164639,2423
+spfmo,Springfield,MO,USA,,20021225.164639,2424
+bdg.id,Bandung,NULL,Indonesia,,20021225.164639,2425
+clmb.oh,Columbus,OH,USA,,20021225.164639,2426
+lpz,Leipzig,NULL,Germany,,20021225.164639,2427
+fir,Firenze,NULL,Italy,aka Florence I think,20021225.164639,2428
+gv,Geneva,NULL,Switzerland,,20021225.164639,2429
+sea.ca,Seattle,WA,USA,,20021225.164639,2430
+bos.ma,Boston,MA,USA,,20021226.001320,2431
+nyw.ny,New York,NY,USA,rcn does some munging perhaps,20021226.001320,2432
+dsm,Des Moines,IA,USA,,20021226.001320,2433
+sfr,San Francisco,CA,USA,,20021226.001320,2434
+marnhe.ma,Marstons Mills,MA,USA,,20021226.001320,2435
+chgen,Geneva,NULL,Switzerland,,20021226.001320,2436
+genova,Genova,NULL,Italy,,20021226.001320,2437
+nyr.ny,New York,NY,USA,rcn munging,20021226.001320,2438
+uschcg,Chicago,IL,USA,,20021226.001320,2439
+madrhe.ca,Madera,CA,USA,,20021226.001320,2440
+wanarb.mi,Ann Arbor,MI,USA,,20021226.001320,2441
+hbwh.cn,Wuhan,NULL,China,hb is state code perhaps,20021226.001320,2442
+sn1ca,San Francisco,CA,USA,between san fran and palo alto,20021226.001320,2443
+portland.atdn,Portland,ME,USA,,20021226.001320,2444
+ktchnr.ca,Kitchener,ON,Canada,,20021226.001320,2445
+rvhdny,Riverhead,NY,USA,,20021226.001320,2446
+racnwiracn.wi,Racine,WI,USA,,20021226.001320,2447
+snrsca,Santa Rosa,CA,USA,,20021226.001320,2448
+nycl,New York,NY,USA,twtelecom mild munging,20021226.001320,2449
+okbil,Oak Brook,IL,USA,,20021226.001320,2450
+mdtva,Middletown,VA,USA,,20021226.001320,2451
+catpal,Thousand Palms,CA,USA,,20021226.001320,2452
+aachen.de,Aachen,NULL,Germany,,20021226.001320,2453
+augsburg.de,Augsburg,NULL,Germany,,20021226.001320,2454
+braunschweig.de,Braunschweig,NULL,Germany,,20021226.001320,2455
+dresden.de,Dresden,NULL,Germany,,20021226.001320,2456
+erlangen.de,Erlangen,NULL,Germany,,20021226.001320,2457
+goettingen.de,Goettingen,NULL,Germany,,20021226.001320,2458
+hamburg.de,Hamburg,NULL,Germany,,20021226.001320,2459
+hildesheim.de,Hildesheim,NULL,Germany,,20021226.001320,2460
+ilmenau.de,Ilmenau,NULL,Germany,,20021226.001320,2461
+kaiserslautern.de,Kaiserslautern,NULL,Germany,,20021226.001320,2462
+leipzig.de,Leipzig,NULL,Germany,,20021226.001320,2463
+marburg.de,Marburg,NULL,Germany,,20021226.001320,2464
+mnch.de,Munich,NULL,Germany,,20021226.001320,2465
+oldenburg.de,Oldenburg,NULL,Germany,,20021226.001320,2466
+regensburg.de,Regensburg,NULL,Germany,,20021226.001320,2467
+staugustin.de,St.Augustin,NULL,Germany,,20021226.001320,2468
+zur.ch,Zurich,NULL,Switzerland,,20021226.001320,2469
+sdr.br,Salvador,NULL,Brazil,courtesy Fabio,NULL,2470
+roa,Roachdale,IN,USA,thought I had corrected earlier -- Al Bonnyman and tracefind both say this is in IN,NULL,2471
+goet.at,Goetzis,NULL,Austria,courtesy Alex Waller (alex@webpoint.at),NULL,2472
+wlfdle.on,Wildfield,NULL,Canada,,20021227.170444,2473
+bucharest-br.ro,Bucharest,NULL,Romania,,20021227.170444,2474
+buff.wy,Buffalo,WY,USA,,20021227.170444,2475
+cncrhe.nh,Concord,NH,USA,,20021227.170444,2476
+chp,Chicago,IL,USA,trapped between two chicagos,20021227.170444,2477
+eqabva,Ashburn,VA,USA,eq is probably Equinox,20021227.170444,2478
+cai.au,Cairns,NULL,Australia,,20021227.170444,2479
+sjccolor,San Jose,CA,USA,colo is colocation perhaps,20021227.170444,2480
+losa,Los Angeles,CA,USA,,20021227.170444,2481
+mtry,Monterey,CA,USA,,20021227.170444,2482
+njpenn,Pennsauken,NJ,USA,,20021227.170444,2483
+pumphe.va,Pumpkin Center,VA,USA,,20021227.170444,2484
+cluj.ro,Cluj,NULL,Romania,,20021227.170444,2485
+sff,San Francisco,CA,USA,trapped between SFOs,20021227.170444,2486
+montpellier,Montpellier,NULL,France,,20021227.170444,2487
+indpnd.mo,Independence,MO,USA,,20021227.170444,2488
+lvokfl,Live Oak,FL,USA,,20021227.170444,2489
+sagshe.ma,Saugus,MA,USA,,20021227.170444,2490
+srstfl,Sarasota,FL,USA,,20021227.170444,2491
+sdjn.cn,Jinan,NULL,China,SD is Shandong province,20021227.170444,2492
+flnapl,Naples,FL,USA,,20021227.170444,2493
+buenosaires.ar,Buenos Aires,NULL,Argentina,,20021227.170444,2494
+ncntoh,North Canton,OH,USA,,20021227.170444,2495
+pari.fr,Paris,NULL,France,,20021227.170444,2496
+valencia.es,Valencia,NULL,Spain,,20021227.170444,2497
+sprgfld,Springfield,MO,USA,context and only wcg.net uses this abbrev,20021227.170444,2498
+laft,Lafayette,LA,USA,,20021227.170444,2499
+mnchhe.nh,Manchester,NH,USA,,20021227.170444,2500
+clevga,Cleveland,GA,USA,,20021227.170444,2501
+amsterdam.ro,Amsterdam,NULL,Netherlands,,20021227.170444,2502
+prag,Prague,NULL,Czech Republic,,20021227.170444,2503
+cbg,Cambridge,NULL,United Kingdom,,20021227.170444,2504
+jamsis.sc,James Island,SC,USA,,20021227.170444,2505
+atvie,Vienna,NULL,Austria,,20021227.170444,2506
+uppsala,Uppsala,NULL,Sweden,,20021227.170444,2507
+wstbm,West Bloomfield Township,MI,USA,added township based on newer census data,20021227.170444,2508
+nwe-nj,Newark,NJ,USA,ICG munging,20021227.170444,2509
+chin,Champaign,IL,USA,,20021227.170444,2510
+glst.nj,Gloucester,NJ,USA,,20021227.170444,2511
+corv,Corvallis,OR,USA,,20021227.170444,2512
+goe.de,Goettingen,NULL,Germany,,20021227.170444,2513
+jussieu.fr,Paris,NULL,France,university in Paris per Patrick,20021227.170444,2514
+an1ca,Anaheim,CA,USA,,20021227.170444,2515
+maefft,Frankfurt,NULL,Germany,,20021227.170444,2516
+st-lambert.fr,St.Lambert,NULL,France,,20021227.170444,2517
+abepa,Allentown,PA,USA,,20021227.170444,2518
+alkmaar.nld,Alkmaar,NULL,Netherlands,,20021227.170444,2519
+atnga,Atlanta,GA,USA,,20021227.170444,2520
+mspt,Minneapolis,MN,USA,t is part of t3,20021227.170444,2521
+buh.ro,Bucharest,NULL,Romania,,20021227.170444,2522
+state.id,*,ID,USA,,NULL,2523
+pop.ri,*,RI,USA,,NULL,2524
+se.geant,*,NULL,Sweden,,NULL,2525
+rdc.mi,*,MI,USA,,NULL,2526
+state.tx,*,TX,USA,,NULL,2527
+ch.geant,*,NULL,Switzerland,,NULL,2528
+rdc.az,*,AZ,USA,,NULL,2529
+state.nh,*,NH,USA,,NULL,2530
+rdc.tn,*,TN,USA,,NULL,2531
+at.geant,*,NULL,Austria,,NULL,2532
+reunion.fr,*,NULL,Reunion,,NULL,2533
+nc.us,*,NC,USA,,20021225.143358,2534
+us.nordu,*,*,USA,star in state field is kludge -- usplaces nonidentical to worldplaces,20021225.143358,2535
+rdc.nj,*,NJ,USA,,20021225.143358,2536
+rdc.fl,*,FL,USA,,20021225.143358,2537
+rdc.tx,*,TX,USA,,20021225.143358,2538
+customer.no,*,NULL,Norway,,20021225.143358,2539
+state.nd,*,ND,USA,,20021225.143358,2540
+fi.nordu,*,NULL,Finland,,20021225.143358,2541
+il.geant,*,NULL,Israel,,20021225.164639,2542
+rdc.pa,*,PA,USA,,20021225.164639,2543
+si.geant,*,NULL,Slovenia,,20021225.164639,2544
+rdc.nc,*,NC,USA,NULL,20021225.164639,2545
+state.ia,*,IA,USA,,20021225.164639,2546
+pl.geant,*,NULL,Poland,,20021225.164639,2547
+brunet.bn,*,NULL,Brunei,NULL,NULL,2548
+hr.geant,*,NULL,Croatia,,20021227.170444,2549
+state.ga,*,GA,USA,,20021227.170444,2550
+gr.geant,*,NULL,Greece,,20021227.170444,2551
+dk.nordu,*,NULL,Denmark,,20021227.170444,2552
+nl.geant,*,NULL,Netherlands,,20021227.170444,2553
+be.geant,*,NULL,Belgium,,20021227.170444,2554
+bru.br,Sao Paulo,NULL,Brazil,from Fabio-- Baura is locality in Sao Paulo,NULL,2555
+muenchen.de,Munich,NULL,Germany,NULL,20021226.001320,2556
+seolko,Seoul,NULL,South Korea,NULL,20021226.001320,2557
+spb.ru,St. Petersburg,NULL,Russia,NULL,NULL,2558
+feld.at,Feldkirch,NULL,Austria,courtesy Alexander Waller <a.waller@webpoint.at>,NULL,2559
+bngh,Binghamton,NY,USA,trapped between NYC and Rochester,20021229.163814,2560
+parispat,Paris,NULL,France,,20021229.163814,2561
+mmrnny,Mamaroneck,NY,USA,courtesy Al Bonnyman,20021229.163814,2562
+lenior.nc,Lenoir,NC,USA,courtesy Al Bonnyman is a misspelling,20021229.163814,2563
+sgldtx,Sugar Land,TX,USA,courtesy Al Bonnyman,20021229.163814,2564
+mdd.fr,Madrid,NULL,Spain,KPNQwest special fr doesnt mean France,20021229.163814,2565
+elictc.md,Ellicott,MD,USA,,20021229.163814,2566
+bue,Buenos Aires,NULL,Argentina,,20021229.163814,2567
+rcmdva,Richmond,VA,USA,,20021229.163814,2568
+kansas.mo,Kansas City,MO,USA,,20021229.163814,2569
+phnyaz,Phoenix,AZ,USA,,20021229.163814,2570
+london.eu,London,NULL,United Kingdom,,20021229.163814,2571
+chf-il,Chicago,IL,USA,,20021229.163814,2572
+ub.mng,Ulaanbaatar,NULL,Mongolia,,20021229.163814,2573
+oso,Oslo,NULL,Norway,,20021229.163814,2574
+ffmgw,Frankfurt,NULL,Germany,,20021229.163814,2575
+edinburgh.uk,Edinburgh,NULL,Scotland,,20021229.163814,2576
+prvdriwa,Providence,RI,USA,,20021229.163814,2577
+snfecaej,San Fernando,CA,USA,,20021229.163814,2578
+aubervilliers.fr,Aubervilliers,NULL,France,NULL,20021229.163814,2579
+canoga-park.ca,Canoga Park,CA,USA,,20021229.163814,2580
+us-va,*,VA,USA,,20021229.163814,2581
+bhx.gbb.uk,Birmingham,NULL,United Kingdom,,20021229.163814,2582
+colora.co,Colorado Springs,CO,USA,,20021229.163814,2583
+tukwilase,Tukwila,WA,USA,,20021229.163814,2584
+pnsc.at.cox,Pensacola,FL,USA,NULL,20021229.163814,2585
+delaware.voicenet,*,DE,USA,,NULL,2586
+vegas,Las Vegas,NV,USA,,NULL,2587
+lun.se,Lund,,Sweden,,NULL,2588
+phila.voicenet,Philadelphia,PA,USA,,NULL,2589
+chatsworth,Chatsworth,CA,USA,,NULL,2590
+wre,Warren,OH,USA,,NULL,2591
+clvhoh,Cleveland Heights,OH,USA,,NULL,2592
+dnpt.oc.cox,Dana Point,CA,USA,,NULL,2593
+alsv.oc.cox,Aliso Viejo,CA,USA,,NULL,2594
+rdc.ok,*,OK,USA,,NULL,2595
+nan,Nancy,,France,,NULL,2596
+crglhe.fl,Coral Gables,FL,USA,,NULL,2597
+sktnhe.ca,Stockton,CA,USA,,NULL,2598
+jamison.pa,Jamison City,PA,USA,,NULL,2600
+lbbk.dl.cox,Lubbock,TX,USA,,NULL,2601
+indy,Indianapolis,IN,USA,,NULL,2602
+lnsy.cn,Shenyang,Liaoning,China,,NULL,2603
+arl,Arlington,VA,USA,,NULL,2604
+uslsan,Los Angeles,CA,USA,,NULL,2605
+frsnhe.ca,Fresno,CA,USA,,NULL,2606
+state.az,*,AZ,USA,,NULL,2607
+fnvyca,Fountain Valley,CA,USA,,NULL,2608
+hncs.cn,ChangSha,Hunan,China,,NULL,2609
+se-mlmms,Malmo,,Sweden,,NULL,2610
+es.geant,*,,Spain,,NULL,2611
+london.ro,London,,United Kingdom,,NULL,2612
+napsf,San Francisco,CA,USA,,NULL,2613
+tnnash,Nashville,TN,USA,,NULL,2614
+edtn,Edmonton,AB,Canada,,NULL,2615
+hlfx.ca,Halifax,NS,Canada,,NULL,2616
+bal.au,Ballarat,VIC,Australia,,NULL,2617
+mnm,Mannheim,,Germany,,NULL,2618
+ati-ga,Atlanta,GA,USA,,NULL,2621
+snjpca,San Jose,CA,USA,BBN munging,NULL,2620
+poco.bc,Port Coquitlam,BC,Canada,,NULL,2622
+mar.fr,Marseille,,France,,NULL,2623
+swcrsk.ca,Swift Current,SK,Canada,,NULL,2624
+ucwphilly,Philadelphia,PA,USA,,NULL,2625
+sfcca,San Francisco,CA,USA,,NULL,2626
+herndon.na,Herndon,VA,USA,,NULL,2627
+bix,Biloxi,MS,USA,,NULL,2628
+des,Des Moines,IA,USA,,NULL,2629
+wataco,Tacoma,WA,USA,,NULL,2630
+gdbru,Brussels,,Belgium,,NULL,2631
+plsv.oc.cox,Palos Verdes Estates,CA,USA,,NULL,2632
+plt.ny,Plattsburgh,NY,USA,,NULL,2633
+rsmt.oc.cox,Rosemont,CA,USA,,NULL,2634
+edi,Edinburgh,,Scotland,,NULL,2635
+ewndsr.nj,East Windsor,NJ,USA,,NULL,2636
+panamb.fl,Panama City Beach,FL,USA,,NULL,2637
+radnor.pa,Radnor,PA,USA,,NULL,2638
+rdngen,Reading,,United Kingdom,,NULL,2639
+frr,Frankfurt,,Germany,trapped between Frankfurts,NULL,2640
+sandia.nm,Albuquerque,NM,USA,,NULL,2641
+kln.de,Klein,,Germany,,NULL,2642
+btnr.no.cox,Baton Rouge,LA,USA,,NULL,2643
+nwpt.hr.cox,Newport News,VA,USA,,NULL,2644
+nwblwinbln.wi,New Berlin,WI,USA,,NULL,2645
+snjs,San Jose,CA,USA,,NULL,2646
+pop.il,*,IL,USA,,NULL,2647
+pos.kc,Kansas City,MO,USA,,NULL,2648
+que.ca,Quebec,QU,Canada,,NULL,2649
+hazz.cn,ZhengZhou,Henan,China,,NULL,2650
+mo.stlouis,St. Louis,MO,USA,,NULL,2651
+udel.voicenet,Newark,DE,USA,whois record for udel.edu points here,NULL,2652
+livrp.au,Liverpool,,Australia,,NULL,2653
+too.au,Toowoomba,,Australia,,NULL,2654
+mke,Milwaukee,WI,USA,,NULL,2655
+coden,Denver,CO,USA,,NULL,2656
+rome.tn,Rome,TN,USA,,NULL,2657
+wrc.ma,Worcester,MA,USA,,NULL,2675
+hnv,Hannover,,Germany,,NULL,2659
+hawaii,*,HI,USA,,NULL,2660
+orng.oc.cox,Orange,CA,USA,,NULL,2661
+nyc.de,New York,NY,USA,,NULL,2662
+whv-ca,Whittier,CA,USA,,NULL,2663
+amar,Amarillo,TX,USA,,NULL,2664
+lndnuk,London,,United Kingdom,,NULL,2665
+gxnn.cn,Nanning,Guangxi,China,,NULL,2668
+huberlin.de,Berlin,,Germany,,NULL,2667
+fjxm.cn,Fuzhou,Fujian,China,,NULL,2669
+uweauclaire.wi,Eau Claire,WI,USA,,NULL,2670
+fft.de,Frankfurt,,Germany,,NULL,2671
+dcx,Washington,DC,USA,,NULL,2672
+cork,Cork,,Ireland,,NULL,2673
+prov.ri.cox,Providence,RI,USA,,NULL,2674
+nyi-ny,New York,NY,USA,,NULL,2676
+anch.ak,Anchorage,AK,USA,,NULL,2677
+drryhe.nh,Derry,NH,USA,,NULL,2678
+rga,Riga,,Latvia,,NULL,2679
+hky.nc,Hickory,NC,USA,,NULL,2680
+osakabak.jp,Osaka,,Japan,,NULL,2681
+nyc.ch,New York,NY,USA,,NULL,2682
+ivylnd.pa,Ivyland,PA,USA,,NULL,2683
+rdc.md,*,MD,USA,,NULL,2684
+ynkm.cn,Kunming,Yunnan,China,,NULL,2685
+slip.mo,*,MO,USA,,NULL,2686
+dlls.dl.cox,Dallas,TX,USA,,NULL,2687
+frankfurtfix,Frankfurt,,Germany,,NULL,2688
+free.au,Freestone,,Australia,,NULL,2689
+s.nordu,*,,Sweden,,NULL,2690
+cpt,Cape Town,,South Africa,,NULL,2691
+vivion.kc,Kansas City,MO,USA,,NULL,2692
+potshe.pa,Pottstown,PA,USA,,NULL,2693
+lnd.uk,London,,United Kingdom,,NULL,2694
+bbylny,Babylon,NY,USA,,NULL,2695
+ricelake.wi,Rice Lake,WI,USA,,NULL,2696
+lkhn.at.cox,Lakeland Highlands,FL,USA,,NULL,2697
+mcc,Sacramento,CA,USA,,NULL,2698
+lau.ch,Lausanne,,Switzerland,,NULL,2699
+muc,Munich,,Germany,,NULL,2700
+nmkt.on,Newmarket,ON,Canada,,NULL,2701
+kmlpbc,Kamloops,BC,Canada,,NULL,2702
+usdtrt,Detroit,MI,USA,,NULL,2703
+lexington.ky,Lexington,KY,USA,,NULL,2704
+fr.geant,*,,France,,NULL,2705
+edmonton,Edmonton,AB,Canada,,NULL,2706
+indianapolis.in,Indianapolis,IN,USA,,NULL,2707
+hunt,Huntsville,AL,USA,,NULL,2708
+lgw,London,,United Kingdom,,NULL,2709
+cambr.ca,Cambridge,ON,Canada,,NULL,2710
+nrfk.hr.cox,Norfolk,VA,USA,,NULL,2711
+mtcrcl,Circle,MT,USA,,NULL,2712
+mtmscy,Miles City,MT,USA,,NULL,2713
+neuillysurmarne,Neuilly Sur Marne,,France,,NULL,2714
+rjnrbz,Rio De Janeiro,,Brazil,,NULL,2715
+jns.fi,Joensuu,NULL,Finland,NULL,NULL,2716
+elps,El Paso,TX,USA,,NULL,2717
+losang,Los Angeles,CA,USA,,NULL,2718
+lvxx.lv.cox,Las Vegas,NV,USA,,NULL,2719
+eze,Buenos Aires,,Argentina,,NULL,2720
+spt.wi,Stevens Point,WI,USA,,NULL,2721
+ffaxvawx,Fairfax,VA,USA,,NULL,2722
+prl,Pearl City,HI,USA,based on sprints looking glass,NULL,2723
+stcatharines,St.Catharines,ON,Canada,,NULL,2724
+boi-id,Boise,ID,USA,,NULL,2725
+cpe.ma,Chicopee,MA,USA,,NULL,2726
+ftwl.at.cox,Fort Walton Beach,FL,USA,,NULL,2727
+srp.kc,Kansas City,MO,USA,,NULL,2728
+sna,Santa Ana,CA,USA,,NULL,2729
+hbg,Hamburg,,Germany,,NULL,2730
+chsl.il,Chicago,IL,USA,RCN munging,NULL,2731
+rdc.kc,Kansas City,MO,USA,,NULL,2732
+elsegundola,El Segundo,CA,USA,,NULL,2733
+bucharest-bb.ro,Bucharest,,Romania,,NULL,2734
+mdelkr,Elkridge,MD,USA,,NULL,2735
+lndn.ca,London,ON,Canada,,NULL,2736
+getepe.tr,Istanbul,,Turkey,getepe is Gayrettepe, ADSL-ALC-Gayrettepe-Dynamic Pool, per Baris (bniron@gmail.com),NULL,2737
+wrcma,Worcester,MA,USA,,NULL,2738
+kar,Karlsruhe,,Germany,,NULL,2739
+zvtm.be,Zaventem,,Belgium,,NULL,2740
+rhmd,Richmond,VA,USA,,NULL,2741
+mdb,Magdeburg,,Germany,,NULL,2742
+elcn.sd.cox,El Cajon,CA,USA,,NULL,2743
+timisoara.ro,Timisoara,,Romania,,NULL,2744
+mnsnhe.ma,Monson Center,MA,USA,,NULL,2745
+vc.ca,Vancouver,BC,Canada,,NULL,2746
+princess-anne.va,Princess Anne,VA,USA,,NULL,2747
+mn.rocheste,Rochester,MN,USA,,NULL,2748
+ok.cox,Oklahoma City,OK,USA,,NULL,2750
+southbend.in,South Bend,IN,USA,,NULL,2751
+mz.de,Mainz,,Germany,,NULL,2752
+hnll,Honolulu,HI,USA,,NULL,2754
+iasi.ro,Iasi,,Romania,,NULL,2755
+oti-ca,Ontario,CA,USA,,NULL,2756
+qcy,Quincy,MA,USA,,NULL,2757
+qui-ma,Quincy,MA,USA,,NULL,2758
+newjersey.us,*,NJ,USA,,NULL,2759
+ontr,Ontario,CA,USA,,NULL,2760
+ny.de,New York,NY,USA,,NULL,2761
+blf,Bielefeld,,Germany,,NULL,2762
+drvlga,Doraville,GA,USA,,NULL,2763
+wttw.wi,Watertown,WI,USA,,NULL,2764
+ptmo.hr.cox,Portsmouth,VA,USA,,NULL,2765
+frbg.de,Freiburg,,Germany,,NULL,2766
+ottawa.ca,Ottawa,ON,Canada,,NULL,2767
+rnke.hr.cox,Roanoke,VA,USA,,NULL,2768
+sydnau,Sydney,,Australia,,NULL,2769
+kitchener.ca,Kitchener,ON,Canada,,NULL,2770
+tucs.ph.cox,Tucson,AZ,USA,,NULL,2771
+stk-3-0-405xt,Stockton,CA,USA,,NULL,2772
+casp.wy,Casper,WY,USA,,NULL,2773
+uwmilwaukee.wi,Milwaukee,WI,USA,,NULL,2774
+irvn.oc.cox,Irvine,CA,USA,,NULL,2775
+greenbay,Green Bay,WI,USA,,NULL,2776
+hag,The Hague,,Netherlands,,NULL,2777
+izm.tr,Izmir,,Turkey,,NULL,2778
+miaufl,Miami,FL,USA,,NULL,2788
+kiev,Kiev,,Ukraine,,NULL,2780
+n67ny,New York,NY,USA,,NULL,2781
+cftnnj,Clifton,NJ,USA,,NULL,2782
+shlb.mi,Shelby,MI,USA,,NULL,2783
+madr.es,Madrid,,Spain,,NULL,2784
+waren.mi,Warren,MI,USA,,NULL,2785
+gr2ca,Garden Grove,CA,USA,,NULL,2786
+bydgoszcz.pl,Bydgoszcz,,Poland,,NULL,2787
+blvu.ne.cox,Bellevue,NE,USA,,NULL,2789
+hr.cox,Herndon,VA,USA,,NULL,2790
+nyda.ny,New York,NY,USA,,NULL,2791
+mtp,Montpellier,,France,,NULL,2792
+olvemo,Olivette,MO,USA,,NULL,2793
+no.cox,New Orleans,LA,USA,,NULL,2794
+ste-genev-bois.fr,Ste.Genevieve Des Bois,,France,,NULL,2795
+cntnoh,Canton,OH,USA,,NULL,2796
+aarhus.dk,Aarhus,,Denmark,,NULL,2797
+pwtk.ri.cox,Pawtucket,RI,USA,,NULL,2798
+ari-co,Arvada,CO,USA,,NULL,2799
+slip.tx,*,TX,USA,,NULL,2800
+slip.pa,*,PA,USA,,NULL,2801
+rdc.wa,*,WA,USA,,NULL,2802
+meta.no.cox,Metairie,LA,USA,,NULL,2803
+trentn.nj,Trenton,NJ,USA,,NULL,2804
+omhs.ne.cox,Omaha,NE,USA,,NULL,2805
+oklahomacity,Oklahoma City,OK,USA,,NULL,2806
+rdc.ne,*,NE,USA,,NULL,2807
+owml.md,Owings Mills,MD,USA,,NULL,2808
+lagny.fr,Lagny,,France,,NULL,2809
+sdv-ca,San Diego,CA,USA,,NULL,2810
+rdc.nl,*,,Netherlands,,NULL,2811
+invehe.mn,Inver Grove Heights,MN,USA,,NULL,2812
+state.or,*,OR,USA,,NULL,2813
+brbn,Burbank,CA,USA,,NULL,2814
+frank.au,Frankston,,Australia,,NULL,2815
+rich,Richmond,VA,USA,,NULL,2816
+sfinx,Paris,,France,courtesy Patrick,NULL,2817
+peruoh,Peru,OH,USA,,NULL,2818
+tpcyoh,Tipp City,OH,USA,,NULL,2819
+port,Portland,ME,USA,,NULL,2820
+wwck.ri.cox,Warwick,RI,USA,,NULL,2821
+asbn,Ashburn,VA,USA,,NULL,2822
+vist.sd.cox,Vista,CA,USA,,NULL,2823
+mil.it,Milan,,Italy,,NULL,2824
+fmt,Fremont,CA,USA,,NULL,2825
+wmnsca,Westminster,CA,USA,,NULL,2826
+macmb.mi,Macomb,MI,USA,,NULL,2827
+snvang,Sunnyvale,CA,USA,,NULL,2828
+nbg.de,Nuremberg,,Germany,,NULL,2829
+fra.ro,Frankfurt,,Germany,,NULL,2830
+mil.choiceone,Milwaukee,WI,USA,,NULL,2831
+lv.cox,Las Vegas,NV,USA,,NULL,2832
+phn-az,Phoenix,AZ,USA,,NULL,2833
+ed.ca,Edmonton,AB,Canada,,NULL,2834
+lvds.lv.cox,Las Vegas,NV,USA,,NULL,2835
+pau.au,Port Augusta,,Australia,,NULL,2836
+capal,Palo Alto,CA,USA,,NULL,2837
+om.cox,Omaha,NE,USA,,NULL,2838
+romn.wv,Romney,WV,USA,,NULL,2839
+dl.cox,Dallas,TX,USA,,NULL,2840
+bsi-ma,Boston,MA,USA,,NULL,2841
+camcolo,Cambridge,MA,USA,,NULL,2842
+chicagoequinix,Chicago,IL,USA,,NULL,2843
+ona.wi,Onalaska,WI,USA,,NULL,2844
+sundsvall,Sundsvall,,Sweden,,NULL,2845
+orngca,Orange,CA,USA,,NULL,2846
+hmb,Hamburg,,Germany,,NULL,2847
+troyoh,Troy,OH,USA,,NULL,2848
+sd.cox,San Diego,CA,USA,,NULL,2849
+nwmrbc,New Westminster,BC,Canada,courtesy Patricia Rydde,NULL,2850
+cardiff,Cardiff,,Wales,,NULL,2851
+vernbc,Vernon,BC,Canada,,NULL,2852
+state.me,*,ME,USA,,NULL,2853
+tco,Tysons Corner,VA,USA,,NULL,2854
+uk.geant,*,,United Kingdom,,NULL,2855
+pnapnybr,New York,NY,USA,,NULL,2856
+lba.gbb.uk,Leeds,,United Kingdom,,NULL,2857
+sntb.sd.cox,Santa Barbara,CA,USA,,NULL,2858
+rdc.ct,*,CT,USA,,NULL,2859
+ahi-ca,Anaheim,CA,USA,,NULL,2860
+ivn-ca,Irvine,CA,USA,,NULL,2861
+brighton,Brighton,,United Kingdom,,NULL,2862
+lsvl,Las Vegas,NV,USA,,NULL,2863
+snxa.cn,Xian City,Shanxi,China,,NULL,2864
+mrdn.ri.cox,Meriden,CT,USA,,NULL,2865
+ph.cox,Phoenix,AZ,USA,,NULL,2866
+ash.va,Ashburn,VA,USA,,NULL,2867
+galway,Galway,,Ireland,,NULL,2868
+gambrl.md,Gambrills,MD,USA,NULL,NULL,2869
+clboh,Columbus,OH,USA,,NULL,2870
+chnd.ph.cox,Chandler,AZ,USA,,NULL,2871
+cl2oh,Cleveland,OH,USA,,NULL,2872
+buffalo,Buffalo,NY,USA,,NULL,2873
+sanantonio,San Antonio,TX,USA,,NULL,2874
+quezon,Quezon City,,Philippines,,NULL,2875
+cta,Sao Paulo,,Brazil,courtesy Fabio,NULL,2876
+hu.geant,*,,Hungary,,NULL,2877
+roose.nl,Roosendaal,,Netherlands,,NULL,2878
+sea.wa,Seattle,WA,USA,,NULL,2879
+snbrca,San Bernardino,CA,USA,,NULL,2880
+mncnh,Manchester,NH,USA,,NULL,2881
+vbch.hr.cox,Virginia Beach,VA,USA,,NULL,2882
+snbyoh,Sunbury,OH,USA,,NULL,2883
+lasg,Los Angeles,CA,USA,,NULL,2884
+no-oslms,Oslo,,Norway,,NULL,2885
+thpar,Paris,,France,,NULL,2886
+singapore,Singapore,,Singapore,,NULL,2887
+kpt.tn,Kingsport,TN,USA,,NULL,2888
+orange,Orange,CA,USA,,NULL,2889
+sccd.cn,Chengdu,Sichuan,China,,NULL,2890
+cran.ri.cox,Cranston,RI,USA,,NULL,2891
+r-iasi-cr.ro,Iasi,,Romania,,NULL,2892
+miafl,Miami,FL,USA,,NULL,2893
+lang.la.cox,Los Angeles,CA,USA,,NULL,2894
+de.geant,*,,Germany,,NULL,2895
+tallahassee,Tallahassee,FL,USA,,NULL,2896
+eagahe.mn,Eagan,MN,USA,,NULL,2897
+no.nordu,*,,Norway,,NULL,2898
+medan.id,Medan,,Indonesia,,NULL,2899
+wpgrny,Wappingers Falls,NY,USA,,NULL,2900
+kfalls.or,Klamath Falls,OR,USA,,NULL,2903
+sgnw.mi,Saginaw,MI,USA,,NULL,2902
+was.us,Washington,DC,USA,,NULL,2904
+milwwignfl.wi,Milwaukee,WI,USA,,NULL,2905
+shb.wi,Sheboygan,WI,USA,,NULL,2906
+msp.mn,Minneapolis,MN,USA,,NULL,2907
+it.geant,*,,Italy,,NULL,2908
+ri.cox,*,RI,USA,,NULL,2909
+mskgwimusk.wi,Muskego,WI,USA,,NULL,2910
+wsh,Washington,DC,USA,,NULL,2911
+unio.pa,Uniontown,PA,USA,,NULL,2912
+scgnvl,Greenville,SC,USA,,NULL,2913
+at.cox,Atlanta,GA,USA,,NULL,2914
+apa,Denver,CO,USA,,NULL,2915
+state.sc,*,SC,USA,,NULL,2916
+salmor,Salem,OR,USA,,NULL,2917
+usbstn,Boston,MA,USA,,NULL,2918
+cbg.gbb.uk,Cambridge,,United Kingdom,,NULL,2919
+milwwismil.wi,Milwaukee,WI,USA,,NULL,2920
+nycpny,New York,NY,USA,,NULL,2921
+sjccolo,San Jose,CA,USA,,NULL,2922
+bayonne.fr,Bayonne,,France,,NULL,2923
+wlg,Wellington,,New Zealand,,NULL,2924
+rhmdky,Richmond,KY,USA,,NULL,2925
+vannca,Van Nuys,CA,USA,,NULL,2926
+cg.ca,Calgary,AB,Canada,,NULL,2927
+dbn.za,Durban,,South Africa,,NULL,2928
+brnmll.nj,Browns Mills,NJ,USA,,NULL,2929
+frmnhe.ma,Framingham,MA,USA,,NULL,2930
+toldoh,Toledo,OH,USA,,NULL,2931
+vst,Vasteras,,Sweden,,NULL,3002
+hypkny,New Hyde Park,NY,USA,no Hyde Park, so using New Hyde Park,NULL,2933
+thrr.mi,Three Rivers,MI,USA,,NULL,2934
+smtwny,Smithtown,NY,USA,,NULL,2935
+bris.tn,Bristol,TN,USA,,NULL,2936
+rgv,Rio Grande City,TX,USA,aircode for Rio Grande Valley but no such city listed,NULL,2937
+se-obobs,Obbola,,Sweden,,NULL,2938
+nsvntn,Nashville,TN,USA,,NULL,2939
+thoms.au,Thomastown,,Australia,,NULL,2940
+day,Dayton,OH,USA,,NULL,2941
+omaha,Omaha,NE,USA,,NULL,2942
+mlm,Malmo,,Sweden,,NULL,3001
+porch.wa,Port Orchard,WA,USA,,NULL,2944
+birmingham.level3,Birmingham,AL,USA,,NULL,2945
+rcfril,Rockford,IL,USA,,NULL,2946
+wp.ca,Winnipeg,MB,Canada,,NULL,2947
+ocala,Ocala,FL,USA,,NULL,2948
+fl.ocala,Ocala,FL,USA,,NULL,2949
+htsp,Hot Springs,AR,USA,,NULL,2950
+sei-wa,Seattle,WA,USA,,NULL,2951
+mex,Mexico City,,Mexico,,NULL,2953
+gaatln,Atlanta,GA,USA,,NULL,2954
+lulea.se,Lulea,,Sweden,,NULL,2999
+extrhe.nh,Exeter,NH,USA,,NULL,2956
+n.de,Nuremberg,,Germany,,NULL,2957
+providence,Providence,RI,USA,,NULL,2958
+msq,Manasquan,NJ,USA,,NULL,2959
+sxb.alter,Strasbourg,,France,,NULL,2960
+stpmn,St. Paul,MN,USA,,NULL,2961
+tl.v,Tel Aviv,,Israel,,NULL,2962
+vilvoorde.be,Vilvoorde,,Belgium,,NULL,2964
+mno,Milan,,Italy,,NULL,2965
+mrbohe.ma,Marlborough,MA,USA,,NULL,2966
+shrwd.ar,Sherwood,AR,USA,,NULL,2967
+kli.gr,Kilkis,,Greece,,NULL,2968
+ath.gr,Athens,,Greece,,NULL,2969
+prvri,Providence,RI,USA,,NULL,2970
+arlngt.va,Arlington,VA,USA,,NULL,2971
+sua,Stuart,FL,USA,,NULL,2972
+amsix,Amsterdam,,Netherlands,,NULL,3000
+msy,New Orleans,LA,USA,,NULL,2974
+warsaw,Warsaw,,Poland,,NULL,2998
+ftzgga,Fitzgerald,GA,USA,,NULL,2976
+dglsga,Douglas,GA,USA,,NULL,2977
+emhril,Elmhurst,IL,USA,,NULL,2978
+vic.au,Victoria,,Australia,,NULL,2997
+smf,Sacramento,CA,USA,,NULL,2980
+crrvca,Riverside,CA,USA,,NULL,2984
+cranca,Anaheim,CA,USA,,NULL,2983
+crdltx,Dallas,TX,USA,,NULL,2985
+crhnva,Herndon,VA,USA,,NULL,2986
+mrdnct,Meriden,CT,USA,,NULL,2987
+crkcmo,Kansas City,MO,USA,,NULL,2988
+crdnco,Denver,CO,USA,,NULL,2989
+crskut,Salt Lake City,UT,USA,,NULL,2990
+crsfca,San Francisco,CA,USA,,NULL,2991
+geelong.au,Geelong,,Australia,,NULL,2992
+slsp,Siloam Springs,AR,USA,,NULL,2993
+mplsmn,Minneapolis,MN,USA,,NULL,2994
+tuf,Tours,,France,,NULL,2995
+can.au,Canberra,,Australia,,NULL,2996
+sundsvall.se,Sundsvall,,Sweden,,NULL,3003
+tlv.il,Tel Aviv,,Israel,,NULL,3004
+gblond,London,,United Kingdom,,NULL,3005
+desttg,Stuttgart,,Germany,,NULL,3006
+defrnk,Frankfurt,,Germany,,NULL,3007
+stc.mn,St. Cloud,MN,USA,,NULL,3008
+mdvlpa,Meadville,PA,USA,,NULL,3009
+miamimi,Miami,FL,USA,,NULL,3010
+tyrd,Tyler,TX,USA,,NULL,3011
+cld-oh,Cleveland,OH,USA,,NULL,3012
+lvr-ky,Louisville,KY,USA,,NULL,3013
+str.de,Strasburg,,Germany,,NULL,3014
+bistrita.ro,Bistrita,,Romania,,NULL,3015
+owngsm.md,Owings Mills,MD,USA,,NULL,3016
+ume.se,Umea,,Sweden,,NULL,3017
+waldlk.mi,Walled Lake,MI,USA,,NULL,3018
+stk.alter,Stockholm,,Sweden,,NULL,3019
+saintlouis,St. Louis,MO,USA,,NULL,3020
+yyz,Toronto,,Canada,,NULL,3021
+santaclarasc,Santa Clara,CA,USA,,NULL,3022
+alpn.sd.cox,Alpine,CA,USA,,NULL,3023
+birmingham.uk,Birmingham,,United Kingdom,,NULL,3024
+tys,Knoxville,TN,USA,,NULL,3025
+santiago.cl,Santiago,,Chile,,NULL,3026
+twcny,Syracuse,NY,USA,,NULL,3027
+hfa.il,Haifa,,Israel,,NULL,3028
+mcty.no.cox,New Orleans,LA,USA,,NULL,3029
+stdenis.fr,Saint Denis,,France,,NULL,3030
+vsa.fi,Vaasa,,Finland,,NULL,3031
+metz.fr,Metz,,France,,NULL,3032
+bosma,Boston,MA,USA,,NULL,3033
+pdx,Portland,OR,USA,,NULL,3034
+plmmi,Plymouth,MI,USA,,NULL,3035
+anr,Antwerp,,Belgium,,NULL,3036
+bltnmn.mn,Bloomington,MN,USA,,NULL,3037
+slip.ok,*,OK,USA,,NULL,3038
+hmb.de,Hamburg,,Germany,,NULL,3039
+greenv.sc,Greenville,SC,USA,,NULL,3040
+akron,Akron,OH,USA,,NULL,3041
+wymohe.ma,Weymouth,MA,USA,,NULL,3042
+wmltoh,West Milton,OH,USA,,NULL,3043
+hln,Helena,MT,USA,,NULL,3044
+usnycm,*,NY,USA,,NULL,3045
+nyf-ny,New York,NY,USA,,NULL,3046
+hu-bud,Budapest,,Hungary,,NULL,3047
+mt.billings,Billings,MT,USA,,NULL,3048
+mt.shelby,Shelby,MT,USA,,NULL,3049
+tls,Toulouse,,France,,NULL,3050
+gvcyoh,Grove City,OH,USA,,NULL,3051
+brvwil,Bridgeview,IL,USA,,NULL,3052
+wrrn.oh,Warren,OH,USA,,NULL,3053
+yntw.oh,Youngstown,OH,USA,,NULL,3054
+akrn.oh,Akron,OH,USA,,NULL,3055
+told.oh,Toledo,OH,USA,,NULL,3056
+helsinki.fi,Helsinki,,Finland,,NULL,3057
+madsnh.mi,Madison Heights,MI,USA,,NULL,3058
+escn.sd.cox,Escondido,CA,USA,,NULL,3059
+stkhse,Stockholm,,Sweden,,NULL,3060
+hasthe.mn,Hastings,MN,USA,,NULL,3061
+rtd.nl,Rotterdam,,Netherlands,,NULL,3062
+cormny,Coram,NY,USA,,NULL,3063
+frfdoh,Fairfield,OH,USA,,NULL,3064
+cnvloh,Centerville,OH,USA,,NULL,3065
+crcloh,Columbus,OH,USA,,NULL,3066
+dytoh,Dayton,OH,USA,,NULL,3067
+lancoh,Lancaster,OH,USA,,NULL,3068
+znvloh,Zanesville,OH,USA,,NULL,3069
+elpaso.tx,El Paso,TX,USA,,NULL,3070
+elsnhe.ca,El Segundo,CA,USA,,NULL,3071
+sudbury,Sudbury,ON,Canada,,NULL,3072
+grey.tn,Greystone,TN,USA,,NULL,3073
+albyny,Albany,NY,USA,,NULL,3074
+midtn.tn,Midtown,TN,USA,,NULL,3075
+konstanz,Konstanz,,Germany,,NULL,3076
+heilbronn,Heilbronn,,Germany,,NULL,3077
+nashhe.nh,Nashua,NH,USA,,NULL,3078
+heraklio.gr,Heraklion,,Greece,,NULL,3079
+scf,Scottsdale,AZ,USA,,NULL,3080
+lagny,Lagny,,France,,NULL,3081
+oradea.ro,Oradea,,Romania,,NULL,3082
+flshng.mi,Flushing,MI,USA,,NULL,3083
+prtmry.nj,Port Murray,NJ,USA,,NULL,3084
+bialystok.pl,Bialystok,,Poland,,NULL,3085
+cdrria,Cedar Rapids,IA,USA,,NULL,3086
+cpgd.mo,Cape Girardeau,MO,USA,,NULL,3087
+annecy,Annecy,,France,,NULL,3088
+annecy.fr,Annecy,,France,,NULL,3089
+hgk,Hong Kong,,China,,NULL,3090
+cmngga,Cumming,GA,USA,,NULL,3091
+slip.nm,*,NM,USA,,NULL,3092
+cairo,Cairo,,Egypt,,NULL,3093
+cratga,Atlanta,GA,USA,,NULL,3094
+crchil,Chicago,IL,USA,,NULL,3095
+crhstx,Houston,TX,USA,,NULL,3096
+crlsca,Los Angeles,CA,USA,,NULL,3097
+crnyny,New York,NY,USA,,NULL,3098
+crscca,Sacramento,CA,USA,,NULL,3099
+lib.ca,*,CA,USA,,NULL,3100
+lib.il,*,IL,USA,,NULL,3101
+lib.md,*,MD,USA,,NULL,3102
+lib.ny,*,NY,USA,,NULL,3103
+lib.oh,*,OH,USA,,NULL,3104
+lib.or,*,OR,USA,,NULL,3105
+pop.ca,*,CA,USA,,NULL,3106
+pop.mi,*,MI,USA,,NULL,3107
+pos.nc,*,NC,USA,,NULL,3108
+pos.wi,*,WI,USA,,NULL,3109
+ppp.ma,*,MA,USA,,NULL,3110
+slip.ca,*,CA,USA,,NULL,3111
+slip.co,*,CO,USA,,NULL,3112
+slip.fl,*,FL,USA,,NULL,3113
+slip.ny,*,NY,USA,,NULL,3114
+slip.sd,*,SD,USA,,NULL,3115
+srp.nc,*,NC,USA,,NULL,3116
+srp.sc,*,SC,USA,,NULL,3117
+srp.wi,*,WI,USA,,NULL,3118
+state.mn,*,MN,USA,,NULL,3119
+state.va,*,VA,USA,,NULL,3120
+atlsfl,Atlantis,FL,USA,,NULL,3121
+buffny,Buffalo,NY,USA,,NULL,3122
+ca.paloalto,Palo Alto,CA,USA,,NULL,3123
+chrnva,Christiansburg,VA,USA,,NULL,3124
+chswca,Chatsworth,CA,USA,,NULL,3125
+cli.wi,Clintonville,WI,USA,,NULL,3126
+clmb.in,Columbus,IN,USA,,NULL,3127
+clsco,Colorado Springs,CO,USA,,NULL,3128
+crsntcty.ca,Crescent City,CA,USA,,NULL,3129
+cypshe.ca,Cypress,CA,USA,,NULL,3130
+derbrn.mi,Dearborn,MI,USA,,NULL,3131
+elzbnj,Elizabeth,NJ,USA,,NULL,3132
+epoint.mi,Eastpointe,MI,USA,,NULL,3133
+frbgva,Fredericksburg,VA,USA,,NULL,3134
+ga.westpoin,West Point,GA,USA,,NULL,3135
+hershy.pa,Hershey,PA,USA,,NULL,3136
+hkry.nc,Hickory,NC,USA,,NULL,3137
+hrlntx,Harlingen,TX,USA,,NULL,3138
+il.ofallon,OFallon,IL,USA,,NULL,3139
+indpia,Independence,IA,USA,,NULL,3140
+ipls.in,Indianapolis,IN,USA,,NULL,3141
+jerseycitynj,Jersey City,NJ,USA,,NULL,3142
+ky.madisonv,Madisonville,KY,USA,,NULL,3143
+lagrande.or,La Grande,OR,USA,,NULL,3144
+lsvky,Louisville,KY,USA,,NULL,3145
+manass.va,Manassas,VA,USA,,NULL,3146
+marylandheights.mo,Maryland Heights,MO,USA,,NULL,3147
+mcmb.mi,Macomb,MI,USA,,NULL,3148
+mlfrhe.ma,Milford,MA,USA,,NULL,3149
+mrvlnc,Mooresville,NC,USA,,NULL,3150
+mtmors.mi,Mount Morris,MI,USA,,NULL,3151
+mtsdny,Sidney,MT,USA,,NULL,3152
+northw.in,North Webster,IN,USA,,NULL,3153
+nvlveg,Las Vegas,NV,USA,,NULL,3154
+nvnn.in,North Vernon,IN,USA,,NULL,3155
+ocalfl,Ocala,FL,USA,,NULL,3156
+oh.portsmou,Portsmouth,OH,USA,,NULL,3157
+okokcy,Oklahoma City,OK,USA,,NULL,3158
+or.salem,Salem,OR,USA,,NULL,3159
+pa.harrisbu,Harrisburg,PA,USA,,NULL,3160
+pa.york,York,PA,USA,,NULL,3161
+paloalto.ca,Palo Alto,CA,USA,,NULL,3162
+pineis.fl,Pine Island,FL,USA,,NULL,3163
+pittpa,Pittsburgh,PA,USA,,NULL,3164
+por-me,Portland,ME,USA,,NULL,3165
+prinj,Princeton,NJ,USA,,NULL,3166
+rocsth.mi,Rochester Hills,MI,USA,,NULL,3167
+sai-tx,San Antonio,TX,USA,,NULL,3168
+salsbr.md,Salisbury,MD,USA,,NULL,3169
+sanf.nc,Sanford,NC,USA,,NULL,3170
+scabvl,Abbeville,SC,USA,,NULL,3171
+sgnwmi,Saginaw,MI,USA,,NULL,3172
+smr.tx,San Marcos,TX,USA,,NULL,3173
+sothfd.mi,Southfield,MI,USA,,NULL,3174
+spart.sc,Spartanburg,SC,USA,,NULL,3175
+spsdca,South Pasadena,CA,USA,,NULL,3176
+srcny,Syracuse,NY,USA,,NULL,3177
+st-cloud.mn,St. Cloud,MN,USA,,NULL,3178
+swedsb.nj,Swedesboro,NJ,USA,,NULL,3179
+tampfl,Tampa,FL,USA,,NULL,3180
+tsclos.al,Tuscaloosa,AL,USA,,NULL,3181
+vislhe.ca,Visalia,CA,USA,,NULL,3182
+wcfltx,Wichita Falls,TX,USA,,NULL,3183
+wlawla.wa,Walla Walla,WA,USA,,NULL,3184
+wlmgnc,Wilmington,NC,USA,,NULL,3185
+wyn.pa,Waynesboro,PA,USA,,NULL,3186
+tucson,Tucson,AZ,USA,,NULL,3187
+mob,Mobile,AL,USA,,NULL,3188
+tilburg,Tilburg,,Netherlands,,NULL,3189
+amiens.fr,Amiens,,France,,NULL,3190
+clermont.fr,Clermont,,France,,NULL,3191
+corte.fr,Corte,,France,,NULL,3192
+pars.fr,Paris,,France,,NULL,3193
+tours.fr,Tours,,France,,NULL,3194
+vaxjo.se,Vaxjo,,Sweden,,NULL,3195
+malmo.se,Malmo,,Sweden,,NULL,3196
+kalmar.se,Kalmar,,Sweden,,NULL,3197
+huddinge.se,Huddinge,,Sweden,,NULL,3198
+gillst.ar,Gillian Settlement,AR,USA,,NULL,3199
+vien.at,Vienna,,Austria,,NULL,3200
+dubbo.au,Dubbo,,Australia,,NULL,3201
+gln.au,Geelong,,Australia,,NULL,3202
+gos.au,Gosford,,Australia,,NULL,3203
+bostonbo,Boston,MA,USA,,NULL,3204
+cba.br,Curitiba,,Brazil,,NULL,3205
+ber.ch,Berne,,Switzerland,,NULL,3206
+prg.cz,Prague,,Czech Republic,,NULL,3207
+dssd.de,Dusseldorf,,Germany,,NULL,3208
+essn.de,Essen,,Germany,,NULL,3209
+fran.de,Frankfurt,,Germany,,NULL,3210
+nrbg.de,Nuremberg,,Germany,,NULL,3211
+stbg.de,Strasburg,,Germany,,NULL,3212
+tybout.de,Tybouts Corner,DE,USA,,NULL,3213
+wprt.de,Wuppertal,,Germany,,NULL,3214
+aalborg.dk,Aalborg,,Denmark,,NULL,3215
+fi-hel,Helsinki,,Finland,,NULL,3216
+fihlsk,Helsinki,,Finland,,NULL,3217
+eqchil,Chicago,IL,USA,,NULL,3218
+jerusalem.il,Jerusalem,,Israel,,NULL,3219
+ahd.in,Ahmadabad,,India,,NULL,3220
+chennai.in,Madras,,India,,NULL,3221
+dblnir,Dublin,,Ireland,,NULL,3222
+rtm.nl,Rotterdam,,Netherlands,,NULL,3223
+byd.pl,Bydgoszcz,,Poland,,NULL,3224
+warszawa.pl,Warszawa,,Poland,,NULL,3225
+brasov-gw-fe.ro,Brasov,,Romania,,NULL,3226
+eburg.ru,Ekaterinburg,,Russia,,NULL,3227
+kazan.ru,Kazan,,Russia,,NULL,3228
+gr.pal,*,,Greece,,NULL,3229
+il.pal,*,,Israel,,NULL,3230
+it.pal,*,,Italy,,NULL,3231
+ly.pal,*,,Libya,,NULL,3232
+ma.pal,*,,Morocco,,NULL,3233
+mt.pal,*,,Malta,,NULL,3234
+tn.pal,*,,Tunisia,,NULL,3235
+ua.pal,*,,Ukraine,,NULL,3236
+usclev,Cleveland,OH,USA,,NULL,3237
+lon.ca,London,ON,Canada,,NULL,3238
+sttlwablhx,Seattle,WA,USA,,NULL,3239
+il.pa,*,,Israel,,NULL,3240
+in.pa,*,,India,,NULL,3241
+it.pa,*,,Italy,,NULL,3242
+mt.pa,*,,Malta,,NULL,3243
+tn.pa,*,,Tunisia,,NULL,3244
+brodwy.nm,Albuquerque,NM,USA,,NULL,3245
+clsp,Colorado Springs,CO,USA,,NULL,3246
+hbg.de,Hamburg,,Germany,,NULL,3247
+sw.nordu,*,,Sweden,,NULL,3248
+sjc.us,San Jose,CA,USA,,NULL,3250
+dca.us,Washington,DC,USA,,NULL,3251
+iad.us,Washington,DC,USA,,NULL,3252
+vt.williston,Williston,VT,USA,,NULL,3253
+cgn.de,Koeln,,Germany,,NULL,3254
+mn.minneapo,Minneapolis,MN,USA,,NULL,3255
+wes.de,Wesel,,Germany,courtesy jan@nuvak.de,NULL,3256
+elztwn.pa,Elizabethtown,PA,USA,,NULL,3257
+atl.us,Atlanta,GA,USA,,NULL,3258
+dfw.us,Dallas,TX,USA,,NULL,3259
+iah.us,Houston,TX,USA,,NULL,3260
+lax.us,Los Angeles,CA,USA,,NULL,3261
+lga.us,New York,NY,USA,,NULL,3262
+ord.us,Chicago,IL,USA,,NULL,3263
+pao.us,Palo Alto,CA,USA,,NULL,3264
+sea.us,Seattle,WA,USA,,NULL,3265
+youngstown,Youngstown,OH,USA,,NULL,3266
+rdc.bc,*,BC,Canada,,NULL,3267
+rdc.on,*,ON,Canada,,NULL,3268
+rdc.nsw.au,*,NSW,Australia,,NULL,3269
+ashkelon.il,Ashqelon,,Israel,,NULL,3270
+angelholm,Angelholm,,Sweden,,NULL,3271
+brs.gbb.uk,Bristol,,United Kingdom,,NULL,3272
+mtgry.al,Montgomery,AL,USA,,NULL,3273
+access.at,*,,Austria,,NULL,3274
+adsl.be,*,,Belgium,,NULL,3275
+brick.nj,Brick Town,NJ,USA,,NULL,3276
+ejby.dk,Ejby,,Denmark,,NULL,3277
+customer.be,*,,Belgium,,NULL,3278
+customer.fi,*,,Finland,,NULL,3279
+customer.nl,*,,Netherlands,,NULL,3280
+fortworth,Fort Worth,TX,USA,,NULL,3281
+gda.pl,Gdansk,,Poland,,NULL,3282
+xanthi.gr,Xanthi,,Greece,,NULL,3283
+iedubl,Dublin,,Ireland,,NULL,3284
+limerick,Limerick,,Ireland,,NULL,3286
+lincoln,Lincoln,NE,USA,,NULL,3287
+nport.fl,North Port,FL,USA,,NULL,3288
+nanterre,Nanterre,,France,,NULL,3289
+rennes,Rennes,,France,,NULL,3290
+restondc,Reston,VA,USA,,NULL,3291
+galati.ro,Galati,,Romania,,NULL,3292
+alcroh,Apple Creek,OH,USA,,NULL,3293
+aubrnh.mi,Auburn Hills,MI,USA,,NULL,3294
+buies.nc,Buies Creek,NC,USA,,NULL,3295
+cle.oh,Cleveland,OH,USA,,NULL,3296
+gve.ak,Glacier View,AK,USA,,NULL,3297
+naugus.ga,Augusta,GA,USA,,NULL,3298
+ashi.wi,Ashwaubenon,WI,USA,,NULL,3299
+auk,Auckland,,New Zealand,courtesy email from Philip Shearer,NULL,3300
+akl.nz,Auckland,,New Zealand,,NULL,3301
+wlg.nz,Wellington,,New Zealand,,NULL,3302
+ie.geant,*,,Ireland,,NULL,3303
+plnw.fl,Plantation,FL,USA,,NULL,3304
+plnwhe.fl,Plantation,FL,USA,,NULL,3305
+maine,*,ME,USA,,NULL,3306
+mil.starnetusa,Milwaukee,WI,USA,,NULL,3307
+mad.popsite,Madison,WI,USA,,NULL,3308
+cin,Cincinnati,OH,USA,,NULL,3309
+fbrnoh,Fairborn,OH,USA,,NULL,3310
+aaburny,Auburn,NY,USA,,NULL,3311
+manchester.level3,Manchester,NH,USA,,NULL,3312
+sctt.ri.cox,Scituate,RI,USA,,NULL,3313
+mqt.mi,Marquette,MI,USA,,NULL,3314
+sanarb.mi,Ann Arbor,MI,USA,,NULL,3315
+do.de,Dortmund,,Germany,,NULL,3316
+state.co,*,CO,USA,,NULL,3317
+clj.ro,Cluj,,Romania,,NULL,3318
+brv.ro,Brasov,,Romania,,NULL,3319
+chskmn,Chaska,MN,USA,,NULL,3320
+sli.la,Slidell,LA,USA,,NULL,3321
+vm.ca,Ville Marie,QU,Canada,,NULL,3322
+aburny,Auburn,NY,USA,,NULL,3323
+mobilh.al,Mobile,AL,USA,,NULL,3324
+buff,Buffalo,NY,USA,,NULL,3325
+gdprab,Grande-Prairie,AB,Canada,,NULL,3326
+dc.cox,Washington,DC,USA,,NULL,3327
+m.de,Munich,,Germany,,NULL,3328
+elrg,Eldridge,IA,USA,,NULL,3329
+keennh,Keene,NH,USA,,NULL,3330
+mnl,Manila,,Philippines,,NULL,3331
+phlapabr,Philadelphia,PA,USA,,NULL,3332
+sin.sg,Singapore,,Singapore,,NULL,3333
+uk-ilf,Ilford,,United Kingdom,,NULL,3334
+man.verizon-gni,Manchester,NH,USA,,NULL,3335
+ksc.mo,Kansas City,MO,USA,,NULL,3336
+tus,Tucson,AZ,USA,,NULL,3337
+fl.tampa,Tampa,FL,USA,,NULL,3338
+hntgtn.in,Huntington,IN,USA,,NULL,3339
+stx,Corpus Christi,TX,USA,stx.rr is code for South Texas and form reply says he is in Corpus Christi,NULL,3340
+pldsca,Palm Desert,CA,USA,,NULL,3341
+dul.mn,Duluth,MN,USA,,NULL,3342
+mnch.ri.cox,Manchester,CT,USA,,NULL,3343
+monaco,*,,Monaco,,NULL,3344
+barrie.ca,Barrie,ON,Canada,,NULL,3345
+rose.mn,Roseville,MN,USA,,NULL,3346
+elkrdg.md,Elkridge,MD,USA,,NULL,3347
+abz,Aberdeen,,Scotland,,NULL,3348
+ny.geant,New York,NY,USA,,NULL,3349
+bssr,Bossier City,LA,USA,,NULL,3350
+lys.fr,Lyon,,France,,NULL,3351
+spa.sc,Spartanburg,SC,USA,,NULL,3352
+tow.au,Townsville,,Australia,,NULL,3353
+og.de,Offenburg,,Germany,,NULL,3354
+mar-wv,Martinsburg,WV,USA,largest city matching ICG style pattern,NULL,3355
+cntvoh,Centerville,OH,USA,,NULL,3356
+medfrd.nj,Medford Lakes,NJ,USA,,NULL,3357
+sn.de,Schwerin,,Germany,,NULL,3358
+bomvsb.in,Bombay,,India,,NULL,3359
+whitemarsh.md,White Marsh,MD,USA,,NULL,3360
+brntfd.ca,Brantford,ON,Canada,,NULL,3361
+ykma.wa,Yakima,WA,USA,,NULL,3362
+london.sympatico.ca,London,ON,Canada,,NULL,3363
+orovly.az,Oro Valley,AZ,USA,,NULL,3364
+renonv,Reno,NV,USA,,NULL,3365
+torresdale.pa,Torresdale,PA,USA,,NULL,3366
+toresd.pa,Torresdale,PA,USA,,NULL,3367
+ptskoh,Pataskala,OH,USA,,NULL,3368
+sb1ca,San Bernardino,CA,USA,,NULL,3369
+doth,Dothan,AL,USA,,NULL,3370
+hoi-tx,Houston,TX,USA,,NULL,3371
+max-ga,Macon,GA,USA,,NULL,3372
+chic.pacbell,Chico,CA,USA,,NULL,3373
+chic.pbi,Chico,CA,USA,,NULL,3374
+chi.ca.sbcglobal,Chico,CA,USA,,NULL,3375
+blviga,Blairsville,GA,USA,,NULL,3376
+lplc.no.cox,Laplace,LA,USA,,NULL,3377
+mnx-mn,Minneapolis,MN,USA,,NULL,3378
+rze.pl,Rzeszow,,Poland,,NULL,3379
+lub.pl,Lublin,,Poland,,NULL,3380
+nyrk.ny.cox,New York,NY,USA,,NULL,3381
+blfd.de,Bielefeld,,Germany,,NULL,3382
+igwdhe.ca,Inglewood,CA,USA,,NULL,3383
+avonhe.oh,Avon,OH,USA,,NULL,3384
+washly.sc,Charleston,SC,USA,from rr.arin.net lookup on ip addr,NULL,3385
+ptldme,Portland,ME,USA,,NULL,3386
+mrgthe.fl,Margate,FL,USA,,NULL,3387
+wv.mrtnbrg,Martinsburg,WV,USA,,NULL,3388
+wv.hunt,Huntington,WV,USA,,NULL,3389
+tn.bullsgap,Bulls Gap,TN,USA,,NULL,3390
+va.culpepper,Culpeper,VA,USA,,NULL,3391
+az.foothills,Fortuna Foothills,AZ,USA,,NULL,3392
+co.ratlsnk,Rattlesnake Buttes,CO,USA,,NULL,3393
+co.colspgs,Colorado Springs,CO,USA,,NULL,3394
+md.jffrsn,Jefferson,MD,USA,,NULL,3395
+ga.cmng,Cumming,GA,USA,,NULL,3396
+akroh,Akron,OH,USA,,NULL,3397
+al.entrprse,Enterprise,AL,USA,,NULL,3398
+alxndr.va,Alexandria,VA,USA,,NULL,3399
+anokhe.mn,Anoka,MN,USA,,NULL,3400
+brdgtn.nj,Bridgeton,NJ,USA,,NULL,3401
+brghtn.mi,Brighton,MI,USA,,NULL,3402
+brlngt.nj,Burlington,NJ,USA,,NULL,3403
+brptct,Bridgeport,CT,USA,,NULL,3404
+bthpny,Bethpage,NY,USA,,NULL,3405
+ca.dibar,Diamond Bar,CA,USA,,NULL,3406
+ca.fulrtn,Fullerton,CA,USA,,NULL,3407
+ca.herbch,Hermosa Beach,CA,USA,,NULL,3408
+ca.lapuente,La Puente,CA,USA,,NULL,3409
+ca.manbch,Manhattan Beach,CA,USA,,NULL,3410
+ca.picorvra,Pico Rivera,CA,USA,,NULL,3411
+ca.simival,Simi Valley,CA,USA,,NULL,3412
+ca.southwhtr,South Whittier,CA,USA,,NULL,3413
+ca.stmnca,Santa Monica,CA,USA,,NULL,3414
+ca.thoaks,Thousand Oaks,CA,USA,,NULL,3415
+ca.vannuys,Van Nuys,CA,USA,,NULL,3416
+ca.vnny,Van Nuys,CA,USA,,NULL,3417
+ca.whlywd,West Hollywood,CA,USA,,NULL,3418
+chiil,Chicago,IL,USA,,NULL,3419
+chmbrs.pa,Chambersburg,PA,USA,,NULL,3420
+clbrtn.fl,Celebration,FL,USA,,NULL,3421
+dectr.al,Decatur,AL,USA,,NULL,3422
+dllatx,Dallas,TX,USA,,NULL,3423
+eatntn.nj,Eatontown,NJ,USA,,NULL,3424
+eriepa,Erie,PA,USA,,NULL,3425
+euclwi,Eau Claire,WI,USA,,NULL,3426
+fai.a.k,Fairbanks,AK,USA,,NULL,3427
+fairvw.pa,Fairview,PA,USA,,NULL,3428
+fxbohe.ma,Foxborough,MA,USA,,NULL,3429
+gardencity.mi,Garden City,MI,USA,,NULL,3430
+gardnc.mi,Garden City,MI,USA,,NULL,3431
+ghnaoh,Gahanna,OH,USA,,NULL,3432
+glstrt.nj,Gloucester City,NJ,USA,,NULL,3433
+gnspoh,Green Springs,OH,USA,,NULL,3434
+grvwoh,Grandview,OH,USA,,NULL,3435
+gylr.mi,Gaylord,MI,USA,,NULL,3436
+hamlhe.mn,Ham Lake,MN,USA,,NULL,3437
+hamntn.nj,Hammonton,NJ,USA,,NULL,3438
+hnfrhe.ca,Hanford,CA,USA,,NULL,3439
+hom.a.k,Homer,AK,USA,,NULL,3440
+hpknmn,Hopkins,MN,USA,,NULL,3441
+huntsv.al,Huntsville,AL,USA,,NULL,3442
+hyatsv.md,Hyattsville,MD,USA,,NULL,3443
+jcsnms,Jackson,MS,USA,,NULL,3444
+jnu.a.k,Juneau,AK,USA,,NULL,3445
+kentoh,Kent,OH,USA,,NULL,3446
+lebnon.pa,Lebanon,PA,USA,,NULL,3447
+lndnnh,Londonderry,NH,USA,,NULL,3448
+lxtnky,Lexington,KY,USA,,NULL,3449
+madisonhts.mi,Madison Heights,MI,USA,,NULL,3450
+md.wstmstr,Westminster,MD,USA,,NULL,3451
+me.buxton,Buxton,ME,USA,,NULL,3452
+milw.wi,Milwaukee,WI,USA,,NULL,3453
+mlvind.mi,Melvindale,MI,USA,,NULL,3454
+mnhwkn.nj,Manahawkin,NJ,USA,,NULL,3455
+mountn.nm,Mountainair,NM,USA,,NULL,3456
+nc.greensbo,Greensboro,NC,USA,,NULL,3457
+newhav.mi,New Haven,MI,USA,,NULL,3458
+newhaven.mi,New Haven,MI,USA,,NULL,3459
+nftmyr.fl,North Fort Myers,FL,USA,,NULL,3460
+oh.garfield,Garfield Heights,OH,USA,,NULL,3461
+oxfdoh,Oxford,OH,USA,,NULL,3462
+pa.gettysbu,Gettysburg,PA,USA,,NULL,3463
+pa.steclge,State College,PA,USA,,NULL,3464
+philadephia.pa,Philadelphia,PA,USA,,NULL,3465
+phrrtx,Pharr,TX,USA,,NULL,3466
+plnfld.nj,Plainfield,NJ,USA,,NULL,3467
+pnblar,Pine Bluff,AR,USA,,NULL,3468
+pntiac.mi,Pontiac,MI,USA,,NULL,3469
+royaloak.mi,Royal Oak,MI,USA,,NULL,3470
+sbtnvt,South Burlington,VT,USA,,NULL,3471
+shptla,Shreveport,LA,USA,,NULL,3472
+slc.ut,Salt Lake City,UT,USA,,NULL,3473
+sol.a.k,Soldotna,AK,USA,,NULL,3474
+spedwy.in,Speedway,IN,USA,,NULL,3475
+state.mo,*,MO,USA,,NULL,3476
+state.ms,*,MS,USA,,NULL,3477
+state.nc,*,NC,USA,,NULL,3478
+sxflsd,Sioux Falls,SD,USA,,NULL,3479
+tld-oh,Toledo,OH,USA,,NULL,3480
+tn.knoxvill,Knoxville,TN,USA,,NULL,3481
+tn.nashvill,Nashville,TN,USA,,NULL,3482
+trhtin,Terre Haute,IN,USA,,NULL,3483
+trnrsv.nj,Turnersville,NJ,USA,,NULL,3484
+tusthe.ca,Tustin,CA,USA,,NULL,3485
+va.chrvlle,Charlottesville,VA,USA,,NULL,3486
+va.purceville,Purcellville,VA,USA,,NULL,3487
+va.spotsy,Spotsylvania Courthouse,VA,USA,,NULL,3488
+watrfd.mi,Waterford,MI,USA,,NULL,3489
+wchstr.pa,West Chester,PA,USA,,NULL,3490
+wilog.pa,Willow Grove,PA,USA,,NULL,3491
+wobnma,Woburn,MA,USA,,NULL,3492
+xniaoh,Xenia,OH,USA,,NULL,3493
+ynkrny,Yonkers,NY,USA,,NULL,3494
+yorkne,York,NE,USA,,NULL,3495
+patra.gr,Patras,,Greece,,NULL,3496
+csbay.or,Coos Bay,OR,USA,,NULL,3497
+ritchieroad.md,Ritchie,MD,USA,,NULL,3498
+kiel.de,Kiel,,Germany,,NULL,3499
+minnhe.mn,Minneapolis,MN,USA,,NULL,3500
+per.au,Perth,,Australia,,NULL,3501
+manchesteruk,Manchester,,United Kingdom,,NULL,3502
+brest.fr,Brest,,France,,NULL,3503
+nvl-tn,Nashville,TN,USA,,NULL,3504
+moitas.br,Moita Bonita,,Brazil,,NULL,3505
+palt.pt.cox,Palo Alto,CA,USA,,NULL,3506
+hls,Helsinki,,Finland,,NULL,3507
+achn.de,Aachen,,Germany,,NULL,3508
+egn,Eugene,OR,USA,,NULL,3509
+eug,Eugene,OR,USA,,NULL,3510
+catonv.md,Catonsville,MD,USA,,NULL,3511
+sanfranciso,San Francisco,CA,USA,,NULL,3512
+be.lambdanet,*,,Belgium,,NULL,3513
+de.lambdanet,*,,Germany,,NULL,3514
+es.lambdanet,*,,Spain,,NULL,3515
+fr.lambdanet,*,,France,,NULL,3516
+nl.lambdanet,*,,Netherlands,,NULL,3517
+uk.lambdanet,*,,United Kingdom,,NULL,3518
+us.lambdanet,*,*,USA,kludge similar to us.nordu,NULL,3519
+arad.ro,Arad,,Romania,,NULL,3520
+chrstn.pa,Christiana,PA,USA,,NULL,3521
+westln.mi,Westland,MI,USA,,NULL,3522
+arneysmount.nj,Arneys Mount,NJ,USA,,NULL,3523
+arnysm.nj,Arneys Mount,NJ,USA,,NULL,3524
+miamhe.fl,Miami,FL,USA,,NULL,3525
+bay.mi,Bay City,MI,USA,,NULL,3526
+mnpl,Minneapolis,MN,USA,,NULL,3527
+eqsjca,San Jose,CA,USA,,NULL,3528
+atlang,Atlanta,GA,USA,,NULL,3529
+uk.ilf,Ilford,,United Kingdom,,NULL,3530
+nntr.fr,Nanterre,,France,,NULL,3531
+nntr.de,Nanterre,,France,,NULL,3532
+eqlaca,Los Angeles,CA,USA,,NULL,3533
+kst,Stockholm,,Sweden,Kista is in Stockholm per hogberg_daniel@hotmail.com,NULL,3534
+tal,Tallinn,,Estonia,per hogberg_daniel@hotmail.com but also checked,NULL,3535
+oer.se,Orebro,,Sweden,,NULL,3536
+sv.se,Sundsvall,,Sweden,,NULL,3537
+hy.se,Hammarby,,Sweden,,NULL,3538
+hdn.se,Huddinge,,Sweden,contradicts message which says this is handen,NULL,3539
+adm,Amsterdam,,Netherlands,appears to be Telia specific,NULL,3540
+brest,Brest,,France,,NULL,3541
+ensch.nl,Enschede,,Netherlands,,NULL,3542
+ltn,London,,United Kingdom,Luton airport,NULL,3543
+uk.eal,Ealing,,United Kingdom,,NULL,3544
+es.bar,Barcelona,,Spain,,NULL,3545
+alb.qwest,Albuquerque,NM,USA,,NULL,3546
+wellington.nz,Wellington,,New Zealand,,NULL,3547
+acld.nz,Auckland,,New Zealand,,NULL,3548
+ala,Alma-Ata,NULL,Kazakstan,NULL,NULL,3549
+ftldfl,Fort Lauderdale,FL,USA,,NULL,3550
+slvn.mo,Sullivan,MO,USA,,NULL,3551
+sanfranciscosfo,San Francisco,CA,USA,,NULL,3552
+btnr.br.cox,Baton Rouge,LA,USA,,NULL,3553
+ks.se,Karlstad,,Sweden,,NULL,3554
+prv.ri,Providence,RI,USA,,NULL,3555
+mtonil,Mattoon,IL,USA,,NULL,3556
+frs.ca,Fresno,CA,USA,,NULL,3557
+blq,Bologna,,Italy,,NULL,3558
+cwt,Dublin,,Ireland,based on many cases but still not sure why,NULL,3559
+pari,Paris,,France,,NULL,3560
+spfdil,Springfield,IL,USA,,NULL,3561
+sacremento,Sacramento,CA,USA,,NULL,3562
+orleans,Orleans,,France,,NULL,3563
+ypwest.mi,Ypsilanti,MI,USA,assume Ypsilanti West,NULL,3564
+caen,Caen,,France,,NULL,3565
+dec.al,Decatur,AL,USA,,NULL,3566
+oro-fl,Orlando,FL,USA,,NULL,3567
+bfn,Bloemfontein,,South Africa,,NULL,3568
+gnve.ch,Geneva,,Switzerland,,NULL,3569
+wstnhe.fl,Weston,FL,USA,,NULL,3570
+gbe,Gaborone,,Botswana,,NULL,3571
+svl.se,Sundsvall,,Sweden,,NULL,3572
+stclairco.mi,St. Clair Shores,MI,USA,,NULL,3573
+wlg.au,Wellington,,New Zealand,Aussie ISP connecting to NZ,NULL,3574
+ca.crlsca,Carlsbad,CA,USA,,NULL,3575
+ploiesti.ro,Ploiesti,,Romania,,NULL,3576
+yogya.id,Yogyakarta,,Indonesia,,NULL,3577
+peterborough.ca,Peterborough,ON,Canada,,NULL,3578
+clvshe.ca,Clovis,CA,USA,,NULL,3579
+ypeast.mi,Ypsilanti,MI,USA,assume Ypsilanti East,NULL,3580
+stg.de,Stuttgart,,Germany,,NULL,3581
+bhrmal,Birmingham,AL,USA,,NULL,3582
+angers,Angers,,France,,NULL,3583
+avignon,Avignon,,France,,NULL,3584
+klippan.se,Klippan,,Sweden,,NULL,3585
+pa.bethlprk,Bethel Park,PA,USA,,NULL,3586
+cos,Colorado Springs,CO,USA,,NULL,3587
+slatina.ro,Slatina,,Romania,,NULL,3588
+helsinki.ru,Helsinki,,Finland,crossover to Russia,NULL,3589
+eastwindsor.nj,East Windsor,NJ,USA,,NULL,3590
+gavle.se,Gavle,,Sweden,,NULL,3591
+glg.au,Geelong,,Australia,,NULL,3592
+wybnsk.ca,Weyburn,SK,Canada,,NULL,3593
+dbsch.nl,Den Bosch,,Netherlands,courtesy edwinvandeburgt@yahoo.com,NULL,3594
+mill.nl,Mill,NULL,Netherlands,courtesy edwinvandeburgt@yahoo.com (+ revision),NULL,3595
+hkhnkn,Hong Kong,,China,,NULL,3596
+vrs,Versailles,,France,,NULL,3597
+nkp.se,Norrkoping,,Sweden,,NULL,3598
+denco,Denver,CO,USA,,NULL,3599
+atlga,Atlanta,GA,USA,,NULL,3600
+daltx,Dallas,TX,USA,,NULL,3601
+zwoll.nl,Zwolle,,Netherlands,,NULL,3602
+assen.nl,Assen,,Netherlands,,NULL,3603
+chs,Charleston,SC,USA,,NULL,3604
+tashkent,Tashkent,,Uzbekistan,,NULL,3605
+fi.hel,Helsinki,,Finland,,NULL,3606
+blu.wv,Bluefield,WV,USA,,NULL,3607
+eko.nv,Elko,NV,USA,,NULL,3608
+elk.ca,Elk Grove,CA,USA,,NULL,3609
+fod.ia,Fort Dodge,IA,USA,,NULL,3610
+ago.wi,Antigo,WI,USA,,NULL,3611
+brk.mi,Berkley,MI,USA,,NULL,3612
+brv.mn,Burnsville,MN,USA,,NULL,3613
+cha.wv,Charleston,WV,USA,,NULL,3614
+cly.wv,Clay,WV,USA,,NULL,3615
+cnb.mn,Canby,MN,USA,,NULL,3616
+kgm.az,Kingman,AZ,USA,,NULL,3617
+lkv.mn,Lakeville,MN,USA,,NULL,3618
+mdl.ny,Middletown,NY,USA,,NULL,3619
+pin.az,Pinetop-Lakeside,AZ,USA,,NULL,3620
+roc.ny,Rochester,NY,USA,,NULL,3621
+vir.wi,Viroqua,WI,USA,,NULL,3622
+gain.at.cox,Gainesville,FL,USA,,NULL,3623
+jcvlfl,Jacksonville,FL,USA,,NULL,3624
+cmbrma,Cambridge,MA,USA,,NULL,3625
+sttnwa,Seattle,WA,USA,,NULL,3626
+7acres.ar,Little Rock,AR,USA,based on IP trace,NULL,3627
+pltnca,Pleasanton,CA,USA,,NULL,3628
+ore.se,Orebro,,Sweden,,NULL,3629
+koln.de,Koeln,,Germany,,NULL,3630
+tmp,Tempe,AZ,USA,,NULL,3631
+edm,Edmonton,AB,Canada,,NULL,3632
+nycmnyzlce,New York,NY,USA,,NULL,3633
+riyad,Riyadh,,Saudi Arabia,,NULL,3634
+br.cox,Baton Rouge,LA,USA,,NULL,3635
+sanantonio.tx,San Antonio,TX,USA,,NULL,3636
+lmdaca,La Mirada,CA,USA,,NULL,3637
+targumures.ro,Targu-Mures,,Romania,,NULL,3638
+frankfurtfrx,Frankfurt,,Germany,,NULL,3639
+buf.ny,Buffalo,NY,USA,,NULL,3640
+wallingford.pa,Wallingford,PA,USA,,NULL,3641
+walngs.pa,Wallingford,PA,USA,,NULL,3642
+orsay.fr,Orsay,,France,,NULL,3643
+ks.cox,Kansas City,MO,USA,,NULL,3644
+sto.uk,Stockport,,United Kingdom,,NULL,3645
+sl.mo,St. Louis,MO,USA,,NULL,3646
+rockvillenor.md,Rockville,MD,USA,,NULL,3647
+lvgs,Las Vegas,NV,USA,,NULL,3648
+charlebourg,Charlebourg,,France,,NULL,3649
+losangelesequinix,Los Angeles,CA,USA,,NULL,3650
+smrctx,San Marcos,TX,USA,,NULL,3651
+cnm,Carlsbad,NM,USA,,NULL,3652
+lu.geant,*,,Luxembourg,,NULL,3653
+cdif,Cardiff,,Wales,,NULL,3654
+cpe.vt,*,VT,USA,guessing cpe is some sort of unspecified location,NULL,3655
+mlu,*,,Monaco,based on nearby cities in traceroute,NULL,3656
+zuh,Zurich,,Switzerland,based on nearby cities in traceroute,NULL,3657
+montsouris.fr,Montsour,,France,,NULL,3663
+gfd,Guildford,,United Kingdom,,NULL,3659
+glfd,Guildford,,United Kingdom,,NULL,3660
+rou.fr,Rouen,,France,,NULL,3661
+lee,Leeds,,United Kingdom,,NULL,3662
+hsd.wa,*,WA,USA,,NULL,3664
+milxwi,Milwaukee,WI,USA,,NULL,3665
+bratislava.sk,Bratislava,,Slovakia,,NULL,3666
+zilina.sk,Zilina,,Slovakia,,NULL,3667
+usatln,Atlanta,GA,USA,,NULL,3668
+usnwrk,Newark,NJ,USA,,NULL,3669
+uswash,Washington,DC,USA,,NULL,3670
+aldl.mi,Allendale,MI,USA,,NULL,3671
+mnc.uk,Manchester,,United Kingdom,,NULL,3672
+lpl.uk,Liverpool,,United Kingdom,,NULL,3673
+roch.mn,Rochester,MN,USA,,NULL,3674
+rlghnc,Raleigh,NC,USA,,NULL,3675
+bagu,Manchester,,United Kingdom,bagu is short for Baguley a place in Manchester,NULL,3676
+hsd.or,*,OR,USA,,NULL,3677
+fortworthda,Fort Worth,TX,USA,,NULL,3678
+narlington.nj,North Arlington,NJ,USA,,NULL,3679
+jerseycity.nj,Jersey City,NJ,USA,,NULL,3680
+lasvegas.nv,Las Vegas,NV,USA,,NULL,3681
+ny.ca,New York,NY,USA,,NULL,3682
+mt.ca,Montreal,,Canada,,NULL,3683
+nwst.lv.cox,Las Vegas,NV,USA,,NULL,3684
+rkhl.ri.cox,Rocky Hill,CT,USA,,NULL,3685
+bebru,Brussels,,Belgium,,NULL,3686
+uklon,London,,United Kingdom,,NULL,3687
+las.nv.us,Las Vegas,NV,USA,,NULL,3688
+kttroh,Kettering,OH,USA,,NULL,3689
+pt.cox,Palo Alto,CA,USA,,NULL,3690
+monrla,Monroe,LA,USA,,NULL,3691
+chrlnc,Charlotte,NC,USA,,NULL,3692
+rochesterhlls.mi,Rochester Hills,MI,USA,,NULL,3693
+auburnhills.mi,Auburn Hills,MI,USA,,NULL,3694
+sterlinghub.mi,Sterling,MI,USA,,NULL,3695
+warsawa,Warsaw,,Poland,,NULL,3696
+stls.mo,St. Louis,MO,USA,,NULL,3697
+sof,Sofia,,Bulgaria,,NULL,3698
+hsd.mn,*,MN,USA,,NULL,3699
+mrfd.dc.cox,Washington,DC,USA,,NULL,3700
+leic,Leicester,,United Kingdom,,NULL,3701
+nth,Nottingham,,United Kingdom,,NULL,3702
+cpi,Copenhagen,,Denmark,,NULL,3703
+skt,Stockholm,,Sweden,despite odd spelling based on map,NULL,3704
+bpt,Budapest,,Hungary,,NULL,3705
+boscawen.nh,Boscawen,NH,USA,,NULL,3706
+hsd.nh,*,NH,USA,,NULL,3707
+duke.at.cox,Durham,NC,USA,Duke University,NULL,3708
+itmiln,Milan,,Italy,,NULL,3709
+hsd.ca,*,CA,USA,,NULL,3710
+ora.ro,Oradea,,Romania,,NULL,3711
+rndhnj,Randolph,NJ,USA,,NULL,3712
+toulon.fr,Toulon,NULL,France,manually while codelog nonfunctional due to ssh errors,NULL,3713
+burl,Burlington,VT,USA,,NULL,3714
+wnskvt,Winooski,VT,USA,,NULL,3715
+brbovt,Brattleboro,VT,USA,,NULL,3716
+nyny,New York,NY,USA,,NULL,3717
+eqnwnj,Newark,NJ,USA,,NULL,3718
+nwk,Newark,NJ,USA,,NULL,3719
+mtka,Minnetonka,MN,USA,,NULL,3720
+albny,Albany,NY,USA,,NULL,3721
+chat,Chatham,,United Kingdom,,NULL,3722
+stjoseph.mo,St. Joseph,MO,USA,,NULL,3723
+rcmva,Richmond,VA,USA,,NULL,3724
