@@ -1,0 +1,9 @@
+flfrd.ca,Fulford Harbour,BC,Canada
+huberlin,Berlin,,Germany
+sngw.mi,Saginaw,MI,USA
+slip.it,blank,,Italy
+id.coeurdalene,Couer dAlene,ID,USA
+columb.ga,Columbus city,GA,USA
+win,Winchester,,United Kingdom
+braislava.sk,Bratislava,,Slovakia
+lsvgnv,Las Vegas,NV,USA
