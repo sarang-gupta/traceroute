@@ -8,12 +8,12 @@ Sarangworld Traceroute Project when it was still alive:
   - cidrloc.csv: A CSV of IP address locations. Most fields are
   self-explanatory, but:
 
-    - startnum and endnum are the integer values of the startip and endip
+    * startnum and endnum are the integer values of the startip and endip
 
-    - the file uses the string "NULL" to represent empty or null
+    * the file uses the string "NULL" to represent empty or null
     values, which is technically incorrect
 
-    - the whois_record field exists, but is unused (always "NULL")
+    * the whois_record field exists, but is unused (always "NULL")
 
   - codecity.csv: CSV file that converts from codes to city
   names (however, see the note for "usplaces.csv and
