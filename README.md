@@ -1,15 +1,11 @@
 Although I am no longer actively supporting the Sarangworld Traceroute
 Project, this git repo provides information that may be useful to
-others interested in geolocation. The files in this directory (see
-also the README.md in hosts/):
+others interested in geolocation.
 
-  - codecity.txt.bz2: CSV file that converts from codes to city
-  names. This is *probably* the most recent version I have, but will
-  update if I find a more recent version. Most fields are
-  self-explanatory: things like "20021225.164639" in the comments
-  field indicate the time (in yyyymmdd.hhmmss format, US Mountain
-  Time) at which I added the code/city translation (not sure how
-  useful that is, though)
+If you're looking for the old patterns, codes, and data, please see
+the data/ subdirectory.
+
+The files in this directory (see also the README.md in hosts/ and data/):
 
   - most-needed.pl: Perl script that counts the TLDs, 2nd level
   domains, 3rd level domains, etc of all hosts in hosts/hostnames.txt,
