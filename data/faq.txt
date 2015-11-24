@@ -1,0 +1,336 @@
+<!-- test format of FAQ -->
+
+S: General Questions
+
+Q: What is the Sarangworld Traceroute Project?
+
+A: The Sarangworld Traceroute Project is an attempt to map the path between
+Internet-connected machines to geographic locations
+
+Q: How does it work?
+
+A: As a first step, the program will perform a traceroute from a public
+traceroute server to any given hostname. By default, the traceroute is
+performed from a randomly chosen traceroute server to your IP address, but
+this can be changed. After the traceroute is performed, each hostname is
+matched against a <a href="patterns.php3">list of patterns</a> to see if it
+matches a known pattern. If it does match a known pattern, a "code" value
+is extracted and this code is then <a href="showdb-2.php3">converted to a
+city, state, country location</a>. Finally, using a database of city
+latitudes and longitudes, the location of the hostname is mapped.
+
+Q: Why don't you use the WHOIS record? Why is this better than the IP to
+Latitude/Longitude program?
+
+A: The <a href="/extlink.php3?http://cello.cs.uiuc.edu/cgi-bin/slamm/ip2ll">IP to
+Latitude/Longitude program</a> use the WHOIS record of a hostname to
+determine location. The WHOIS record yields the location of the
+administrative office for the organization/person that owns that
+domain. For local ISPs and many others, the WHOIS record provides an
+accurate location. However, for large ISPs (such as alter.net), the WHOIS
+record is necessarily sometimes inaccurate, because Earthlink has
+routers/machines all over the country. For example, the WHOIS record for
+alter.net shows they are in Falls Church, VA. However, the machines
+"132.ATM3-0.XR2.SEA1.ALTER.NET", "198.ATM7-0.XR2.BOS1.ALTER.NET", and
+"110.ATM7-0.TR2.NYC1.ALTER.NET" are clearly in Seattle, Boston, and New
+York respectively.<p>
+
+Q: If the WHOIS record is accurate for 90% of all domains, why bother with
+pattern matching and code conversion?
+
+A: The 90-10 rule applies here. Roughly speaking, 90% of the Internet's
+traffic is carried by 10% of all domains (actually, it's probably more like
+99.99%-00.01%, since there are millions of domains and only a few dozen
+major ISPs). So, while the WHOIS record might be accurate for 90% of all
+domains, the domains its <b>inaccurate</b> for are actually far more
+important. You'll notice that in most traceroutes, the same top-level
+domains (alter.net, earthlink.net and its subsidiaries, verio.net,
+flash.net, etc) show up over and over again. All of these companies have
+country-wide and sometimes worldwide prescense, so a single WHOIS location
+could never be accurate for them.
+
+Q: Why traceroute to a given host instead of just converting that host
+directly to a location?
+
+A: Converting a single host to a location is actually harder than using
+traceroute to find the location. As an example, if you're dialing up from a
+local ISP, your IP address maybe "dialup-17.somelocalisp.net". Unless that
+local ISP is in my list of patterns (which it's usually not), there's no
+way to convert that address to a location. On the other hand, if a
+traceroute to your IP address shows the penultimate step as
+"dca0.iad3.verio.net", it's pretty easy to see that machine is in
+Washington DC (both DCA and IAD are airport codes for airports in
+Washington DC). Verio.net is included in my list of patterns because it's a
+major provider. From this, I can guess you're in Washington DC as
+well. This isn't always accurate, but it's more accurate than trying to
+convert just your IP address with no additional information.
+
+Q: What about DNS LOC (RFC 1876)?
+
+A: <a href="/extlink.php3?http://www.ckdhr.com/dns-loc/">DNS-LOC</a> is an addition to
+the DNS protocol that lets machines provide their physical location
+(latitude and longitude) as part of the DNS record. If and when it becomes
+widely supported, there will no longer be a need for my project. However,
+at the moment, few machines support this protocol.
+
+Q: Why not use top-level country codes (like .uk) to determine the location
+of a machine?
+
+A: Actaully, country codes are no longer a good indication of the physical
+location of a machine in many cases. As an example, <a
+href="/extlink.php3?http://www.register.com/">Register.Com</a> allows people worldwide to
+register domains with country codes .uk (United Kingdom), .ro (Romania),
+.ms (Montserrat), .il (Israel), .sh (St. Helena), .gs (South Georgia), .vg
+(British Virgin Islands), .nz (New Zealand), .fm (Micronesia), .to (Tonga),
+.tf, .as (American Samoa), .dk (Denmark), .lt (Lithuania), .kz
+(Kazakhstan), .tc (Turks & Cairn Islands), .md (Moldova), .ly (Libya), .ac
+(Ascension Island), .za (South Africa), .ky (Cayman Islands), and .ws
+(Samoa), without regard to where the machines hosting these domains will be
+located.
+
+Q: Is pattern-matching and code conversion the best way to find the
+locations of Internet-connected machines?
+
+A: Probably not -- I originally started the project when I noticed several
+machine names had "obvious" cities embedded in them. I tried to find a
+quick and dirty way to convert these machine names to locations, and this
+is what I came up with. The method I use turns out to be remarkably
+easy-to-use (for example "DFW" means Dallas, Texas, USA, regardless of
+which ISP uses it-- so I don't need a seperate set of entries for each
+ISP), but is probably non-optimal in other ways. I'd be interested in
+hearing about other ways to do this.
+
+Q: Whose traceroute servers do you use?
+
+A: I use publically available traceroute servers only. I started with
+the <b>Boardwatch Traceroute Server Index</b> (no longer available
+online), and omitted those servers that were down or would only
+traceroute to a specific IP address. I also omitted those servers that
+didn't support the ISINDEX/GET protocol. Currently, my program only
+supports traceroute servers that can be accessed using a URL followed
+by a question mark followed by a hostname/IP address. In other words,
+"http://some.server.net/somepathname.ext?TARGET_HOST_OR_IP".
+
+Q: What if I don't want my server listed?
+
+A: As a gesture of goodwill, I sent an email to all traceroute server
+administrators to let them know I was including their server on my list. If
+you would prefer not to be part of this project, please send me an email.
+
+Q: What sorts of traceroute servers do you support?
+
+A: Currently, only those traceroute servers supporting the ISINDEX/GET
+protocol are supported. I access "SERVER_URL?TARGET_HOST_OR_IP" to perform
+the traceroute.
+
+Q: Are there any other (online or offline) programs that map machines
+to geographical locations?
+
+A: There are several. Martin Dodge maintains an excellent list at <a
+href="http://www.cybergeography.org/atlas/routes.html">http://www.cybergeography.org/atlas/routes.html</a>.
+
+S: Code Questions
+
+Q: Where can I see a list of codes you use?
+
+A: <a href="showdb-2.php3">Right here</a>.
+
+Q: What does the code [START] mean?
+
+A: This is a dummy code used to indicate the point where the traceroute
+starts. Since I already know the locations of the traceroute servers
+themselves, the first location displayed/mapped is taken directly from the
+location of the traceroute server and not from the code.
+
+Q: Why are the codes in the code database biased towards the United States?
+
+A: This project started out as an attempt to map Internet hosts in the
+United States only. Now that it's been expanded, I hope to add more
+international codes as well.
+
+Q: Isn't it possible for two different ISPs to use a single code to mean
+different things?
+
+A: Yes. This isn't a problem for codes like "LAX" which almost universally
+will mean Los Angeles, CA, USA, but a code like "POR" might mean Portland,
+OR, USA for one ISP and Portland, ME, USA for another-- and these two
+Portlands are 3000+ miles apart. I haven't run into this situation so far,
+but, if I do, I'll alter the list of patterns to separate these cases (eg,
+"POR" found in an alter.net host could be recodified as "POR.alter.net" and
+"POR" found in a local-maine.net host could be recofidied as
+"POR.local-maine.net", so the two codes would no longer be the same)
+
+S: Map Questions
+
+Q: How is the map created?
+
+A: The blank map of the United States is a static image which I originally
+downloaded from the <a href="/extlink.php3?http://tiger.census.gov/">U.S. Census Bureau
+TIGER mapping service</a>. The city dots and names are then added using a
+libgd-extension to PHP3.
+
+Q: Why isn't the map in GIF format?
+
+A: The map is in PNG (portable network graphics) format, because our
+version of PHP3 doesn't have GIF support installed for copyright
+reasons. I support open-source software, and prefer using PNG
+anyway. If you can't view PNG files, click on the checkbox marked "Use
+JPEG format?" to see the map in JPEG format. Because JPEGs aren't as
+good for line drawing (such as maps), the map appears a bit fuzzier in
+JPEG mode.
+
+Q: Why do the city names sometimes overlap on the map?
+
+A: The placement of city names is done in a very simplistic manner-- the
+city name is place to the "southeast" of the dot representing the city. If
+two cities are nearby, their names will overlap (it might be possible to
+work around this, but I haven't explored this). This problem is especially
+prevelant near the East and West Coast, since the US East Coast has several
+large cities packed together tightly, and both the East and West coast have
+major hubs of Internet activity -- Mae-West in San Jose, California and
+Mae-East in Washington, DC.
+
+Q: Why does the map sometimes show lines leading to/from nowhere?
+
+A: Since the map only represents the US, locations outside the US are not
+displayed. However, lines leading TO/FROM those locations ARE still
+displayed. So, the lines leading to/from nowhere are actually going to/from
+locations that aren't displayed on the map.
+
+Q: (OBSOLETE) Why does the map only show locations in the United States?
+
+A: I originally started the project to map Internet machines in the United
+States. Since then, I've decided to expand the project to be worldwide, but
+I haven't had a chance to update the map. Using a world map for each and
+every traceroute probably isn't a good idea (especially considering how
+scrunched together some cities are already), so I'm trying to find a good
+compromise.
+
+Q: What is the projection for the maps?
+
+A: The world map is projected rectangularly, so each degree of
+latitude and longitude takes up exactly the same number of pixels
+(4.444 pixels/degree to be specific). The US map is projected
+elliptically, which looks better when mapping smaller areas. I
+considered projecting the world map elliptically as well, but it
+didn't look as good.
+
+Q: Why do the maps draw inaccurate "shortest path" lines?
+
+A: The shortest distance between two points on Earth (remaining on or
+above the surface of the planet) is a "great circle", which is not a
+straight line on either elliptical or rectangular projections. This is
+less noticeable on the US map (since it's a smaller area), but can be
+quite noticeable on the world map. In particular, if you fly from
+Albuquerque, NM to Tokyo, Japan, you fly northwest in real life, but,
+on the map, Tokyo appears far to the east of Albuquerque. Similarly,
+Australia is actually west of California, not east as the map shows.
+
+Q: What is the status of the world map?
+
+A: The world map is in experimental/beta status. I realize that it's
+uglier than the US map, and that it shows the whole world even when
+the traceroute is limited to only a small portion of the world. It
+would be neat to have a world map drawn dynamically that only shows
+the extent of the traceroute, but I haven't gotten that working yet.
+
+Q: How is the world map created?
+
+A: I downloaded a static image of the world from the <a
+href="http://mapweb.parc.xerox.com/">XEROX PARC MapWeb Server</a>. The
+city names are added the same as for the US map.
+
+S: Technical Questions
+
+Q: Where can I see a list of the patterns you use?
+
+A: <a href="patterns.php3">Right here</a>.
+
+S: How Can I Help?
+
+Q: How can I help?
+
+A: There are several ways you can help: <ul>
+
+<li>If you're tracerouting to yourself, the last location listed in the
+table and on the map should be your city. If it's not, let me know which
+city the traceroute server put you at versus which city you're actually in.
+
+<li>If you've created a public traceroute server on your machine
+(especially if you live in an area not already covered) or if you know of
+additional traceroute servers supporting the ISINDEX/GET protocol, I would
+love to add them to my list. If you're interested in creating a traceroute
+server, let me know and I might be able to help out. Traceroute servers can
+be created in Perl, PHP3, or even Bourne-shell language. Because a public
+traceroute server might place a heavy load on your machine, please be sure
+to get your system administrator's permission before proceeding.
+
+<li>If you can tell me how to convert a major ISPs hostnames to
+geographical locations (either because you work for a major ISP or have
+observed a pattern), this information would be very useful.
+
+<li>If you run across an unresolved code when doing a traceroute, and know
+how to resolve that code, please let me know.
+
+<li>If you run across an unresolved pattern ("NA" for "Matched Pattern")
+for a major ISP, let me know. However, if you see an "NA" for "Matched
+Pattern" for a small local ISP, please ignore it.
+
+<li>If you see any errors in the list of code conversions (or anywhere
+else), let me know.
+
+</ul>
+
+Q: Should I give you the physical location of my machines?
+
+A: If you work for an ISP that carries traffic to many locations
+countrywide or worldwide, then yes please! On the other hand, if you work
+for a small ISP with all machines in one city, this information wouldn't be
+as useful to me-- in this case, most likely, all of your traffic comes
+through a major ISP router and it would be the location/translation of the
+major ISP router that I would want.
+
+S: Miscellaneous Questions
+
+Q: What are your feelings on privacy issues related to this program?
+
+A: I'm a strong advocate of privacy and anonymity. I realize not everyone
+wants to announce their physical location. At one point, I even asked
+flash.net to change their machine names so as not to reveal the physical
+locations of their dialup users (they never answered my query). I believe
+this project is interesting because it automatically translates the
+information already provided by ISPs, but it's not invasive and doesn't
+seek to extract additional information. If it came to a choice between
+continuing this project or convincing ISPs to stop providing location
+information on their users, I would choose the latter.
+
+Q: What if my question isn't answered here?
+
+A: Please contact me via email and I'll see what I can do.
+
+Q: According to the pull-down menu, Sarangworld is located in Ogden,
+UT, USA. Do you live in Ogden?
+
+A: No, I live in Albuquerque, NM, USA. However, my Internet provider
+(webpipe.net) is located in Ogden.
+
+S: Errors
+
+Q: When using the program, I sometimes see a listing under code, but
+there's no city/state/country/latitude/longitude listed?
+
+A: The pattern-matching will sometimes end up extracting a code for which
+the code database doesn't have a translation (a "bogus code"). Whenever
+this happens, I'm alerted by email and will try to find a code-to-city
+conversion. If you see this happening and know of a code conversion, please
+send me an email to let me know.
+
+Q: When using the program, I sometimes get weird errors.
+
+A: The Internet works very well, but not perfectly-- sometimes servers are
+slow or down, and the program will be unable to perform a traceroute. The
+best strategy is to try again later. However, if you run into a problem
+that can be repeated consistently, let me know about it.
+
+
+

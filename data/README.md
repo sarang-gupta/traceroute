@@ -28,6 +28,10 @@ Sarangworld Traceroute Project when it was still alive:
   - usplaces.csv and worldplaces.csv: CSV versions of tables used to
   convert city names to latitude and longitude
 
+  - faq.txt: Text version of the FAQ that once appeared on the
+  Sarangworld Traceroute Project site. It is no longer necessarily
+  accurate.
+
   - missing-codes.txt: A handful of codes that should be in
   codecity.csv, but aren't. Since I am reproducing existing files, I
   didn't want to add them manually, especially since there may be a
