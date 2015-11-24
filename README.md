@@ -5,6 +5,8 @@ others interested in geolocation.
 If you're looking for the old patterns, codes, and data, please see
 the data/ subdirectory.
 
+If you're looking for raw data, please see the hosts/ subdirectory.
+
 The files in this directory (see also the README.md in hosts/ and data/):
 
   - most-needed.pl: Perl script that counts the TLDs, 2nd level
