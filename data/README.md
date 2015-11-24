@@ -32,7 +32,7 @@ Sarangworld Traceroute Project when it was still alive:
   significant additional matching. For example, this entry in
   usplaces.csv:
 
-Corpus Christi,TX,277454,27.742857,-97.401927,US CENSUS 2000,21570
+<pre>Corpus Christi,TX,277454,27.742857,-97.401927,US CENSUS 2000,21570</pre>
 
 means that the code "corpus.christi.tx" would be matched, even though
 it doesn't appear in codecity.csv. Even "corpus-christi.tx" would be
@@ -57,7 +57,7 @@ LOWER(state)||'.'||LOWER(REPLACE(city,' ','-'))) IN ($codes)
 where $codes is a variable representing the list of codes to query,
 for example:
 
-$codes = ('alb.nm', 'brhmal', 'nsvltn');
+<pre>$codes = ('alb.nm', 'brhmal', 'nsvltn');</pre>
 
 (I haven't released the source code, but $codes is defined within my
 traceroute script)
