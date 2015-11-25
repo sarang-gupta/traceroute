@@ -1,3 +1,4 @@
+# You are probably looking for data/patterns.txt and not this file
 # These patterns are written against the reversed hostname
 net\.[alter|level3]\.(.*?)\d*\.
 net\.sprintlink\.sl\.[bb|gw]\d\d\-(.*?)\-
