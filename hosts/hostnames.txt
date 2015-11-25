@@ -8212,6 +8212,7 @@
 216-188-226-128.dyn.grandenetworks.net
 216-19-202-68.getnet.net
 216-19-221-2.getnet.net
+216-19-223-119.getnet.net
 216-190-089-104.dslnorthwest.net
 216-194-30-46.ny.ny.metconnect.net
 216-195-64-1.cncndc.net
@@ -35249,6 +35250,7 @@ border1.lsa.nyc.transedge.com
 border1.lsa.ord.transedge.com
 border1.lsa.phx.transedge.com
 border1.nisa.net
+border1.nwk.vastnet.net
 border1.nyc.datapipe.net
 border1.pc0-0-bbnet1.sje.pnap.net
 border1.pc1-bbnet1.wdc002.pnap.net
@@ -41824,6 +41826,7 @@ core02-pikes-eth0-2.net.pocketinet.com
 core02-sea.net.pocketinet.com
 core02.chc-il.icg.net
 core02.dai-tx.icg.net
+core02.everynet.ch
 core02.sji-ca.icg.net
 core02.wae-dc.icg.net
 core03-ge-3-2.lax02.us.xeex.net
@@ -44098,6 +44101,7 @@ csc01-gw.pipex.net
 csc0g02brb.net.cuhk.edu.hk
 csc0g02prb.net.cuhk.edu.hk
 csc0g04vsh.net.cuhk.edu.hk
+csc1-f20-funet-maint1-a.funet.fi
 csc1-g01-csc4.funet.fi
 csc12002-gig3-1.lsan.mdsg-pacwest.com
 csc2-g11390-csc4.funet.fi
@@ -44110,10 +44114,13 @@ csc3-g1000-csc4
 csc3.saitama.mbn.or.jp
 csc3550-PrimaryBorder.net.lsu.edu
 csc4-g0000-helsinki0.funet.fi
+csc4-g0100-funet-maint-a.funet.fi
+csc4-g0100-funet-maint1-a.funet.fi
 csc4-g0100-info1
 csc4-g1200-csc1
 csc4-g1200-csc1.funet.fi
 csc4-g51-funet-info
+csc4-g51-funet-info.funet.fi
 csc4-g55-funet6
 csc4-g63-info1
 csc4-g63-info1.funet.fi
@@ -45515,6 +45522,7 @@ dago.dnvr.twtelecom.net
 daguerre-2-82-66-34-35.fbx.proxad.net
 daguerre-2.dslg.proxad.net
 daiba.is.nttdocomo.co.jp
+daisy.getnet.net
 daisy.netlab.ohio-state.edu
 daisy.psp.pas.earthlink.net
 dal-2-aus-1.tx.net
@@ -48978,6 +48986,7 @@ dragon.iem.ac.ru
 dragonfireracing.com
 dragonnet-cust-sh.globalcompass.com
 dragonnet-cust.globalcompass.com
+drahtlos.han.de
 draupnir.rhnet.is
 drb-bsr1.chi-drb.il.cable.rcn.net
 drc1-gw.monash.edu.au
@@ -53228,6 +53237,7 @@ fe0-0.wsr02-stge-pth.comindico.com.au
 fe0-0.wsr06-kent-syd.comindico.com.au
 fe0-0.xdsl01.islandssimi.is
 fe0-0.xdsl07.islandssimi.is
+fe0-0r0.ffm1.de.carpe.net
 fe0-1-0-100M.ar2.SYD1.gblx.net
 fe0-1-0-3.br0.ixfra.de.easynet.net
 fe0-1-0-r1-MSK-NIK.cwrussia.ru
@@ -56085,6 +56095,7 @@ gate.icpe.ro
 gate.kanon.ac
 gate.norden1.com
 gate.xgenus.com
+gate0-eth0.pacwan.net
 gate1-sandiego.nmci.navy.mil
 gate1.ispgateway.de
 gate1.mc2.net
@@ -56237,6 +56248,7 @@ gateway1.cluster4.leeds.access.planet.net.uk
 gateway1.colo2.io.nl
 gateway1.compass.net.nz
 gateway1.comscape.net
+gateway1.io.nl
 gateway2-atm1-2-329-sm22str2.sm.ptd.net
 gateway2-atm2-0-315-pal22pal.pal.ptd.net
 gateway2-atm2-0-317-pal22sm.pal.ptd.net
@@ -57274,6 +57286,7 @@ ge-0-3-0.br1.thlon.uk.easynet.net
 ge-0-3-0.br3.gaus.no.catchbone.net
 ge-0-3-0.core1.mtl1.mtotelecom.net
 ge-0-3-0.cr1.iad1.nlayer.net
+ge-0-3-0.juniper-1.sc-network.nl
 ge-0-3-0.laxeq-cr1.ix.singtel.com
 ge-0-3-0.m10rbnl.amsix.nkf.proserve.nl
 ge-0-3-0.mpls1.Tokyo1.Level3.net
@@ -57289,6 +57302,7 @@ ge-0-3-0.r02.chcgil06.us.bb.verio.net
 ge-0-3-0.se-mlmms001-pe-1.utfors.net
 ge-0-3-0.xr1.pbw.xs4all.net
 ge-0-3-0.xr1.s340.xs4all.net
+ge-0-3-2.juniper-1.sc-network.nl
 ge-0-3-89.denver.wehostwebsites.com
 ge-0-3.wbar100.LosAngeles1.Level3.net
 ge-0.amazon.asbnva01.us.bb.verio.net
@@ -61798,6 +61812,8 @@ gip-maew-us-ix-1-s5-0-0.gip.net
 gip-oakh-us-bar-1-fe0-0-0-3.gip.net
 gip-oakh-us-bar-1-fe0-0-0.gip.net
 gip-oakh-us-bar-1-fe1-0-1.gip.net
+gip-oakh-us-bar-2-fe0-0-0-3-1.gip.net
+gip-oakh-us-bar-2-fe0-0-0-3.gip.net
 gip-oakh-us-bar-2-fe0-0-0.gip.net
 gip-oakh-us-bar-2-fe0-0-1-1.gip.net
 gip-oakh-us-bar-2-fe0-0-1.gip.net
@@ -62049,6 +62065,7 @@ gomess.asahi-net.or.jp
 gomez.adams.edu
 goobot.thebunker.net
 good.joss.com
+goodbye.top.net.ua
 goofy.infim.ro
 google-1.GW.opentransit.net
 google-104718-ash-bb1.c.telia.net
@@ -62962,6 +62979,7 @@ gw11.telekom.de
 gw12k-ibgp.uk2net.com
 gw15-fddi-12-0.usuhs.mil
 gw16.dada.it
+gw193-60.top.net.ua
 gw1cslcora.n.ulaval.ca
 gw1cslcora250.ulaval.ca
 gw1csldkna-c2.n.ulaval.ca
@@ -66340,6 +66358,7 @@ hspr.dallas.tx.ce.us.psi.net
 hspr.new-york.ny.ne.us.psi.net
 hspr7.new-york.ny.ne.us.psi.net
 hsrp-1-vl34.zoomtown.com
+hsrp-194-183-128-003.TELE.NET
 hssb-bln.unm.edu
 hssi-0-0-0.reno.bfp.net
 hssi-0-1-0.jkt.cbn.net.id
@@ -69103,6 +69122,7 @@ io.on.net.mk
 io.uwinnipeg.ca
 ioc-cruella.com
 ioc7206-rr1-13-fe2-0.rtr.interpath.net
+iocom-pnet-FA0-0.iocomcorp.net
 iocom-pnet-FA1-0.iocomcorp.net
 iocom-pnet-H2-0-DS3.iocomcorp.net
 ion-bb10-kc-5-0.sprintion.net
@@ -74981,6 +75001,7 @@ mail.stift-schlaegl.at
 mail.stmmc.org
 mail.stockconsultant.com
 mail.sur.com.pe
+mail.svr.vastnet.net
 mail.swep.net
 mail.swmca.org
 mail.tatoskins.com
@@ -76664,6 +76685,7 @@ modispro-gw.customer.alter.net
 modp-gw.norlight.net
 moe-S2-0.pcisys.net
 moe.optics.rochester.edu
+moe7513.moe.edu.tw
 mof-inet.inter.net.th
 moh-c83.nile-online.net
 moh.nile-online.net
@@ -78529,6 +78551,7 @@ neto-gw.customer.alter.net
 neto-ishe-1.resot.net
 neto.univali.br
 netone-2.netone.com.tr
+netopia.han.de
 netops.Telcom.Arizona.EDU
 netpathway-gw.jxn.netdoor.net
 netplus1.sierre.cablecom.net
@@ -86802,6 +86825,7 @@ pm2.ovis.net
 pm2.tcg.penn.com
 pm232.hansel.kua.net
 pm27-kensington-ds3-1.his.net
+pm28-fe00.his.net
 pm29.gj.net
 pm2port47.tcg.pcidu.com
 pm3-02-29.jnw.du.teleport.com
@@ -113219,6 +113243,7 @@ tlgw9.ym.phub.net.cable.rogers.com
 tlh7507.tlh.hcs.net
 tli-erx2.hel.kolumbus.net
 tln-akad-sw1.starman.ee
+tln-bb-gw1-fe-0-0.tele2.ee
 tln-bb-gw2-fe-0-0.tele2.ee
 tln-lasna-ubr1.starman.ee
 tlp1-atm1-1-0.toledo.oar.net
@@ -117986,6 +118011,8 @@ vlan400.msfc2.glsfb.time.net.my
 vlan4004.l3-core-1.mck.net.belpak.by
 vlan4014.rt3.core-backbone.com
 vlan405.aggr.ewr.datapipe.net
+vlan405.aggr1.ewr.datapipe.net
+vlan405.dist1-1.ewr.datapipe.net
 vlan41-csr01.core.internet.gr
 vlan42.sw01.syd.iprimus.net.au
 vlan44.edge1.ash1.ntwk.msn.net
