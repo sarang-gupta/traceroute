@@ -1,3 +1,5 @@
+# patterns *ARE* case-sensitive and the order *DOES* matter (only the
+# first match counts)
 # As of 10/26/2002, lines starting with hashmark are comments
 # Begin special cases
 # "ham" means Hamburg, Germany to everyone but alter.net (Hamilton, Canada)
